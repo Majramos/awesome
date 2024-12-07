@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [miscellaneous](#miscellaneous)
 *   [awesome-list](#awesome-list)
 *   [hacktoberfest](#hacktoberfest)
 *   [yeoman-generator](#yeoman-generator)
@@ -34,7 +35,6 @@
 *   [data-visualization](#data-visualization)
 *   [diagram-generator](#diagram-generator)
 *   [sankey-diagram](#sankey-diagram)
-*   [miscellaneous](#miscellaneous)
 *   [dot-language](#dot-language)
 *   [fiddle](#fiddle)
 *   [graphviz](#graphviz)
@@ -846,6 +846,55 @@
 *   [fourier-transform](#fourier-transform)
 *   [seasonality-analysis](#seasonality-analysis)
 
+## miscellaneous
+
+*   [readeck/readeck](https://github.com/readeck/readeck) -
+*   [lewish/asciiflow](https://github.com/lewish/asciiflow) - ASCIIFlow
+*   [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
+*   [madmalik/mononoki](https://github.com/madmalik/mononoki) - a programming typeface
+*   [scottrogowski/code2flow](https://github.com/scottrogowski/code2flow) - Pretty good call graphs for dynamic languages
+*   [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) - Smart PVR for newsgroup and bittorrent users.
+*   [Idered/chalk.ist](https://github.com/Idered/chalk.ist) - 📷 Create beautiful images of your source code
+*   [ustroetz/python-osrm](https://github.com/ustroetz/python-osrm) - A Python wrapper around the OSRM API
+*   [python-validators/validators](https://github.com/python-validators/validators) - Python Data Validation for Humans™.
+*   [krassowski/jupyterlab-lsp](https://github.com/krassowski/jupyterlab-lsp) - Coding assistance for JupyterLab (code navigation + hover suggestions + linters + autocompletion + rename) using Language Server Protocol
+*   [python-lsp/python-lsp-server](https://github.com/python-lsp/python-lsp-server) - Fork of the python-language-server project, maintained by the Spyder IDE team and the community
+*   [Majramos/py-jupyter-devenv](https://github.com/Majramos/py-jupyter-devenv) - Setup a python development environment using containers, with jupyter lab included
+*   [Majramos/deep-learning-training](https://github.com/Majramos/deep-learning-training) -
+*   [Majramos/conky](https://github.com/Majramos/conky) - my conky build for VivoBook\_ASUS X580GD\_N580GD
+*   [Majramos/holidays-pt](https://github.com/Majramos/holidays-pt) - Module to calculate the portuguese holidays date
+*   [Majramos/aboutme](https://github.com/Majramos/aboutme) - Page about me
+*   [dremio-hub/arrow-flight-client-examples](https://github.com/dremio-hub/arrow-flight-client-examples) -
+*   [Majramos/notebook](https://github.com/Majramos/notebook) - My notebooks about python programming and data science
+*   [byrnereese/mkdocs-minify-plugin](https://github.com/byrnereese/mkdocs-minify-plugin) - A mkdocs plugin to minify the HTML of a page before it is written to disk.
+*   [cloudera/impyla](https://github.com/cloudera/impyla) - Python DB API 2.0 client for Impala and Hive (HiveServer2 protocol)
+*   [asweigart/pyperclip](https://github.com/asweigart/pyperclip) - Python module for cross-platform clipboard functions.
+*   [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
+*   [alievk/avatarify-python](https://github.com/alievk/avatarify-python) - Avatars for Zoom, Skype and other video-conferencing apps.
+*   [jsvine/markovify](https://github.com/jsvine/markovify) - A simple, extensible Markov chain generator.
+*   [konkor/cpufreq](https://github.com/konkor/cpufreq) - System Monitor and Power Manager
+*   [linrunner/TLP](https://github.com/linrunner/TLP) - TLP - Optimize Linux Laptop Battery Life
+*   [ChrisTitusTech/win10script](https://github.com/ChrisTitusTech/win10script) - This is the Ultimate Windows 10 Script from a creation from multiple debloat scripts and gists from github.
+*   [django-compressor/django-compressor](https://github.com/django-compressor/django-compressor) - Compresses linked and inline javascript or CSS into a single cached file.
+*   [evansd/whitenoise](https://github.com/evansd/whitenoise) - Radically simplified static file serving for Python web apps
+*   [agiliq/django-admin-cookbook](https://github.com/agiliq/django-admin-cookbook) -
+*   [sehmaschine/django-grappelli](https://github.com/sehmaschine/django-grappelli) - A jazzy skin for the Django Admin-Interface (official repository).
+*   [gintas/django-picklefield](https://github.com/gintas/django-picklefield) - A pickled object field for Django
+*   [django-commons/django-debug-toolbar](https://github.com/django-commons/django-debug-toolbar) - A configurable set of panels that display various debug information about the current request/response.
+*   [highfestiva/finplot](https://github.com/highfestiva/finplot) - Performant and effortless finance plotting for Python
+*   [pydata/numexpr](https://github.com/pydata/numexpr) - Fast numerical array expression evaluator for Python, NumPy, Pandas, PyTables and more
+*   [clicumu/pyDOE2](https://github.com/clicumu/pyDOE2) - Design of experiments for Python
+*   [vinceliuice/Tela-icon-theme](https://github.com/vinceliuice/Tela-icon-theme) - A flat colorful Design icon theme
+*   [MicrosoftLearning/PL-200-Power-Platform-Functional-Consultant](https://github.com/MicrosoftLearning/PL-200-Power-Platform-Functional-Consultant) - PL-200 Power Platform Functional Consultant
+*   [JulienPalard/Pipe](https://github.com/JulienPalard/Pipe) - A Python library to use infix notation in Python
+*   [minrk/nbextension-scratchpad](https://github.com/minrk/nbextension-scratchpad) - scratchpad extension for Jupyter notebook
+*   [daviddrysdale/python-phonenumbers](https://github.com/daviddrysdale/python-phonenumbers) - Python port of Google's libphonenumber
+*   [odino/interviews](https://github.com/odino/interviews) - Random questions to ask during interviews.
+*   [puyuan/py-nanoid](https://github.com/puyuan/py-nanoid) - Python Nanoid
+*   [pypa/setuptools](https://github.com/pypa/setuptools) - Official project repository for the Setuptools build system
+*   [quantopian/pyfolio](https://github.com/quantopian/pyfolio) - Portfolio and risk analytics in Python
+*   [CoreyMSchafer/code\_snippets](https://github.com/CoreyMSchafer/code_snippets) -
+
 ## awesome-list
 
 *   [dar5hak/generator-awesome-list](https://github.com/dar5hak/generator-awesome-list) - :sunglasses: Yeoman generator for GitHub awesome lists
@@ -1014,54 +1063,6 @@
 ## sankey-diagram
 
 *   [nowthis/sankeymatic](https://github.com/nowthis/sankeymatic) - Make Beautiful Flow Diagrams
-
-## miscellaneous
-
-*   [lewish/asciiflow](https://github.com/lewish/asciiflow) - ASCIIFlow
-*   [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
-*   [madmalik/mononoki](https://github.com/madmalik/mononoki) - a programming typeface
-*   [scottrogowski/code2flow](https://github.com/scottrogowski/code2flow) - Pretty good call graphs for dynamic languages
-*   [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) - Smart PVR for newsgroup and bittorrent users.
-*   [Idered/chalk.ist](https://github.com/Idered/chalk.ist) - 📷 Create beautiful images of your source code
-*   [ustroetz/python-osrm](https://github.com/ustroetz/python-osrm) - A Python wrapper around the OSRM API
-*   [python-validators/validators](https://github.com/python-validators/validators) - Python Data Validation for Humans™.
-*   [krassowski/jupyterlab-lsp](https://github.com/krassowski/jupyterlab-lsp) - Coding assistance for JupyterLab (code navigation + hover suggestions + linters + autocompletion + rename) using Language Server Protocol
-*   [python-lsp/python-lsp-server](https://github.com/python-lsp/python-lsp-server) - Fork of the python-language-server project, maintained by the Spyder IDE team and the community
-*   [Majramos/py-jupyter-devenv](https://github.com/Majramos/py-jupyter-devenv) - Setup a python development environment using containers, with jupyter lab included
-*   [Majramos/deep-learning-training](https://github.com/Majramos/deep-learning-training) -
-*   [Majramos/conky](https://github.com/Majramos/conky) - my conky build for VivoBook\_ASUS X580GD\_N580GD
-*   [Majramos/holidays-pt](https://github.com/Majramos/holidays-pt) - Module to calculate the portuguese holidays date
-*   [Majramos/aboutme](https://github.com/Majramos/aboutme) - Page about me
-*   [dremio-hub/arrow-flight-client-examples](https://github.com/dremio-hub/arrow-flight-client-examples) -
-*   [Majramos/notebook](https://github.com/Majramos/notebook) - My notebooks about python programming and data science
-*   [byrnereese/mkdocs-minify-plugin](https://github.com/byrnereese/mkdocs-minify-plugin) - A mkdocs plugin to minify the HTML of a page before it is written to disk.
-*   [cloudera/impyla](https://github.com/cloudera/impyla) - Python DB API 2.0 client for Impala and Hive (HiveServer2 protocol)
-*   [asweigart/pyperclip](https://github.com/asweigart/pyperclip) - Python module for cross-platform clipboard functions.
-*   [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
-*   [alievk/avatarify-python](https://github.com/alievk/avatarify-python) - Avatars for Zoom, Skype and other video-conferencing apps.
-*   [jsvine/markovify](https://github.com/jsvine/markovify) - A simple, extensible Markov chain generator.
-*   [konkor/cpufreq](https://github.com/konkor/cpufreq) - System Monitor and Power Manager
-*   [linrunner/TLP](https://github.com/linrunner/TLP) - TLP - Optimize Linux Laptop Battery Life
-*   [ChrisTitusTech/win10script](https://github.com/ChrisTitusTech/win10script) - This is the Ultimate Windows 10 Script from a creation from multiple debloat scripts and gists from github.
-*   [django-compressor/django-compressor](https://github.com/django-compressor/django-compressor) - Compresses linked and inline javascript or CSS into a single cached file.
-*   [evansd/whitenoise](https://github.com/evansd/whitenoise) - Radically simplified static file serving for Python web apps
-*   [agiliq/django-admin-cookbook](https://github.com/agiliq/django-admin-cookbook) -
-*   [sehmaschine/django-grappelli](https://github.com/sehmaschine/django-grappelli) - A jazzy skin for the Django Admin-Interface (official repository).
-*   [gintas/django-picklefield](https://github.com/gintas/django-picklefield) - A pickled object field for Django
-*   [django-commons/django-debug-toolbar](https://github.com/django-commons/django-debug-toolbar) - A configurable set of panels that display various debug information about the current request/response.
-*   [highfestiva/finplot](https://github.com/highfestiva/finplot) - Performant and effortless finance plotting for Python
-*   [pydata/numexpr](https://github.com/pydata/numexpr) - Fast numerical array expression evaluator for Python, NumPy, Pandas, PyTables and more
-*   [clicumu/pyDOE2](https://github.com/clicumu/pyDOE2) - Design of experiments for Python
-*   [vinceliuice/Tela-icon-theme](https://github.com/vinceliuice/Tela-icon-theme) - A flat colorful Design icon theme
-*   [MicrosoftLearning/PL-200-Power-Platform-Functional-Consultant](https://github.com/MicrosoftLearning/PL-200-Power-Platform-Functional-Consultant) - PL-200 Power Platform Functional Consultant
-*   [JulienPalard/Pipe](https://github.com/JulienPalard/Pipe) - A Python library to use infix notation in Python
-*   [minrk/nbextension-scratchpad](https://github.com/minrk/nbextension-scratchpad) - scratchpad extension for Jupyter notebook
-*   [daviddrysdale/python-phonenumbers](https://github.com/daviddrysdale/python-phonenumbers) - Python port of Google's libphonenumber
-*   [odino/interviews](https://github.com/odino/interviews) - Random questions to ask during interviews.
-*   [puyuan/py-nanoid](https://github.com/puyuan/py-nanoid) - Python Nanoid
-*   [pypa/setuptools](https://github.com/pypa/setuptools) - Official project repository for the Setuptools build system
-*   [quantopian/pyfolio](https://github.com/quantopian/pyfolio) - Portfolio and risk analytics in Python
-*   [CoreyMSchafer/code\_snippets](https://github.com/CoreyMSchafer/code_snippets) -
 
 ## dot-language
 
@@ -1312,7 +1313,6 @@
 *   [alkaline-ml/pmdarima](https://github.com/alkaline-ml/pmdarima) - A statistical library designed to fill the void in Python's time series analysis capabilities, including the equivalent of R's auto.arima function.
 *   [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 *   [Joseph94m/MCMC](https://github.com/Joseph94m/MCMC) - Implementation of Markov Chain Monte Carlo in Python from scratch
-*   [unit8co/darts](https://github.com/unit8co/darts) - A python library for user-friendly forecasting and anomaly detection on time series.
 
 ## ocr
 
@@ -2169,7 +2169,6 @@
 *   [TA-Lib/ta-lib-python](https://github.com/TA-Lib/ta-lib-python) - Python wrapper for TA-Lib (http://ta-lib.org/).
 *   [shakedzy/dython](https://github.com/shakedzy/dython) - A set of data tools in Python
 *   [Kommandat/seasonality-fourier-analysis](https://github.com/Kommandat/seasonality-fourier-analysis) - Analyzing seasonality with Fourier transforms
-*   [unit8co/darts](https://github.com/unit8co/darts) - A python library for user-friendly forecasting and anomaly detection on time series.
 
 ## search
 
@@ -3066,7 +3065,6 @@
 *   [rapidsai/cudf](https://github.com/rapidsai/cudf) - cuDF - GPU DataFrame Library
 *   [gee-community/geemap](https://github.com/gee-community/geemap) - A Python package for interactive geospatial analysis and visualization with Google Earth Engine.
 *   [opengeos/leafmap](https://github.com/opengeos/leafmap) - A Python package for interactive mapping and geospatial analysis with minimal coding in a Jupyter environment
-*   [unit8co/darts](https://github.com/unit8co/darts) - A python library for user-friendly forecasting and anomaly detection on time series.
 
 ## financial-data
 
@@ -3677,7 +3675,6 @@
 *   [yzhao062/pyod](https://github.com/yzhao062/pyod) - A Python Library for Outlier and Anomaly Detection, Integrating Classical and Deep Learning Techniques
 *   [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
 *   [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
-*   [unit8co/darts](https://github.com/unit8co/darts) - A python library for user-friendly forecasting and anomaly detection on time series.
 
 ## deployment
 
@@ -3760,7 +3757,6 @@
 ## anomaly-detection
 
 *   [yzhao062/pyod](https://github.com/yzhao062/pyod) - A Python Library for Outlier and Anomaly Detection, Integrating Classical and Deep Learning Techniques
-*   [unit8co/darts](https://github.com/unit8co/darts) - A python library for user-friendly forecasting and anomaly detection on time series.
 
 ## autoencoder
 
@@ -4302,7 +4298,6 @@
 
 *   [alkaline-ml/pmdarima](https://github.com/alkaline-ml/pmdarima) - A statistical library designed to fill the void in Python's time series analysis capabilities, including the equivalent of R's auto.arima function.
 *   [bashtage/arch](https://github.com/bashtage/arch) - ARCH models in Python
-*   [unit8co/darts](https://github.com/unit8co/darts) - A python library for user-friendly forecasting and anomaly detection on time series.
 
 ## forecasting-models
 
@@ -4320,7 +4315,6 @@
 
 *   [alkaline-ml/pmdarima](https://github.com/alkaline-ml/pmdarima) - A statistical library designed to fill the void in Python's time series analysis capabilities, including the equivalent of R's auto.arima function.
 *   [bashtage/arch](https://github.com/bashtage/arch) - ARCH models in Python
-*   [unit8co/darts](https://github.com/unit8co/darts) - A python library for user-friendly forecasting and anomaly detection on time series.
 
 ## android
 

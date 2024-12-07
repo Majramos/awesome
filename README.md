@@ -4,13 +4,13 @@
 
 ## Table of Contents
 
+*   [miscellaneous](#miscellaneous)
 *   [JavaScript](#javascript)
 *   [Dart](#dart)
 *   [TypeScript](#typescript)
 *   [Go](#go)
 *   [PHP](#php)
 *   [HTML](#html)
-*   [miscellaneous](#miscellaneous)
 *   [CSS](#css)
 *   [C++](#c)
 *   [C](#c-1)
@@ -30,6 +30,25 @@
 *   [PowerShell](#powershell)
 *   [Batchfile](#batchfile)
 *   [Cython](#cython)
+
+## miscellaneous
+
+*   [readeck/readeck](https://github.com/readeck/readeck) -
+*   [luisaveiro/docker-reverse-proxy](https://github.com/luisaveiro/docker-reverse-proxy) - Local reverse proxy for Docker containers powered by Caddy.
+*   [portainer/portainer-compose](https://github.com/portainer/portainer-compose) - Compose setup for Portainer
+*   [madmalik/mononoki](https://github.com/madmalik/mononoki) - a programming typeface
+*   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+*   [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
+*   [searxng/searxng-docker](https://github.com/searxng/searxng-docker) - The docker-compose files for setting up a SearXNG instance with docker.
+*   [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻
+*   [Majramos/Majramos](https://github.com/Majramos/Majramos) - Config files for my GitHub profile.
+*   [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
+*   [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
+*   [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
+*   [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
+*   [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+*   [NoriSte/ui-testing-best-practices](https://github.com/NoriSte/ui-testing-best-practices) - The largest UI testing best practices list (last update: March 2023)
+*   [odino/interviews](https://github.com/odino/interviews) - Random questions to ask during interviews.
 
 ## JavaScript
 
@@ -96,24 +115,6 @@
 *   [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 *   [WestHealth/pyvis](https://github.com/WestHealth/pyvis) - Python package for creating and visualizing interactive network graphs.
 *   [sehmaschine/django-grappelli](https://github.com/sehmaschine/django-grappelli) - A jazzy skin for the Django Admin-Interface (official repository).
-
-## miscellaneous
-
-*   [luisaveiro/docker-reverse-proxy](https://github.com/luisaveiro/docker-reverse-proxy) - Local reverse proxy for Docker containers powered by Caddy.
-*   [portainer/portainer-compose](https://github.com/portainer/portainer-compose) - Compose setup for Portainer
-*   [madmalik/mononoki](https://github.com/madmalik/mononoki) - a programming typeface
-*   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
-*   [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
-*   [searxng/searxng-docker](https://github.com/searxng/searxng-docker) - The docker-compose files for setting up a SearXNG instance with docker.
-*   [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻
-*   [Majramos/Majramos](https://github.com/Majramos/Majramos) - Config files for my GitHub profile.
-*   [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
-*   [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
-*   [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
-*   [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
-*   [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-*   [NoriSte/ui-testing-best-practices](https://github.com/NoriSte/ui-testing-best-practices) - The largest UI testing best practices list (last update: March 2023)
-*   [odino/interviews](https://github.com/odino/interviews) - Random questions to ask during interviews.
 
 ## CSS
 
@@ -229,7 +230,6 @@
 *   [opengeos/leafmap](https://github.com/opengeos/leafmap) - A Python package for interactive mapping and geospatial analysis with minimal coding in a Jupyter environment
 *   [shakedzy/dython](https://github.com/shakedzy/dython) - A set of data tools in Python
 *   [bashtage/arch](https://github.com/bashtage/arch) - ARCH models in Python
-*   [unit8co/darts](https://github.com/unit8co/darts) - A python library for user-friendly forecasting and anomaly detection on time series.
 
 ## Ruby
 
