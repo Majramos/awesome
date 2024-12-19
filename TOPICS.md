@@ -4,13 +4,38 @@
 
 ## Table of Contents
 
+*   [miscellaneous](#miscellaneous)
+*   [ergomechkeyboards](#ergomechkeyboards)
+*   [keyboard](#keyboard)
+*   [pcb](#pcb)
+*   [bias-detection](#bias-detection)
+*   [calibration](#calibration)
+*   [machine-learning](#machine-learning)
+*   [performance-metrics](#performance-metrics)
+*   [python](#python)
+*   [ergonomic-keyboard](#ergonomic-keyboard)
+*   [hardware](#hardware)
+*   [keyboards](#keyboards)
+*   [mechanical-keyboard](#mechanical-keyboard)
+*   [split-keyboard](#split-keyboard)
+*   [comparing-layouts](#comparing-layouts)
+*   [keyboard-layouts](#keyboard-layouts)
+*   [rstats](#rstats)
+*   [shiny](#shiny)
+*   [split-keyboards](#split-keyboards)
+*   [changelog](#changelog)
+*   [git](#git)
+*   [history](#history)
+*   [markdown](#markdown)
+*   [release](#release)
+*   [tag](#tag)
+*   [versioning](#versioning)
 *   [best-practices](#best-practices)
 *   [documentation](#documentation)
 *   [hacktoberfest](#hacktoberfest)
 *   [open-source](#open-source)
 *   [oss](#oss)
 *   [tutorial](#tutorial)
-*   [miscellaneous](#miscellaneous)
 *   [monkeytype](#monkeytype)
 *   [typingtest](#typingtest)
 *   [complex-networks](#complex-networks)
@@ -30,7 +55,6 @@
 *   [information-retrieval](#information-retrieval)
 *   [linear-algebra](#linear-algebra)
 *   [llm](#llm)
-*   [machine-learning](#machine-learning)
 *   [nearest-neighbors](#nearest-neighbors)
 *   [neighborhood-methods](#neighborhood-methods)
 *   [primitives](#primitives)
@@ -43,7 +67,6 @@
 *   [vector-store](#vector-store)
 *   [similarity-search](#similarity-search)
 *   [geoarrow](#geoarrow)
-*   [python](#python)
 *   [apache-arrow](#apache-arrow)
 *   [geospatial](#geospatial)
 *   [crossfilter](#crossfilter)
@@ -52,7 +75,6 @@
 *   [machine-learning-algorithms](#machine-learning-algorithms)
 *   [end-user-programming](#end-user-programming)
 *   [knowledge-management](#knowledge-management)
-*   [markdown](#markdown)
 *   [note-taking](#note-taking)
 *   [personal-knowledge-management](#personal-knowledge-management)
 *   [document-management](#document-management)
@@ -798,40 +820,221 @@
 *   [roadmap](#roadmap)
 *   [software-architect-roadmap](#software-architect-roadmap)
 *   [vue-roadmap](#vue-roadmap)
-*   [algorithm-interview](#algorithm-interview)
-*   [algorithm-interview-questions](#algorithm-interview-questions)
-*   [behavioral-interviews](#behavioral-interviews)
-*   [system-design](#system-design)
-*   [cache](#cache)
-*   [dynamodb](#dynamodb)
-*   [http](#http)
-*   [mongodb](#mongodb)
-*   [performance](#performance)
-*   [requests](#requests)
-*   [webscraping](#webscraping)
-*   [arima](#arima)
-*   [econometrics](#econometrics)
-*   [forecasting](#forecasting)
-*   [forecasting-models](#forecasting-models)
-*   [pmdarima](#pmdarima)
-*   [sarimax](#sarimax)
-*   [time-series](#time-series)
-*   [android](#android)
-*   [audio-processing](#audio-processing)
-*   [calculator](#calculator)
-*   [graph-based](#graph-based)
-*   [inference](#inference)
-*   [mediapipe](#mediapipe)
-*   [mobile-development](#mobile-development)
-*   [perception](#perception)
-*   [pipeline-framework](#pipeline-framework)
-*   [stream-processing](#stream-processing)
-*   [video-processing](#video-processing)
-*   [natural-language-processing](#natural-language-processing)
-*   [nlp](#nlp)
-*   [nltk](#nltk)
-*   [pattern](#pattern)
-*   [python-3](#python-3)
+
+## miscellaneous
+
+*   [splitkb/kyria](https://github.com/splitkb/kyria) - Files related to the Kyria keyboard.
+*   [semver/semver](https://github.com/semver/semver) - Semantic Versioning Specification
+*   [rapidsai/cuspatial](https://github.com/rapidsai/cuspatial) - CUDA-accelerated GIS and spatiotemporal algorithms
+*   [rapidsai/kvikio](https://github.com/rapidsai/kvikio) - KvikIO - High Performance File IO
+*   [readeck/readeck](https://github.com/readeck/readeck) -
+*   [lewish/asciiflow](https://github.com/lewish/asciiflow) - ASCIIFlow
+*   [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
+*   [madmalik/mononoki](https://github.com/madmalik/mononoki) - a programming typeface
+*   [scottrogowski/code2flow](https://github.com/scottrogowski/code2flow) - Pretty good call graphs for dynamic languages
+*   [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) - Smart PVR for newsgroup and bittorrent users.
+*   [Idered/chalk.ist](https://github.com/Idered/chalk.ist) - 📷 Create beautiful images of your source code
+*   [ustroetz/python-osrm](https://github.com/ustroetz/python-osrm) - A Python wrapper around the OSRM API
+*   [python-validators/validators](https://github.com/python-validators/validators) - Python Data Validation for Humans™.
+*   [krassowski/jupyterlab-lsp](https://github.com/krassowski/jupyterlab-lsp) - Coding assistance for JupyterLab (code navigation + hover suggestions + linters + autocompletion + rename) using Language Server Protocol
+*   [python-lsp/python-lsp-server](https://github.com/python-lsp/python-lsp-server) - Fork of the python-language-server project, maintained by the Spyder IDE team and the community
+*   [Majramos/py-jupyter-devenv](https://github.com/Majramos/py-jupyter-devenv) - Setup a python development environment using containers, with jupyter lab included
+*   [Majramos/conky](https://github.com/Majramos/conky) - my conky build for VivoBook\_ASUS X580GD\_N580GD
+*   [Majramos/holidays-pt](https://github.com/Majramos/holidays-pt) - Module to calculate the portuguese holidays date
+*   [Majramos/aboutme](https://github.com/Majramos/aboutme) - Page about me
+*   [dremio-hub/arrow-flight-client-examples](https://github.com/dremio-hub/arrow-flight-client-examples) -
+*   [Majramos/notebook](https://github.com/Majramos/notebook) - My notebooks about python programming and data science
+*   [byrnereese/mkdocs-minify-plugin](https://github.com/byrnereese/mkdocs-minify-plugin) - A mkdocs plugin to minify the HTML of a page before it is written to disk.
+*   [cloudera/impyla](https://github.com/cloudera/impyla) - Python DB API 2.0 client for Impala and Hive (HiveServer2 protocol)
+*   [asweigart/pyperclip](https://github.com/asweigart/pyperclip) - Python module for cross-platform clipboard functions.
+*   [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
+*   [alievk/avatarify-python](https://github.com/alievk/avatarify-python) - Avatars for Zoom, Skype and other video-conferencing apps.
+*   [jsvine/markovify](https://github.com/jsvine/markovify) - A simple, extensible Markov chain generator.
+*   [konkor/cpufreq](https://github.com/konkor/cpufreq) - System Monitor and Power Manager
+*   [linrunner/TLP](https://github.com/linrunner/TLP) - TLP - Optimize Linux Laptop Battery Life
+*   [ChrisTitusTech/win10script](https://github.com/ChrisTitusTech/win10script) - This is the Ultimate Windows 10 Script from a creation from multiple debloat scripts and gists from github.
+*   [django-compressor/django-compressor](https://github.com/django-compressor/django-compressor) - Compresses linked and inline javascript or CSS into a single cached file.
+*   [evansd/whitenoise](https://github.com/evansd/whitenoise) - Radically simplified static file serving for Python web apps
+*   [agiliq/django-admin-cookbook](https://github.com/agiliq/django-admin-cookbook) -
+*   [sehmaschine/django-grappelli](https://github.com/sehmaschine/django-grappelli) - A jazzy skin for the Django Admin-Interface (official repository).
+*   [gintas/django-picklefield](https://github.com/gintas/django-picklefield) - A pickled object field for Django
+*   [django-commons/django-debug-toolbar](https://github.com/django-commons/django-debug-toolbar) - A configurable set of panels that display various debug information about the current request/response.
+*   [highfestiva/finplot](https://github.com/highfestiva/finplot) - Performant and effortless finance plotting for Python
+*   [pydata/numexpr](https://github.com/pydata/numexpr) - Fast numerical array expression evaluator for Python, NumPy, Pandas, PyTables and more
+*   [clicumu/pyDOE2](https://github.com/clicumu/pyDOE2) - Design of experiments for Python
+*   [vinceliuice/Tela-icon-theme](https://github.com/vinceliuice/Tela-icon-theme) - A flat colorful Design icon theme
+*   [MicrosoftLearning/PL-200-Power-Platform-Functional-Consultant](https://github.com/MicrosoftLearning/PL-200-Power-Platform-Functional-Consultant) - PL-200 Power Platform Functional Consultant
+*   [JulienPalard/Pipe](https://github.com/JulienPalard/Pipe) - A Python library to use infix notation in Python
+*   [minrk/nbextension-scratchpad](https://github.com/minrk/nbextension-scratchpad) - scratchpad extension for Jupyter notebook
+*   [daviddrysdale/python-phonenumbers](https://github.com/daviddrysdale/python-phonenumbers) - Python port of Google's libphonenumber
+
+## ergomechkeyboards
+
+*   [tompi/cheapino](https://github.com/tompi/cheapino) - An affordable split 36 keys keyboard
+
+## keyboard
+
+*   [tompi/cheapino](https://github.com/tompi/cheapino) - An affordable split 36 keys keyboard
+
+## pcb
+
+*   [tompi/cheapino](https://github.com/tompi/cheapino) - An affordable split 36 keys keyboard
+
+## bias-detection
+
+*   [lorentzenchr/model-diagnostics](https://github.com/lorentzenchr/model-diagnostics) - Tools for diagnostics and assessment of (machine learning) models
+
+## calibration
+
+*   [lorentzenchr/model-diagnostics](https://github.com/lorentzenchr/model-diagnostics) - Tools for diagnostics and assessment of (machine learning) models
+
+## machine-learning
+
+*   [lorentzenchr/model-diagnostics](https://github.com/lorentzenchr/model-diagnostics) - Tools for diagnostics and assessment of (machine learning) models
+*   [rapidsai/raft](https://github.com/rapidsai/raft) - RAFT contains fundamental widely-used algorithms and primitives for machine learning and information retrieval. The algorithms are CUDA-accelerated and form building blocks for more easily writing high performance applications.
+*   [rapidsai/cuvs](https://github.com/rapidsai/cuvs) - cuVS - a library for vector search and clustering on the GPU
+*   [rapidsai/cuml](https://github.com/rapidsai/cuml) - cuML - RAPIDS Machine Learning Library
+*   [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
+*   [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
+*   [drivendataorg/cookiecutter-data-science](https://github.com/drivendataorg/cookiecutter-data-science) - A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.
+*   [scikit-optimize/scikit-optimize](https://github.com/scikit-optimize/scikit-optimize) - Sequential model-based optimization with a  `scipy.optimize` interface
+*   [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
+*   [yzhao062/pyod](https://github.com/yzhao062/pyod) - A Python Library for Outlier and Anomaly Detection, Integrating Classical and Deep Learning Techniques
+*   [sebp/scikit-survival](https://github.com/sebp/scikit-survival) - Survival analysis built on top of scikit-learn
+*   [kedro-org/kedro](https://github.com/kedro-org/kedro) - Kedro is a toolbox for production-ready data science. It uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable, and modular.
+*   [optuna/optuna](https://github.com/optuna/optuna) - A hyperparameter optimization framework
+*   [lmcinnes/umap](https://github.com/lmcinnes/umap) - Uniform Manifold Approximation and Projection
+
+## performance-metrics
+
+*   [lorentzenchr/model-diagnostics](https://github.com/lorentzenchr/model-diagnostics) - Tools for diagnostics and assessment of (machine learning) models
+
+## python
+
+*   [lorentzenchr/model-diagnostics](https://github.com/lorentzenchr/model-diagnostics) - Tools for diagnostics and assessment of (machine learning) models
+*   [geoarrow/geoarrow-python](https://github.com/geoarrow/geoarrow-python) - Python implementation of the GeoArrow specification
+*   [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
+*   [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
+*   [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
+*   [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
+*   [Majramos/jupyterlab-theme-solarized-dark](https://github.com/Majramos/jupyterlab-theme-solarized-dark) - JupyterLab 3 Solarized Dark extension
+*   [cluster-apps-on-docker/spark-standalone-cluster-on-docker](https://github.com/cluster-apps-on-docker/spark-standalone-cluster-on-docker) - Learn Apache Spark in Scala, Python (PySpark) and R (SparkR) by building your own cluster with a JupyterLab interface on Docker. :zap:
+*   [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
+*   [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
+*   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+*   [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
+*   [ranaroussi/yfinance](https://github.com/ranaroussi/yfinance) - Download market data from Yahoo! Finance's API
+*   [ranaroussi/multitasking](https://github.com/ranaroussi/multitasking) - Non-blocking Python methods using decorators
+*   [beetbox/confuse](https://github.com/beetbox/confuse) - painless YAML config files for Python
+*   [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
+*   [WestHealth/pyvis](https://github.com/WestHealth/pyvis) - Python package for creating and visualizing interactive network graphs.
+*   [sivel/speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net
+*   [pwaller/pyfiglet](https://github.com/pwaller/pyfiglet) - An implementation of figlet written in Python
+*   [jazzband/django-analytical](https://github.com/jazzband/django-analytical) - Analytics services for Django projects
+*   [joke2k/django-environ](https://github.com/joke2k/django-environ) - Django-environ allows you to utilize 12factor inspired environment variables to configure your Django application.
+*   [py-pdf/fpdf2](https://github.com/py-pdf/fpdf2) - Simple PDF generation for Python
+*   [giampaolo/psutil](https://github.com/giampaolo/psutil) - Cross-platform lib for process and system monitoring in Python
+*   [jakevdp/PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks
+*   [scipy/scipy-cookbook](https://github.com/scipy/scipy-cookbook) - Scipy Cookbook
+*   [realpython/python-guide](https://github.com/realpython/python-guide) - Python best practices guidebook, written for humans.
+*   [cupy/cupy](https://github.com/cupy/cupy) - NumPy & SciPy for GPU
+*   [dask/dask](https://github.com/dask/dask) - Parallel computing with task scheduling
+*   [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
+*   [pymc-devs/pymc](https://github.com/pymc-devs/pymc) - Bayesian Modeling and Probabilistic Programming in Python
+*   [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
+*   [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
+*   [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
+*   [docker/docker-py](https://github.com/docker/docker-py) - A Python library for the Docker Engine API
+*   [yzhao062/pyod](https://github.com/yzhao062/pyod) - A Python Library for Outlier and Anomaly Detection, Integrating Classical and Deep Learning Techniques
+*   [spotify/luigi](https://github.com/spotify/luigi) - Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
+*   [sebp/scikit-survival](https://github.com/sebp/scikit-survival) - Survival analysis built on top of scikit-learn
+*   [CamDavidsonPilon/lifelines](https://github.com/CamDavidsonPilon/lifelines) - Survival analysis in Python
+*   [joke2k/faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
+*   [WhyNotHugo/python-barcode](https://github.com/WhyNotHugo/python-barcode) - ㊙️ Create standard barcodes with Python. No external dependencies. 100% Organic Python.
+*   [pypa/pipenv](https://github.com/pypa/pipenv) -  Python Development Workflow for Humans.
+*   [csurfer/pyheat](https://github.com/csurfer/pyheat) - pprofile + matplotlib = Python program profiled as an awesome heatmap!
+*   [yaml/pyyaml](https://github.com/yaml/pyyaml) - Canonical source repository for PyYAML
+*   [bokeh/bokeh](https://github.com/bokeh/bokeh) - Interactive Data Visualization in the browser, from  Python
+*   [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
+*   [kedro-org/kedro](https://github.com/kedro-org/kedro) - Kedro is a toolbox for production-ready data science. It uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable, and modular.
+*   [rapidsai/cudf](https://github.com/rapidsai/cudf) - cuDF - GPU DataFrame Library
+*   [optuna/optuna](https://github.com/optuna/optuna) - A hyperparameter optimization framework
+
+## ergonomic-keyboard
+
+*   [diimdeep/awesome-split-keyboards](https://github.com/diimdeep/awesome-split-keyboards) - A collection of ergonomic split keyboards ⌨
+
+## hardware
+
+*   [diimdeep/awesome-split-keyboards](https://github.com/diimdeep/awesome-split-keyboards) - A collection of ergonomic split keyboards ⌨
+
+## keyboards
+
+*   [diimdeep/awesome-split-keyboards](https://github.com/diimdeep/awesome-split-keyboards) - A collection of ergonomic split keyboards ⌨
+*   [jhelvy/splitKbCompare](https://github.com/jhelvy/splitKbCompare) - An interactive tool for comparing layouts of different split mechanical keyboards
+
+## mechanical-keyboard
+
+*   [diimdeep/awesome-split-keyboards](https://github.com/diimdeep/awesome-split-keyboards) - A collection of ergonomic split keyboards ⌨
+*   [jhelvy/splitKbCompare](https://github.com/jhelvy/splitKbCompare) - An interactive tool for comparing layouts of different split mechanical keyboards
+
+## split-keyboard
+
+*   [diimdeep/awesome-split-keyboards](https://github.com/diimdeep/awesome-split-keyboards) - A collection of ergonomic split keyboards ⌨
+
+## comparing-layouts
+
+*   [jhelvy/splitKbCompare](https://github.com/jhelvy/splitKbCompare) - An interactive tool for comparing layouts of different split mechanical keyboards
+
+## keyboard-layouts
+
+*   [jhelvy/splitKbCompare](https://github.com/jhelvy/splitKbCompare) - An interactive tool for comparing layouts of different split mechanical keyboards
+
+## rstats
+
+*   [jhelvy/splitKbCompare](https://github.com/jhelvy/splitKbCompare) - An interactive tool for comparing layouts of different split mechanical keyboards
+
+## shiny
+
+*   [jhelvy/splitKbCompare](https://github.com/jhelvy/splitKbCompare) - An interactive tool for comparing layouts of different split mechanical keyboards
+
+## split-keyboards
+
+*   [jhelvy/splitKbCompare](https://github.com/jhelvy/splitKbCompare) - An interactive tool for comparing layouts of different split mechanical keyboards
+
+## changelog
+
+*   [olivierlacan/keep-a-changelog](https://github.com/olivierlacan/keep-a-changelog) - If you build software, keep a changelog.
+
+## git
+
+*   [olivierlacan/keep-a-changelog](https://github.com/olivierlacan/keep-a-changelog) - If you build software, keep a changelog.
+
+## history
+
+*   [olivierlacan/keep-a-changelog](https://github.com/olivierlacan/keep-a-changelog) - If you build software, keep a changelog.
+
+## markdown
+
+*   [olivierlacan/keep-a-changelog](https://github.com/olivierlacan/keep-a-changelog) - If you build software, keep a changelog.
+*   [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - The knowledge tinkerer's notebook
+*   [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced \[ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
+*   [BaldissaraMatheus/Tasks.md](https://github.com/BaldissaraMatheus/Tasks.md) - A self-hosted, Markdown file based task management board
+*   [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
+*   [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
+*   [py-pdf/fpdf2](https://github.com/py-pdf/fpdf2) - Simple PDF generation for Python
+
+## release
+
+*   [olivierlacan/keep-a-changelog](https://github.com/olivierlacan/keep-a-changelog) - If you build software, keep a changelog.
+
+## tag
+
+*   [olivierlacan/keep-a-changelog](https://github.com/olivierlacan/keep-a-changelog) - If you build software, keep a changelog.
+
+## versioning
+
+*   [olivierlacan/keep-a-changelog](https://github.com/olivierlacan/keep-a-changelog) - If you build software, keep a changelog.
 
 ## best-practices
 
@@ -889,53 +1092,6 @@
 *   [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 *   [egaga/openvim](https://github.com/egaga/openvim) - Interactive tutorial for Vim.
 
-## miscellaneous
-
-*   [semver/semver](https://github.com/semver/semver) - Semantic Versioning Specification
-*   [rapidsai/cuspatial](https://github.com/rapidsai/cuspatial) - CUDA-accelerated GIS and spatiotemporal algorithms
-*   [rapidsai/kvikio](https://github.com/rapidsai/kvikio) - KvikIO - High Performance File IO
-*   [readeck/readeck](https://github.com/readeck/readeck) -
-*   [lewish/asciiflow](https://github.com/lewish/asciiflow) - ASCIIFlow
-*   [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
-*   [madmalik/mononoki](https://github.com/madmalik/mononoki) - a programming typeface
-*   [scottrogowski/code2flow](https://github.com/scottrogowski/code2flow) - Pretty good call graphs for dynamic languages
-*   [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) - Smart PVR for newsgroup and bittorrent users.
-*   [Idered/chalk.ist](https://github.com/Idered/chalk.ist) - 📷 Create beautiful images of your source code
-*   [ustroetz/python-osrm](https://github.com/ustroetz/python-osrm) - A Python wrapper around the OSRM API
-*   [python-validators/validators](https://github.com/python-validators/validators) - Python Data Validation for Humans™.
-*   [krassowski/jupyterlab-lsp](https://github.com/krassowski/jupyterlab-lsp) - Coding assistance for JupyterLab (code navigation + hover suggestions + linters + autocompletion + rename) using Language Server Protocol
-*   [python-lsp/python-lsp-server](https://github.com/python-lsp/python-lsp-server) - Fork of the python-language-server project, maintained by the Spyder IDE team and the community
-*   [Majramos/py-jupyter-devenv](https://github.com/Majramos/py-jupyter-devenv) - Setup a python development environment using containers, with jupyter lab included
-*   [Majramos/conky](https://github.com/Majramos/conky) - my conky build for VivoBook\_ASUS X580GD\_N580GD
-*   [Majramos/holidays-pt](https://github.com/Majramos/holidays-pt) - Module to calculate the portuguese holidays date
-*   [Majramos/aboutme](https://github.com/Majramos/aboutme) - Page about me
-*   [dremio-hub/arrow-flight-client-examples](https://github.com/dremio-hub/arrow-flight-client-examples) -
-*   [Majramos/notebook](https://github.com/Majramos/notebook) - My notebooks about python programming and data science
-*   [byrnereese/mkdocs-minify-plugin](https://github.com/byrnereese/mkdocs-minify-plugin) - A mkdocs plugin to minify the HTML of a page before it is written to disk.
-*   [cloudera/impyla](https://github.com/cloudera/impyla) - Python DB API 2.0 client for Impala and Hive (HiveServer2 protocol)
-*   [asweigart/pyperclip](https://github.com/asweigart/pyperclip) - Python module for cross-platform clipboard functions.
-*   [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
-*   [alievk/avatarify-python](https://github.com/alievk/avatarify-python) - Avatars for Zoom, Skype and other video-conferencing apps.
-*   [jsvine/markovify](https://github.com/jsvine/markovify) - A simple, extensible Markov chain generator.
-*   [konkor/cpufreq](https://github.com/konkor/cpufreq) - System Monitor and Power Manager
-*   [linrunner/TLP](https://github.com/linrunner/TLP) - TLP - Optimize Linux Laptop Battery Life
-*   [ChrisTitusTech/win10script](https://github.com/ChrisTitusTech/win10script) - This is the Ultimate Windows 10 Script from a creation from multiple debloat scripts and gists from github.
-*   [django-compressor/django-compressor](https://github.com/django-compressor/django-compressor) - Compresses linked and inline javascript or CSS into a single cached file.
-*   [evansd/whitenoise](https://github.com/evansd/whitenoise) - Radically simplified static file serving for Python web apps
-*   [agiliq/django-admin-cookbook](https://github.com/agiliq/django-admin-cookbook) -
-*   [sehmaschine/django-grappelli](https://github.com/sehmaschine/django-grappelli) - A jazzy skin for the Django Admin-Interface (official repository).
-*   [gintas/django-picklefield](https://github.com/gintas/django-picklefield) - A pickled object field for Django
-*   [django-commons/django-debug-toolbar](https://github.com/django-commons/django-debug-toolbar) - A configurable set of panels that display various debug information about the current request/response.
-*   [highfestiva/finplot](https://github.com/highfestiva/finplot) - Performant and effortless finance plotting for Python
-*   [pydata/numexpr](https://github.com/pydata/numexpr) - Fast numerical array expression evaluator for Python, NumPy, Pandas, PyTables and more
-*   [clicumu/pyDOE2](https://github.com/clicumu/pyDOE2) - Design of experiments for Python
-*   [vinceliuice/Tela-icon-theme](https://github.com/vinceliuice/Tela-icon-theme) - A flat colorful Design icon theme
-*   [MicrosoftLearning/PL-200-Power-Platform-Functional-Consultant](https://github.com/MicrosoftLearning/PL-200-Power-Platform-Functional-Consultant) - PL-200 Power Platform Functional Consultant
-*   [JulienPalard/Pipe](https://github.com/JulienPalard/Pipe) - A Python library to use infix notation in Python
-*   [minrk/nbextension-scratchpad](https://github.com/minrk/nbextension-scratchpad) - scratchpad extension for Jupyter notebook
-*   [daviddrysdale/python-phonenumbers](https://github.com/daviddrysdale/python-phonenumbers) - Python port of Google's libphonenumber
-*   [odino/interviews](https://github.com/odino/interviews) - Random questions to ask during interviews.
-
 ## monkeytype
 
 *   [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
@@ -982,7 +1138,6 @@
 ## graph-framework
 
 *   [rapidsai/cugraph](https://github.com/rapidsai/cugraph) - cuGraph - RAPIDS Graph Analytics Library
-*   [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 
 ## graphml
 
@@ -1031,24 +1186,6 @@
 
 *   [rapidsai/raft](https://github.com/rapidsai/raft) - RAFT contains fundamental widely-used algorithms and primitives for machine learning and information retrieval. The algorithms are CUDA-accelerated and form building blocks for more easily writing high performance applications.
 *   [rapidsai/cuvs](https://github.com/rapidsai/cuvs) - cuVS - a library for vector search and clustering on the GPU
-
-## machine-learning
-
-*   [rapidsai/raft](https://github.com/rapidsai/raft) - RAFT contains fundamental widely-used algorithms and primitives for machine learning and information retrieval. The algorithms are CUDA-accelerated and form building blocks for more easily writing high performance applications.
-*   [rapidsai/cuvs](https://github.com/rapidsai/cuvs) - cuVS - a library for vector search and clustering on the GPU
-*   [rapidsai/cuml](https://github.com/rapidsai/cuml) - cuML - RAPIDS Machine Learning Library
-*   [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
-*   [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
-*   [drivendataorg/cookiecutter-data-science](https://github.com/drivendataorg/cookiecutter-data-science) - A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.
-*   [scikit-optimize/scikit-optimize](https://github.com/scikit-optimize/scikit-optimize) - Sequential model-based optimization with a  `scipy.optimize` interface
-*   [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
-*   [yzhao062/pyod](https://github.com/yzhao062/pyod) - A Python Library for Outlier and Anomaly Detection, Integrating Classical and Deep Learning Techniques
-*   [sebp/scikit-survival](https://github.com/sebp/scikit-survival) - Survival analysis built on top of scikit-learn
-*   [kedro-org/kedro](https://github.com/kedro-org/kedro) - Kedro is a toolbox for production-ready data science. It uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable, and modular.
-*   [optuna/optuna](https://github.com/optuna/optuna) - A hyperparameter optimization framework
-*   [lmcinnes/umap](https://github.com/lmcinnes/umap) - Uniform Manifold Approximation and Projection
-*   [alkaline-ml/pmdarima](https://github.com/alkaline-ml/pmdarima) - A statistical library designed to fill the void in Python's time series analysis capabilities, including the equivalent of R's auto.arima function.
-*   [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 
 ## nearest-neighbors
 
@@ -1107,58 +1244,6 @@
 *   [geoarrow/geoarrow-python](https://github.com/geoarrow/geoarrow-python) - Python implementation of the GeoArrow specification
 *   [geoarrow/geoarrow](https://github.com/geoarrow/geoarrow) - Specification for storing geospatial data in Apache Arrow
 
-## python
-
-*   [geoarrow/geoarrow-python](https://github.com/geoarrow/geoarrow-python) - Python implementation of the GeoArrow specification
-*   [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
-*   [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
-*   [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
-*   [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
-*   [Majramos/jupyterlab-theme-solarized-dark](https://github.com/Majramos/jupyterlab-theme-solarized-dark) - JupyterLab 3 Solarized Dark extension
-*   [cluster-apps-on-docker/spark-standalone-cluster-on-docker](https://github.com/cluster-apps-on-docker/spark-standalone-cluster-on-docker) - Learn Apache Spark in Scala, Python (PySpark) and R (SparkR) by building your own cluster with a JupyterLab interface on Docker. :zap:
-*   [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
-*   [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
-*   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-*   [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
-*   [ranaroussi/yfinance](https://github.com/ranaroussi/yfinance) - Download market data from Yahoo! Finance's API
-*   [ranaroussi/multitasking](https://github.com/ranaroussi/multitasking) - Non-blocking Python methods using decorators
-*   [beetbox/confuse](https://github.com/beetbox/confuse) - painless YAML config files for Python
-*   [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
-*   [WestHealth/pyvis](https://github.com/WestHealth/pyvis) - Python package for creating and visualizing interactive network graphs.
-*   [sivel/speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net
-*   [pwaller/pyfiglet](https://github.com/pwaller/pyfiglet) - An implementation of figlet written in Python
-*   [jazzband/django-analytical](https://github.com/jazzband/django-analytical) - Analytics services for Django projects
-*   [joke2k/django-environ](https://github.com/joke2k/django-environ) - Django-environ allows you to utilize 12factor inspired environment variables to configure your Django application.
-*   [py-pdf/fpdf2](https://github.com/py-pdf/fpdf2) - Simple PDF generation for Python
-*   [giampaolo/psutil](https://github.com/giampaolo/psutil) - Cross-platform lib for process and system monitoring in Python
-*   [jakevdp/PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks
-*   [scipy/scipy-cookbook](https://github.com/scipy/scipy-cookbook) - Scipy Cookbook
-*   [realpython/python-guide](https://github.com/realpython/python-guide) - Python best practices guidebook, written for humans.
-*   [cupy/cupy](https://github.com/cupy/cupy) - NumPy & SciPy for GPU
-*   [dask/dask](https://github.com/dask/dask) - Parallel computing with task scheduling
-*   [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
-*   [pymc-devs/pymc](https://github.com/pymc-devs/pymc) - Bayesian Modeling and Probabilistic Programming in Python
-*   [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
-*   [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
-*   [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
-*   [docker/docker-py](https://github.com/docker/docker-py) - A Python library for the Docker Engine API
-*   [yzhao062/pyod](https://github.com/yzhao062/pyod) - A Python Library for Outlier and Anomaly Detection, Integrating Classical and Deep Learning Techniques
-*   [spotify/luigi](https://github.com/spotify/luigi) - Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
-*   [sebp/scikit-survival](https://github.com/sebp/scikit-survival) - Survival analysis built on top of scikit-learn
-*   [CamDavidsonPilon/lifelines](https://github.com/CamDavidsonPilon/lifelines) - Survival analysis in Python
-*   [joke2k/faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
-*   [WhyNotHugo/python-barcode](https://github.com/WhyNotHugo/python-barcode) - ㊙️ Create standard barcodes with Python. No external dependencies. 100% Organic Python.
-*   [pypa/pipenv](https://github.com/pypa/pipenv) -  Python Development Workflow for Humans.
-*   [csurfer/pyheat](https://github.com/csurfer/pyheat) - pprofile + matplotlib = Python program profiled as an awesome heatmap!
-*   [yaml/pyyaml](https://github.com/yaml/pyyaml) - Canonical source repository for PyYAML
-*   [bokeh/bokeh](https://github.com/bokeh/bokeh) - Interactive Data Visualization in the browser, from  Python
-*   [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
-*   [kedro-org/kedro](https://github.com/kedro-org/kedro) - Kedro is a toolbox for production-ready data science. It uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable, and modular.
-*   [rapidsai/cudf](https://github.com/rapidsai/cudf) - cuDF - GPU DataFrame Library
-*   [optuna/optuna](https://github.com/optuna/optuna) - A hyperparameter optimization framework
-*   [alkaline-ml/pmdarima](https://github.com/alkaline-ml/pmdarima) - A statistical library designed to fill the void in Python's time series analysis capabilities, including the equivalent of R's auto.arima function.
-*   [sloria/TextBlob](https://github.com/sloria/TextBlob) - Simple, Pythonic, text processing--Sentiment analysis, part-of-speech tagging, noun phrase extraction, translation, and more.
-
 ## apache-arrow
 
 *   [geoarrow/geoarrow](https://github.com/geoarrow/geoarrow) - Specification for storing geospatial data in Apache Arrow
@@ -1195,15 +1280,6 @@
 ## knowledge-management
 
 *   [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - The knowledge tinkerer's notebook
-
-## markdown
-
-*   [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - The knowledge tinkerer's notebook
-*   [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced \[ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
-*   [BaldissaraMatheus/Tasks.md](https://github.com/BaldissaraMatheus/Tasks.md) - A self-hosted, Markdown file based task management board
-*   [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
-*   [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
-*   [py-pdf/fpdf2](https://github.com/py-pdf/fpdf2) - Simple PDF generation for Python
 
 ## note-taking
 
@@ -2459,7 +2535,6 @@
 ## sqlite
 
 *   [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
-*   [requests-cache/requests-cache](https://github.com/requests-cache/requests-cache) - Persistent HTTP cache for python requests
 
 ## xyflow
 
@@ -2545,7 +2620,6 @@
 *   [Project-OSRM/osrm-backend](https://github.com/Project-OSRM/osrm-backend) - Open Source Routing Machine - C++ backend
 *   [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
 *   [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
-*   [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 
 ## cpp
 
@@ -2869,7 +2943,6 @@
 
 *   [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 *   [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
-*   [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 
 ## material-design
 
@@ -3141,12 +3214,10 @@
 ## algorithm
 
 *   [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
-*   [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
 
 ## algorithms
 
 *   [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
-*   [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
 
 ## coding-interview
 
@@ -3155,7 +3226,6 @@
 ## coding-interviews
 
 *   [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
-*   [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
 
 ## data-structures
 
@@ -3173,7 +3243,6 @@
 ## interview-preparation
 
 *   [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
-*   [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
 
 ## programming-interviews
 
@@ -3202,12 +3271,10 @@
 ## interview-practice
 
 *   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-*   [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
 
 ## interview-questions
 
 *   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-*   [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
 
 ## programming
 
@@ -3221,7 +3288,6 @@
 ## web
 
 *   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-*   [requests-cache/requests-cache](https://github.com/requests-cache/requests-cache) - Persistent HTTP cache for python requests
 
 ## web-application
 
@@ -3835,7 +3901,6 @@
 ## redis
 
 *   [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
-*   [requests-cache/requests-cache](https://github.com/requests-cache/requests-cache) - Persistent HTTP cache for python requests
 
 ## redis-queue
 
@@ -3915,7 +3980,6 @@
 *   [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 *   [yzhao062/pyod](https://github.com/yzhao062/pyod) - A Python Library for Outlier and Anomaly Detection, Integrating Classical and Deep Learning Techniques
 *   [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
-*   [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 
 ## deployment
 
@@ -4120,7 +4184,6 @@
 ## computer-vision
 
 *   [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
-*   [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 
 ## image-processing
 
@@ -4462,139 +4525,3 @@
 ## vue-roadmap
 
 *   [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-
-## algorithm-interview
-
-*   [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
-
-## algorithm-interview-questions
-
-*   [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
-
-## behavioral-interviews
-
-*   [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
-
-## system-design
-
-*   [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
-
-## cache
-
-*   [requests-cache/requests-cache](https://github.com/requests-cache/requests-cache) - Persistent HTTP cache for python requests
-
-## dynamodb
-
-*   [requests-cache/requests-cache](https://github.com/requests-cache/requests-cache) - Persistent HTTP cache for python requests
-
-## http
-
-*   [requests-cache/requests-cache](https://github.com/requests-cache/requests-cache) - Persistent HTTP cache for python requests
-
-## mongodb
-
-*   [requests-cache/requests-cache](https://github.com/requests-cache/requests-cache) - Persistent HTTP cache for python requests
-
-## performance
-
-*   [requests-cache/requests-cache](https://github.com/requests-cache/requests-cache) - Persistent HTTP cache for python requests
-
-## requests
-
-*   [requests-cache/requests-cache](https://github.com/requests-cache/requests-cache) - Persistent HTTP cache for python requests
-
-## webscraping
-
-*   [requests-cache/requests-cache](https://github.com/requests-cache/requests-cache) - Persistent HTTP cache for python requests
-
-## arima
-
-*   [alkaline-ml/pmdarima](https://github.com/alkaline-ml/pmdarima) - A statistical library designed to fill the void in Python's time series analysis capabilities, including the equivalent of R's auto.arima function.
-
-## econometrics
-
-*   [alkaline-ml/pmdarima](https://github.com/alkaline-ml/pmdarima) - A statistical library designed to fill the void in Python's time series analysis capabilities, including the equivalent of R's auto.arima function.
-
-## forecasting
-
-*   [alkaline-ml/pmdarima](https://github.com/alkaline-ml/pmdarima) - A statistical library designed to fill the void in Python's time series analysis capabilities, including the equivalent of R's auto.arima function.
-
-## forecasting-models
-
-*   [alkaline-ml/pmdarima](https://github.com/alkaline-ml/pmdarima) - A statistical library designed to fill the void in Python's time series analysis capabilities, including the equivalent of R's auto.arima function.
-
-## pmdarima
-
-*   [alkaline-ml/pmdarima](https://github.com/alkaline-ml/pmdarima) - A statistical library designed to fill the void in Python's time series analysis capabilities, including the equivalent of R's auto.arima function.
-
-## sarimax
-
-*   [alkaline-ml/pmdarima](https://github.com/alkaline-ml/pmdarima) - A statistical library designed to fill the void in Python's time series analysis capabilities, including the equivalent of R's auto.arima function.
-
-## time-series
-
-*   [alkaline-ml/pmdarima](https://github.com/alkaline-ml/pmdarima) - A statistical library designed to fill the void in Python's time series analysis capabilities, including the equivalent of R's auto.arima function.
-
-## android
-
-*   [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
-
-## audio-processing
-
-*   [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
-
-## calculator
-
-*   [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
-
-## graph-based
-
-*   [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
-
-## inference
-
-*   [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
-
-## mediapipe
-
-*   [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
-
-## mobile-development
-
-*   [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
-
-## perception
-
-*   [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
-
-## pipeline-framework
-
-*   [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
-
-## stream-processing
-
-*   [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
-
-## video-processing
-
-*   [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
-
-## natural-language-processing
-
-*   [sloria/TextBlob](https://github.com/sloria/TextBlob) - Simple, Pythonic, text processing--Sentiment analysis, part-of-speech tagging, noun phrase extraction, translation, and more.
-
-## nlp
-
-*   [sloria/TextBlob](https://github.com/sloria/TextBlob) - Simple, Pythonic, text processing--Sentiment analysis, part-of-speech tagging, noun phrase extraction, translation, and more.
-
-## nltk
-
-*   [sloria/TextBlob](https://github.com/sloria/TextBlob) - Simple, Pythonic, text processing--Sentiment analysis, part-of-speech tagging, noun phrase extraction, translation, and more.
-
-## pattern
-
-*   [sloria/TextBlob](https://github.com/sloria/TextBlob) - Simple, Pythonic, text processing--Sentiment analysis, part-of-speech tagging, noun phrase extraction, translation, and more.
-
-## python-3
-
-*   [sloria/TextBlob](https://github.com/sloria/TextBlob) - Simple, Pythonic, text processing--Sentiment analysis, part-of-speech tagging, noun phrase extraction, translation, and more.
