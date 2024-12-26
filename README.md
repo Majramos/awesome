@@ -65,7 +65,7 @@
 *   [lorentzenchr/model-diagnostics](https://github.com/lorentzenchr/model-diagnostics) - Tools for diagnostics and assessment of (machine learning) models
 *   [geoarrow/geoarrow-python](https://github.com/geoarrow/geoarrow-python) - Python implementation of the GeoArrow specification
 *   [rapidsai/cuxfilter](https://github.com/rapidsai/cuxfilter) - GPU accelerated cross filtering with cuDF.
-*   [mrmn2/PdfDing](https://github.com/mrmn2/PdfDing) - Selfhosted PDF manager and viewer offering a seamless user experience on multiple devices.
+*   [mrmn2/PdfDing](https://github.com/mrmn2/PdfDing) - Selfhosted PDF manager, viewer and editor offering a seamless user experience on multiple devices.
 *   [Finnhub-Stock-API/finnhub-python](https://github.com/Finnhub-Stock-API/finnhub-python) - Finnhub Python API Client. Finnhub API provides institutional-grade financial data to investors, fintech startups and investment firms. We support real-time stock price, global fundamentals, global ETFs holdings and alternative data. https://finnhub.io/docs/api
 *   [scottrogowski/code2flow](https://github.com/scottrogowski/code2flow) - Pretty good call graphs for dynamic languages
 *   [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
@@ -168,7 +168,7 @@
 *   [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 *   [badgen/badgen.net](https://github.com/badgen/badgen.net) - Fast badge service
 *   [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
-*   [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and more...
+*   [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents.
 *   [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 *   [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 *   [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
