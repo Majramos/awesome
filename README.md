@@ -87,7 +87,7 @@
 *   [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced \[ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 *   [pheralb/svgl](https://github.com/pheralb/svgl) - 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.
 *   [lewish/asciiflow](https://github.com/lewish/asciiflow) - ASCIIFlow
-*   [nikeee/edotor.net](https://github.com/nikeee/edotor.net) - Your favourite Graphviz editor
+*   [nikeee/edotor.net](https://github.com/nikeee/edotor.net) - Your favourite Graphviz editor.
 *   [Hopding/pdf-lib](https://github.com/Hopding/pdf-lib) - Create and modify PDF documents in any JavaScript environment
 *   [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 *   [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.

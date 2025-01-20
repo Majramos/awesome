@@ -1800,15 +1800,15 @@
 
 ## dot-language
 
-*   [nikeee/edotor.net](https://github.com/nikeee/edotor.net) - Your favourite Graphviz editor
+*   [nikeee/edotor.net](https://github.com/nikeee/edotor.net) - Your favourite Graphviz editor.
 
 ## fiddle
 
-*   [nikeee/edotor.net](https://github.com/nikeee/edotor.net) - Your favourite Graphviz editor
+*   [nikeee/edotor.net](https://github.com/nikeee/edotor.net) - Your favourite Graphviz editor.
 
 ## graphviz
 
-*   [nikeee/edotor.net](https://github.com/nikeee/edotor.net) - Your favourite Graphviz editor
+*   [nikeee/edotor.net](https://github.com/nikeee/edotor.net) - Your favourite Graphviz editor.
 *   [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 
 ## badge
