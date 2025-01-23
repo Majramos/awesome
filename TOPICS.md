@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [miscellaneous](#miscellaneous)
 *   [cookbook](#cookbook)
 *   [cooking](#cooking)
 *   [django](#django)
@@ -23,7 +24,6 @@
 *   [ruby-on-rails](#ruby-on-rails)
 *   [stimulusjs](#stimulusjs)
 *   [turbo](#turbo)
-*   [miscellaneous](#miscellaneous)
 *   [accounting](#accounting)
 *   [budget](#budget)
 *   [budgeting](#budgeting)
@@ -812,9 +812,54 @@
 *   [osint](#osint)
 *   [osint-python](#osint-python)
 *   [pictures](#pictures)
-*   [email-validation](#email-validation)
-*   [email-verification](#email-verification)
-*   [multithreading](#multithreading)
+
+## miscellaneous
+
+*   [trailofbits/are-we-pep740-yet](https://github.com/trailofbits/are-we-pep740-yet) - Are we PEP 740 yet?
+*   [tpope/vim-pathogen](https://github.com/tpope/vim-pathogen) - pathogen.vim: manage your runtimepath
+*   [johanohly/AirTrail](https://github.com/johanohly/AirTrail) - A modern, open-source personal flight tracking system
+*   [splitkb/kyria](https://github.com/splitkb/kyria) - Files related to the Kyria keyboard.
+*   [semver/semver](https://github.com/semver/semver) - Semantic Versioning Specification
+*   [rapidsai/cuspatial](https://github.com/rapidsai/cuspatial) - CUDA-accelerated GIS and spatiotemporal algorithms
+*   [rapidsai/kvikio](https://github.com/rapidsai/kvikio) - KvikIO - High Performance File IO
+*   [readeck/readeck](https://github.com/readeck/readeck) -
+*   [lewish/asciiflow](https://github.com/lewish/asciiflow) - ASCIIFlow
+*   [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
+*   [madmalik/mononoki](https://github.com/madmalik/mononoki) - a programming typeface
+*   [scottrogowski/code2flow](https://github.com/scottrogowski/code2flow) - Pretty good call graphs for dynamic languages
+*   [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) - Smart PVR for newsgroup and bittorrent users.
+*   [Idered/chalk.ist](https://github.com/Idered/chalk.ist) - 📷 Create beautiful images of your source code
+*   [ustroetz/python-osrm](https://github.com/ustroetz/python-osrm) - A Python wrapper around the OSRM API
+*   [python-validators/validators](https://github.com/python-validators/validators) - Python Data Validation for Humans™.
+*   [krassowski/jupyterlab-lsp](https://github.com/krassowski/jupyterlab-lsp) - Coding assistance for JupyterLab (code navigation + hover suggestions + linters + autocompletion + rename) using Language Server Protocol
+*   [python-lsp/python-lsp-server](https://github.com/python-lsp/python-lsp-server) - Fork of the python-language-server project, maintained by the Spyder IDE team and the community
+*   [Majramos/py-jupyter-devenv](https://github.com/Majramos/py-jupyter-devenv) - Setup a python development environment using containers, with jupyter lab included
+*   [Majramos/conky](https://github.com/Majramos/conky) - my conky build for VivoBook\_ASUS X580GD\_N580GD
+*   [Majramos/holidays-pt](https://github.com/Majramos/holidays-pt) - Module to calculate the portuguese holidays date
+*   [Majramos/aboutme](https://github.com/Majramos/aboutme) - Page about me
+*   [dremio-hub/arrow-flight-client-examples](https://github.com/dremio-hub/arrow-flight-client-examples) -
+*   [Majramos/notebook](https://github.com/Majramos/notebook) - My notebooks about python programming and data science
+*   [byrnereese/mkdocs-minify-plugin](https://github.com/byrnereese/mkdocs-minify-plugin) - A mkdocs plugin to minify the HTML of a page before it is written to disk.
+*   [cloudera/impyla](https://github.com/cloudera/impyla) - Python DB API 2.0 client for Impala and Hive (HiveServer2 protocol)
+*   [asweigart/pyperclip](https://github.com/asweigart/pyperclip) - Python module for cross-platform clipboard functions.
+*   [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
+*   [alievk/avatarify-python](https://github.com/alievk/avatarify-python) - Avatars for Zoom, Skype and other video-conferencing apps.
+*   [jsvine/markovify](https://github.com/jsvine/markovify) - A simple, extensible Markov chain generator.
+*   [konkor/cpufreq](https://github.com/konkor/cpufreq) - System Monitor and Power Manager
+*   [linrunner/TLP](https://github.com/linrunner/TLP) - TLP - Optimize Linux Laptop Battery Life
+*   [ChrisTitusTech/win10script](https://github.com/ChrisTitusTech/win10script) - This is the Ultimate Windows 10 Script from a creation from multiple debloat scripts and gists from github.
+*   [django-compressor/django-compressor](https://github.com/django-compressor/django-compressor) - Compresses linked and inline javascript or CSS into a single cached file.
+*   [evansd/whitenoise](https://github.com/evansd/whitenoise) - Radically simplified static file serving for Python web apps
+*   [agiliq/django-admin-cookbook](https://github.com/agiliq/django-admin-cookbook) -
+*   [sehmaschine/django-grappelli](https://github.com/sehmaschine/django-grappelli) - A jazzy skin for the Django Admin-Interface (official repository).
+*   [gintas/django-picklefield](https://github.com/gintas/django-picklefield) - A pickled object field for Django
+*   [django-commons/django-debug-toolbar](https://github.com/django-commons/django-debug-toolbar) - A configurable set of panels that display various debug information about the current request/response.
+*   [highfestiva/finplot](https://github.com/highfestiva/finplot) - Performant and effortless finance plotting for Python
+*   [pydata/numexpr](https://github.com/pydata/numexpr) - Fast numerical array expression evaluator for Python, NumPy, Pandas, PyTables and more
+*   [clicumu/pyDOE2](https://github.com/clicumu/pyDOE2) - Design of experiments for Python
+*   [vinceliuice/Tela-icon-theme](https://github.com/vinceliuice/Tela-icon-theme) - A flat colorful Design icon theme
+*   [MicrosoftLearning/PL-200-Power-Platform-Functional-Consultant](https://github.com/MicrosoftLearning/PL-200-Power-Platform-Functional-Consultant) - PL-200 Power Platform Functional Consultant
+*   [JulienPalard/Pipe](https://github.com/JulienPalard/Pipe) - A Python library to use infix notation in Python
 
 ## cookbook
 
@@ -929,53 +974,6 @@
 
 *   [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
 *   [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux
-
-## miscellaneous
-
-*   [tpope/vim-pathogen](https://github.com/tpope/vim-pathogen) - pathogen.vim: manage your runtimepath
-*   [johanohly/AirTrail](https://github.com/johanohly/AirTrail) - A modern, open-source personal flight tracking system
-*   [splitkb/kyria](https://github.com/splitkb/kyria) - Files related to the Kyria keyboard.
-*   [semver/semver](https://github.com/semver/semver) - Semantic Versioning Specification
-*   [rapidsai/cuspatial](https://github.com/rapidsai/cuspatial) - CUDA-accelerated GIS and spatiotemporal algorithms
-*   [rapidsai/kvikio](https://github.com/rapidsai/kvikio) - KvikIO - High Performance File IO
-*   [readeck/readeck](https://github.com/readeck/readeck) -
-*   [lewish/asciiflow](https://github.com/lewish/asciiflow) - ASCIIFlow
-*   [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
-*   [madmalik/mononoki](https://github.com/madmalik/mononoki) - a programming typeface
-*   [scottrogowski/code2flow](https://github.com/scottrogowski/code2flow) - Pretty good call graphs for dynamic languages
-*   [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) - Smart PVR for newsgroup and bittorrent users.
-*   [Idered/chalk.ist](https://github.com/Idered/chalk.ist) - 📷 Create beautiful images of your source code
-*   [ustroetz/python-osrm](https://github.com/ustroetz/python-osrm) - A Python wrapper around the OSRM API
-*   [python-validators/validators](https://github.com/python-validators/validators) - Python Data Validation for Humans™.
-*   [krassowski/jupyterlab-lsp](https://github.com/krassowski/jupyterlab-lsp) - Coding assistance for JupyterLab (code navigation + hover suggestions + linters + autocompletion + rename) using Language Server Protocol
-*   [python-lsp/python-lsp-server](https://github.com/python-lsp/python-lsp-server) - Fork of the python-language-server project, maintained by the Spyder IDE team and the community
-*   [Majramos/py-jupyter-devenv](https://github.com/Majramos/py-jupyter-devenv) - Setup a python development environment using containers, with jupyter lab included
-*   [Majramos/conky](https://github.com/Majramos/conky) - my conky build for VivoBook\_ASUS X580GD\_N580GD
-*   [Majramos/holidays-pt](https://github.com/Majramos/holidays-pt) - Module to calculate the portuguese holidays date
-*   [Majramos/aboutme](https://github.com/Majramos/aboutme) - Page about me
-*   [dremio-hub/arrow-flight-client-examples](https://github.com/dremio-hub/arrow-flight-client-examples) -
-*   [Majramos/notebook](https://github.com/Majramos/notebook) - My notebooks about python programming and data science
-*   [byrnereese/mkdocs-minify-plugin](https://github.com/byrnereese/mkdocs-minify-plugin) - A mkdocs plugin to minify the HTML of a page before it is written to disk.
-*   [cloudera/impyla](https://github.com/cloudera/impyla) - Python DB API 2.0 client for Impala and Hive (HiveServer2 protocol)
-*   [asweigart/pyperclip](https://github.com/asweigart/pyperclip) - Python module for cross-platform clipboard functions.
-*   [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
-*   [alievk/avatarify-python](https://github.com/alievk/avatarify-python) - Avatars for Zoom, Skype and other video-conferencing apps.
-*   [jsvine/markovify](https://github.com/jsvine/markovify) - A simple, extensible Markov chain generator.
-*   [konkor/cpufreq](https://github.com/konkor/cpufreq) - System Monitor and Power Manager
-*   [linrunner/TLP](https://github.com/linrunner/TLP) - TLP - Optimize Linux Laptop Battery Life
-*   [ChrisTitusTech/win10script](https://github.com/ChrisTitusTech/win10script) - This is the Ultimate Windows 10 Script from a creation from multiple debloat scripts and gists from github.
-*   [django-compressor/django-compressor](https://github.com/django-compressor/django-compressor) - Compresses linked and inline javascript or CSS into a single cached file.
-*   [evansd/whitenoise](https://github.com/evansd/whitenoise) - Radically simplified static file serving for Python web apps
-*   [agiliq/django-admin-cookbook](https://github.com/agiliq/django-admin-cookbook) -
-*   [sehmaschine/django-grappelli](https://github.com/sehmaschine/django-grappelli) - A jazzy skin for the Django Admin-Interface (official repository).
-*   [gintas/django-picklefield](https://github.com/gintas/django-picklefield) - A pickled object field for Django
-*   [django-commons/django-debug-toolbar](https://github.com/django-commons/django-debug-toolbar) - A configurable set of panels that display various debug information about the current request/response.
-*   [highfestiva/finplot](https://github.com/highfestiva/finplot) - Performant and effortless finance plotting for Python
-*   [pydata/numexpr](https://github.com/pydata/numexpr) - Fast numerical array expression evaluator for Python, NumPy, Pandas, PyTables and more
-*   [clicumu/pyDOE2](https://github.com/clicumu/pyDOE2) - Design of experiments for Python
-*   [vinceliuice/Tela-icon-theme](https://github.com/vinceliuice/Tela-icon-theme) - A flat colorful Design icon theme
-*   [MicrosoftLearning/PL-200-Power-Platform-Functional-Consultant](https://github.com/MicrosoftLearning/PL-200-Power-Platform-Functional-Consultant) - PL-200 Power Platform Functional Consultant
-*   [JulienPalard/Pipe](https://github.com/JulienPalard/Pipe) - A Python library to use infix notation in Python
 
 ## accounting
 
@@ -4484,15 +4482,3 @@
 ## pictures
 
 *   [instaloader/instaloader](https://github.com/instaloader/instaloader) - Download pictures (or videos) along with their captions and other metadata from Instagram.
-
-## email-validation
-
-*   [kakshay21/verify\_email](https://github.com/kakshay21/verify_email) - verify-email can verify any email address by efficiently checking the domain name and pinging the handler to verify its existence.
-
-## email-verification
-
-*   [kakshay21/verify\_email](https://github.com/kakshay21/verify_email) - verify-email can verify any email address by efficiently checking the domain name and pinging the handler to verify its existence.
-
-## multithreading
-
-*   [kakshay21/verify\_email](https://github.com/kakshay21/verify_email) - verify-email can verify any email address by efficiently checking the domain name and pinging the handler to verify its existence.

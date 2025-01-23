@@ -37,6 +37,7 @@
 
 ## HTML
 
+*   [trailofbits/are-we-pep740-yet](https://github.com/trailofbits/are-we-pep740-yet) - Are we PEP 740 yet?
 *   [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
 *   [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
 *   [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
@@ -181,7 +182,6 @@
 *   [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
 *   [kedro-org/kedro](https://github.com/kedro-org/kedro) - Kedro is a toolbox for production-ready data science. It uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable, and modular.
 *   [instaloader/instaloader](https://github.com/instaloader/instaloader) - Download pictures (or videos) along with their captions and other metadata from Instagram.
-*   [kakshay21/verify\_email](https://github.com/kakshay21/verify_email) - verify-email can verify any email address by efficiently checking the domain name and pinging the handler to verify its existence.
 
 ## miscellaneous
 
