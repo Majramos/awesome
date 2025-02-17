@@ -5,6 +5,7 @@
 ## Table of Contents
 
 *   [Python](#python)
+*   [SCSS](#scss)
 *   [JavaScript](#javascript)
 *   [miscellaneous](#miscellaneous)
 *   [HTML](#html)
@@ -29,7 +30,6 @@
 *   [Shell](#shell)
 *   [Lua](#lua)
 *   [Jupyter Notebook](#jupyter-notebook)
-*   [SCSS](#scss)
 *   [Dockerfile](#dockerfile)
 *   [Haskell](#haskell)
 *   [Markdown](#markdown)
@@ -40,6 +40,17 @@
 
 ## Python
 
+*   [unionai-oss/pandera](https://github.com/unionai-oss/pandera) - A light-weight, flexible, and expressive statistical data testing library
+*   [vega/altair](https://github.com/vega/altair) - Declarative visualization library for Python
+*   [mwaskom/seaborn](https://github.com/mwaskom/seaborn) - Statistical data visualization in Python
+*   [plotly/plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python :sparkles:
+*   [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib) - matplotlib: plotting with Python
+*   [holoviz/holoviews](https://github.com/holoviz/holoviews) - With Holoviews, your data visualizes itself.
+*   [holoviz/hvplot](https://github.com/holoviz/hvplot) - A high-level plotting API for pandas, dask, xarray, and networkx built on HoloViews
+*   [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
+*   [pyvista/pyvista](https://github.com/pyvista/pyvista) - 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK)
+*   [jawah/charset\_normalizer](https://github.com/jawah/charset_normalizer) - Truly universal encoding detector in pure Python
+*   [pyviz/pyviz.org](https://github.com/pyviz/pyviz.org) - Source for the PyViz.org website.
 *   [wasi-master/13ft](https://github.com/wasi-master/13ft) - My own custom 12ft.io replacement
 *   [WarrenWeckesser/las](https://github.com/WarrenWeckesser/las) - Python reader for Canadian Well Logging Society LAS (Log ASCII Standard) files.
 *   [kovacsbalu/WazeRouteCalculator](https://github.com/kovacsbalu/WazeRouteCalculator) - Calculate actual route time and distance with Waze api
@@ -160,15 +171,12 @@
 *   [cloudpipe/cloudpickle](https://github.com/cloudpipe/cloudpickle) - Extended pickling support for Python objects
 *   [PyWavelets/pywt](https://github.com/PyWavelets/pywt) - PyWavelets - Wavelet Transforms in Python
 *   [jithurjacob/Windows-10-Toast-Notifications](https://github.com/jithurjacob/Windows-10-Toast-Notifications) - Python library to display Windows 10 Toast Notifications
-*   [moses-palmer/pynput](https://github.com/moses-palmer/pynput) - Sends virtual input commands
-*   [aesara-devs/aesara](https://github.com/aesara-devs/aesara) - Aesara is a Python library for defining, optimizing, and efficiently evaluating mathematical expressions involving multi-dimensional arrays.
-*   [gorakhargosh/watchdog](https://github.com/gorakhargosh/watchdog) - Python library and shell utilities to monitor filesystem events.
-*   [rasbt/mlxtend](https://github.com/rasbt/mlxtend) - A library of extension and helper modules for Python's data analysis and machine learning libraries.
-*   [laughingman7743/PyAthena](https://github.com/laughingman7743/PyAthena) - PyAthena is a Python DB API 2.0 (PEP 249) client for Amazon Athena.
-*   [pypa/pip](https://github.com/pypa/pip) - The Python package installer
-*   [PatrikHlobil/Pandas-Bokeh](https://github.com/PatrikHlobil/Pandas-Bokeh) - Bokeh Plotting Backend for Pandas and GeoPandas
-*   [adamerose/PandasGUI](https://github.com/adamerose/PandasGUI) - A GUI for Pandas DataFrames
-*   [ydataai/ydata-profiling](https://github.com/ydataai/ydata-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.
+
+## SCSS
+
+*   [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
+*   [Majramos/jupyterlab-theme-solarized-dark](https://github.com/Majramos/jupyterlab-theme-solarized-dark) - JupyterLab 3 Solarized Dark extension
+*   [AllanChain/jupyterlab-theme-solarized-dark](https://github.com/AllanChain/jupyterlab-theme-solarized-dark) - JupyterLab Theme Solarized Dark
 
 ## JavaScript
 
@@ -249,7 +257,6 @@
 *   [opencontainers/image-spec](https://github.com/opencontainers/image-spec) - OCI Image Format
 *   [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 *   [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
-*   [awslabs/amazon-ecr-credential-helper](https://github.com/awslabs/amazon-ecr-credential-helper) - Automatically gets credentials for Amazon ECR on docker push/docker pull
 
 ## Ruby
 
@@ -350,7 +357,6 @@
 *   [NLnetLabs/unbound](https://github.com/NLnetLabs/unbound) - Unbound is a validating, recursive, and caching DNS resolver.
 *   [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
 *   [PiSupply/PiJuice](https://github.com/PiSupply/PiJuice) - Resources for PiJuice HAT for Raspberry Pi - use your Pi Anywhere
-*   [betaflight/betaflight](https://github.com/betaflight/betaflight) - Open Source Flight Controller Firmware
 
 ## Java
 
@@ -400,12 +406,6 @@
 *   [Kommandat/seasonality-fourier-analysis](https://github.com/Kommandat/seasonality-fourier-analysis) - Analyzing seasonality with Fourier transforms
 *   [pycaret/pycaret](https://github.com/pycaret/pycaret) - An open-source, low-code machine learning library in Python
 *   [deshaw/jupyterlab-execute-time](https://github.com/deshaw/jupyterlab-execute-time) - A JupyterLab extension for displaying cell timings
-*   [konstantint/matplotlib-venn](https://github.com/konstantint/matplotlib-venn) - Area-weighted venn-diagrams for Python/matplotlib
-
-## SCSS
-
-*   [Majramos/jupyterlab-theme-solarized-dark](https://github.com/Majramos/jupyterlab-theme-solarized-dark) - JupyterLab 3 Solarized Dark extension
-*   [AllanChain/jupyterlab-theme-solarized-dark](https://github.com/AllanChain/jupyterlab-theme-solarized-dark) - JupyterLab Theme Solarized Dark
 
 ## Dockerfile
 
