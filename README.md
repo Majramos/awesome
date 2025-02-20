@@ -40,6 +40,7 @@
 
 ## Python
 
+*   [DistrictDataLabs/yellowbrick](https://github.com/DistrictDataLabs/yellowbrick) - Visual analysis and diagnostic tools to facilitate machine learning model selection.
 *   [unionai-oss/pandera](https://github.com/unionai-oss/pandera) - A light-weight, flexible, and expressive statistical data testing library
 *   [vega/altair](https://github.com/vega/altair) - Declarative visualization library for Python
 *   [mwaskom/seaborn](https://github.com/mwaskom/seaborn) - Statistical data visualization in Python
@@ -170,7 +171,6 @@
 *   [ZaxR/bulwark](https://github.com/ZaxR/bulwark) - Bulwark is a package for convenient property-based testing of pandas dataframes.
 *   [cloudpipe/cloudpickle](https://github.com/cloudpipe/cloudpickle) - Extended pickling support for Python objects
 *   [PyWavelets/pywt](https://github.com/PyWavelets/pywt) - PyWavelets - Wavelet Transforms in Python
-*   [jithurjacob/Windows-10-Toast-Notifications](https://github.com/jithurjacob/Windows-10-Toast-Notifications) - Python library to display Windows 10 Toast Notifications
 
 ## SCSS
 
