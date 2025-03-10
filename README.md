@@ -5,6 +5,7 @@
 ## Table of Contents
 
 *   [JavaScript](#javascript)
+*   [Rust](#rust)
 *   [Python](#python)
 *   [SCSS](#scss)
 *   [miscellaneous](#miscellaneous)
@@ -20,7 +21,6 @@
 *   [Haml](#haml)
 *   [Cuda](#cuda)
 *   [C++](#c)
-*   [Rust](#rust)
 *   [Dart](#dart)
 *   [CSS](#css)
 *   [C](#c-1)
@@ -40,6 +40,7 @@
 
 ## JavaScript
 
+*   [danielcranney/profileme-dev](https://github.com/danielcranney/profileme-dev) - Create an awesome GitHub profile in minutes
 *   [hardpixel/unite-shell](https://github.com/hardpixel/unite-shell) - Unite is an extension that makes GNOME Shell look like Ubuntu Unity Shell.
 *   [ubuntu/gnome-shell-extension-appindicator](https://github.com/ubuntu/gnome-shell-extension-appindicator) - Adds KStatusNotifierItem support to the Shell
 *   [Leleat/Tiling-Assistant](https://github.com/Leleat/Tiling-Assistant) - An extension which adds a Windows-like snap assist to GNOME. It also expands GNOME's 2 column tiling layout.
@@ -70,6 +71,12 @@
 *   [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
 *   [codeforgermany/click\_that\_hood](https://github.com/codeforgermany/click_that_hood) - A game where users must identify a city's neighborhoods as fast as possible
 *   [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
+
+## Rust
+
+*   [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
+*   [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
+*   [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 
 ## Python
 
@@ -302,7 +309,6 @@
 *   [jtpio/jupyterlab-system-monitor](https://github.com/jtpio/jupyterlab-system-monitor) - JupyterLab extension to display system metrics
 *   [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 *   [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
-*   [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
 
 ## OpenSCAD
 
@@ -335,11 +341,6 @@
 *   [rapidsai/cudf](https://github.com/rapidsai/cudf) - cuDF - GPU DataFrame Library
 *   [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 *   [opentx/opentx](https://github.com/opentx/opentx) - OpenTX custom firmware for Transmitters
-
-## Rust
-
-*   [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
-*   [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 
 ## Dart
 
@@ -387,7 +388,6 @@
 *   [holoviz/holoviz](https://github.com/holoviz/holoviz) - High-level tools to simplify visualization in Python.
 *   [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
 *   [docker-library/python](https://github.com/docker-library/python) - Docker Official Image packaging for Python
-*   [rocker-org/rocker](https://github.com/rocker-org/rocker) - R configurations for Docker
 
 ## Lua
 
