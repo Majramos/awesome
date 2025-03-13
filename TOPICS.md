@@ -851,6 +851,8 @@
 *   [deep-learning](#deep-learning)
 *   [deployment](#deployment)
 *   [distributed](#distributed)
+*   [large-language-models](#large-language-models)
+*   [llm-inference](#llm-inference)
 *   [llm-serving](#llm-serving)
 *   [parallel](#parallel)
 *   [pytorch](#pytorch)
@@ -1240,7 +1242,7 @@
 *   [pallets-eco/flask-admin](https://github.com/pallets-eco/flask-admin) - Simple and extensible administrative interface framework for Flask
 *   [lux-org/lux-widget](https://github.com/lux-org/lux-widget) - Jupyter Widget for Lux
 *   [calvinmetcalf/leaflet-ajax](https://github.com/calvinmetcalf/leaflet-ajax) - plugin for leaflet for ajax
-*   [steelbrain/linter](https://github.com/steelbrain/linter) - A Base Linter with Cow Powers http://steelbrain.me/linter/
+*   [steelbrain/linter](https://github.com/steelbrain/linter) - A Base Linter with Cow Powers https://aneesiqbal.ai/2017-03-13-linter-v2-released
 *   [codeforgermany/click\_that\_hood](https://github.com/codeforgermany/click_that_hood) - A game where users must identify a city's neighborhoods as fast as possible
 *   [nmota/caop\_GeoJSON](https://github.com/nmota/caop_GeoJSON) - CAOPortugal em formato GeoJSON
 *   [django-crispy-forms/django-crispy-forms](https://github.com/django-crispy-forms/django-crispy-forms) - The best way to have DRY Django forms. The app provides a tag and filter that lets you quickly render forms in a div format while providing an enormous amount of capability to configure and control the rendered HTML.
@@ -1551,7 +1553,6 @@
 ## model-selection
 
 *   [DistrictDataLabs/yellowbrick](https://github.com/DistrictDataLabs/yellowbrick) - Visual analysis and diagnostic tools to facilitate machine learning model selection.
-*   [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 
 ## scikit-learn
 
@@ -2682,6 +2683,7 @@
 
 *   [rapidsai/raft](https://github.com/rapidsai/raft) - RAFT contains fundamental widely-used algorithms and primitives for machine learning and information retrieval. The algorithms are CUDA-accelerated and form building blocks for more easily writing high performance applications.
 *   [rapidsai/cuvs](https://github.com/rapidsai/cuvs) - cuVS - a library for vector search and clustering on the GPU
+*   [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 
 ## nearest-neighbors
 
@@ -3305,7 +3307,6 @@
 
 *   [apache/pdfbox](https://github.com/apache/pdfbox) - Mirror of Apache PDFBox
 *   [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
-*   [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 
 ## pdfbox
 
@@ -4427,7 +4428,6 @@
 ## automl
 
 *   [automl/auto-sklearn](https://github.com/automl/auto-sklearn) - Automated Machine Learning with scikit-learn
-*   [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 
 ## bayesian-optimization
 
@@ -5246,6 +5246,14 @@
 
 *   [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 *   [optuna/optuna](https://github.com/optuna/optuna) - A hyperparameter optimization framework
+
+## large-language-models
+
+*   [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
+
+## llm-inference
+
+*   [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 
 ## llm-serving
 

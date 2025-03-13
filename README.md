@@ -67,7 +67,7 @@
 *   [QuantStack/jupyterlab-drawio](https://github.com/QuantStack/jupyterlab-drawio) - A standalone embedding of the FOSS drawio / mxgraph package into jupyterlab
 *   [calvinmetcalf/leaflet-ajax](https://github.com/calvinmetcalf/leaflet-ajax) - plugin for leaflet for ajax
 *   [Leaflet/Leaflet.markercluster](https://github.com/Leaflet/Leaflet.markercluster) - Marker Clustering plugin for Leaflet
-*   [steelbrain/linter](https://github.com/steelbrain/linter) - A Base Linter with Cow Powers http://steelbrain.me/linter/
+*   [steelbrain/linter](https://github.com/steelbrain/linter) - A Base Linter with Cow Powers https://aneesiqbal.ai/2017-03-13-linter-v2-released
 *   [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
 *   [codeforgermany/click\_that\_hood](https://github.com/codeforgermany/click_that_hood) - A game where users must identify a city's neighborhoods as fast as possible
 *   [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
@@ -250,6 +250,7 @@
 *   [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 *   [WestHealth/pyvis](https://github.com/WestHealth/pyvis) - Python package for creating and visualizing interactive network graphs.
 *   [sehmaschine/django-grappelli](https://github.com/sehmaschine/django-grappelli) - A jazzy skin for the Django Admin-Interface (official repository).
+*   [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
 *   [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 *   [lux-org/lux-widget](https://github.com/lux-org/lux-widget) - Jupyter Widget for Lux
 
@@ -386,7 +387,6 @@
 *   [linrunner/TLP](https://github.com/linrunner/TLP) - TLP - Optimize Linux Laptop Battery Life
 *   [vinceliuice/Tela-icon-theme](https://github.com/vinceliuice/Tela-icon-theme) - A flat colorful Design icon theme
 *   [holoviz/holoviz](https://github.com/holoviz/holoviz) - High-level tools to simplify visualization in Python.
-*   [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
 *   [docker-library/python](https://github.com/docker-library/python) - Docker Official Image packaging for Python
 
 ## Lua
