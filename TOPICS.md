@@ -4,23 +4,41 @@
 
 ## Table of Contents
 
-*   [miscellaneous](#miscellaneous)
 *   [cli](#cli)
 *   [command-line](#command-line)
-*   [command-line-interface](#command-line-interface)
 *   [git](#git)
+*   [hacktoberfest](#hacktoberfest)
 *   [rust](#rust)
+*   [syntax-highlighting](#syntax-highlighting)
+*   [terminal](#terminal)
 *   [tool](#tool)
+*   [miscellaneous](#miscellaneous)
+*   [alsa](#alsa)
+*   [audio-visualizer](#audio-visualizer)
+*   [freebsd](#freebsd)
+*   [glsl-shaders](#glsl-shaders)
+*   [linux](#linux)
+*   [macos](#macos)
+*   [ncurses](#ncurses)
+*   [pipewire](#pipewire)
+*   [portaudio](#portaudio)
+*   [pulseaudio](#pulseaudio)
+*   [sdl2](#sdl2)
+*   [sndio](#sndio)
+*   [windows](#windows)
+*   [fastfetch](#fastfetch)
+*   [fetch](#fetch)
+*   [flashfetch](#flashfetch)
+*   [neofetch](#neofetch)
+*   [command-line-interface](#command-line-interface)
 *   [gnome](#gnome)
 *   [gnome-extension](#gnome-extension)
 *   [gnome-shell](#gnome-shell)
 *   [gnome-shell-extension](#gnome-shell-extension)
-*   [linux](#linux)
 *   [tiling](#tiling)
 *   [11ty](#11ty)
 *   [database](#database)
 *   [eleventy](#eleventy)
-*   [hacktoberfest](#hacktoberfest)
 *   [keyboards](#keyboards)
 *   [keymap](#keymap)
 *   [qmk](#qmk)
@@ -624,7 +642,6 @@
 *   [animation](#animation)
 *   [explanatory-math-videos](#explanatory-math-videos)
 *   [curses](#curses)
-*   [terminal](#terminal)
 *   [jupyterlab-theme](#jupyterlab-theme)
 *   [themes](#themes)
 *   [kitty](#kitty)
@@ -650,7 +667,6 @@
 *   [i3wm](#i3wm)
 *   [polybar](#polybar)
 *   [polybar-scripts](#polybar-scripts)
-*   [windows](#windows)
 *   [c](#c)
 *   [golang-application](#golang-application)
 *   [opengl](#opengl)
@@ -743,7 +759,6 @@
 *   [python-script](#python-script)
 *   [ascii-art](#ascii-art)
 *   [figlet](#figlet)
-*   [freebsd](#freebsd)
 *   [live-system](#live-system)
 *   [live-usb](#live-usb)
 *   [liveusb](#liveusb)
@@ -1158,7 +1173,6 @@
 *   [well-log](#well-log)
 *   [wireline](#wireline)
 *   [atom](#atom)
-*   [macos](#macos)
 *   [amazon](#amazon)
 *   [aws](#aws)
 *   [aws-s3](#aws-s3)
@@ -1166,20 +1180,95 @@
 *   [r-package](#r-package)
 *   [s3](#s3)
 *   [s3-storage](#s3-storage)
-*   [12-factor-app](#12-factor-app)
-*   [devops-tools](#devops-tools)
-*   [dotenv](#dotenv)
-*   [env](#env)
-*   [environment-variables](#environment-variables)
-*   [atmos](#atmos)
-*   [azure](#azure)
-*   [backblaze-b2](#backblaze-b2)
-*   [google-cloud-storage](#google-cloud-storage)
-*   [openstack-swift](#openstack-swift)
-*   [proxy](#proxy)
+
+## cli
+
+*   [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+*   [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
+*   [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
+*   [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+*   [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
+*   [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux
+*   [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
+
+## command-line
+
+*   [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+*   [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
+*   [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
+*   [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+
+## git
+
+*   [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+*   [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
+*   [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
+*   [olivierlacan/keep-a-changelog](https://github.com/olivierlacan/keep-a-changelog) - If you build software, keep a changelog.
+*   [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
+
+## hacktoberfest
+
+*   [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+*   [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
+*   [precondition/keymapdb](https://github.com/precondition/keymapdb) - Online database of keymaps for programmable keyboards, with a focus on QMK ergonomic keyboards.
+*   [pyvista/pyvista](https://github.com/pyvista/pyvista) - 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK)
+*   [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
+*   [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
+*   [dar5hak/generator-awesome-list](https://github.com/dar5hak/generator-awesome-list) - :sunglasses: Yeoman generator for GitHub awesome lists
+*   [pheralb/svgl](https://github.com/pheralb/svgl) - 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.
+*   [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
+*   [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
+*   [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker) - Speedtest Tracker is a self-hosted application that monitors the performance and uptime of your internet connection.
+*   [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
+*   [parallax/jsPDF](https://github.com/parallax/jsPDF) - Client-side JavaScript PDF generation for everyone.
+*   [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
+*   [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
+*   [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) - Looks and smells like Sonarr but made for music.
+*   [Radarr/Radarr](https://github.com/Radarr/Radarr) - Movie organizer/manager for usenet and torrent users.
+*   [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
+*   [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+*   [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
+*   [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
+*   [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux
+*   [joke2k/django-environ](https://github.com/joke2k/django-environ) - Django-environ allows you to utilize 12factor inspired environment variables to configure your Django application.
+*   [py-pdf/fpdf2](https://github.com/py-pdf/fpdf2) - Simple PDF generation for Python
+*   [scikit-optimize/scikit-optimize](https://github.com/scikit-optimize/scikit-optimize) - Sequential model-based optimization with a  `scipy.optimize` interface
+*   [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
+*   [kedro-org/kedro](https://github.com/kedro-org/kedro) - Kedro is a toolbox for production-ready data science. It uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable, and modular.
+*   [optuna/optuna](https://github.com/optuna/optuna) - A hyperparameter optimization framework
+*   [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
+*   [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
+*   [pyproj4/pyproj](https://github.com/pyproj4/pyproj) - Python interface to PROJ (cartographic projections and coordinate transformations library)
+
+## rust
+
+*   [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+*   [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
+*   [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced \[ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
+*   [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+
+## syntax-highlighting
+
+*   [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+
+## terminal
+
+*   [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+*   [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
+*   [metal3d/bashsimplecurses](https://github.com/metal3d/bashsimplecurses) - A simple curses library made in bash to draw terminal interfaces
+*   [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
+*   [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
+
+## tool
+
+*   [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+*   [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
+*   [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
+*   [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux
 
 ## miscellaneous
 
+*   [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 *   [danielcranney/profileme-dev](https://github.com/danielcranney/profileme-dev) - Create an awesome GitHub profile in minutes
 *   [ubuntu/gnome-shell-extension-appindicator](https://github.com/ubuntu/gnome-shell-extension-appindicator) - Adds KStatusNotifierItem support to the Shell
 *   [vega/altair](https://github.com/vega/altair) - Declarative visualization library for Python
@@ -1249,45 +1338,93 @@
 *   [altendky/pyqt-tools](https://github.com/altendky/pyqt-tools) - Qt tools including PyQt Designer and QML plugins
 *   [slaypni/fastdtw](https://github.com/slaypni/fastdtw) - A Python implementation of FastDTW
 *   [deshaw/jupyterlab-execute-time](https://github.com/deshaw/jupyterlab-execute-time) - A JupyterLab extension for displaying cell timings
-*   [docker-library/python](https://github.com/docker-library/python) - Docker Official Image packaging for Python
-*   [PiSupply/PiJuice](https://github.com/PiSupply/PiJuice) - Resources for PiJuice HAT for Raspberry Pi - use your Pi Anywhere
 
-## cli
+## alsa
 
-*   [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
-*   [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
-*   [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
-*   [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
+*   [karlstav/cava](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer
+
+## audio-visualizer
+
+*   [karlstav/cava](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer
+
+## freebsd
+
+*   [karlstav/cava](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer
+*   [nomadbsd/NomadBSD](https://github.com/nomadbsd/NomadBSD) - Livesystem based on FreeBSD
+*   [giampaolo/psutil](https://github.com/giampaolo/psutil) - Cross-platform lib for process and system monitoring in Python
+
+## glsl-shaders
+
+*   [karlstav/cava](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer
+
+## linux
+
+*   [karlstav/cava](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer
+*   [Leleat/Tiling-Assistant](https://github.com/Leleat/Tiling-Assistant) - An extension which adds a Windows-like snap assist to GNOME. It also expands GNOME's 2 column tiling layout.
+*   [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
+*   [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
+*   [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 *   [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux
-*   [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
+*   [giampaolo/psutil](https://github.com/giampaolo/psutil) - Cross-platform lib for process and system monitoring in Python
+*   [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
+*   [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 
-## command-line
+## macos
 
-*   [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
-*   [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+*   [karlstav/cava](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer
+*   [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
+
+## ncurses
+
+*   [karlstav/cava](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer
+
+## pipewire
+
+*   [karlstav/cava](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer
+
+## portaudio
+
+*   [karlstav/cava](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer
+
+## pulseaudio
+
+*   [karlstav/cava](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer
+
+## sdl2
+
+*   [karlstav/cava](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer
+
+## sndio
+
+*   [karlstav/cava](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer
+
+## windows
+
+*   [karlstav/cava](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer
+*   [meelkor/polybar-i3-windows](https://github.com/meelkor/polybar-i3-windows) -
+*   [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
+*   [giampaolo/psutil](https://github.com/giampaolo/psutil) - Cross-platform lib for process and system monitoring in Python
+*   [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
+
+## fastfetch
+
+*   [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
+
+## fetch
+
+*   [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
+
+## flashfetch
+
+*   [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
+
+## neofetch
+
+*   [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
 
 ## command-line-interface
 
 *   [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
-
-## git
-
-*   [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
-*   [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
-*   [olivierlacan/keep-a-changelog](https://github.com/olivierlacan/keep-a-changelog) - If you build software, keep a changelog.
-*   [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
-
-## rust
-
-*   [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
-*   [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced \[ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
-*   [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
-
-## tool
-
-*   [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
-*   [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
-*   [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux
 
 ## gnome
 
@@ -1307,17 +1444,6 @@
 *   [hardpixel/unite-shell](https://github.com/hardpixel/unite-shell) - Unite is an extension that makes GNOME Shell look like Ubuntu Unity Shell.
 *   [Leleat/Tiling-Assistant](https://github.com/Leleat/Tiling-Assistant) - An extension which adds a Windows-like snap assist to GNOME. It also expands GNOME's 2 column tiling layout.
 
-## linux
-
-*   [Leleat/Tiling-Assistant](https://github.com/Leleat/Tiling-Assistant) - An extension which adds a Windows-like snap assist to GNOME. It also expands GNOME's 2 column tiling layout.
-*   [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
-*   [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
-*   [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-*   [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux
-*   [giampaolo/psutil](https://github.com/giampaolo/psutil) - Cross-platform lib for process and system monitoring in Python
-*   [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
-*   [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
-
 ## tiling
 
 *   [Leleat/Tiling-Assistant](https://github.com/Leleat/Tiling-Assistant) - An extension which adds a Windows-like snap assist to GNOME. It also expands GNOME's 2 column tiling layout.
@@ -1334,38 +1460,6 @@
 ## eleventy
 
 *   [precondition/keymapdb](https://github.com/precondition/keymapdb) - Online database of keymaps for programmable keyboards, with a focus on QMK ergonomic keyboards.
-
-## hacktoberfest
-
-*   [precondition/keymapdb](https://github.com/precondition/keymapdb) - Online database of keymaps for programmable keyboards, with a focus on QMK ergonomic keyboards.
-*   [pyvista/pyvista](https://github.com/pyvista/pyvista) - 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK)
-*   [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
-*   [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
-*   [dar5hak/generator-awesome-list](https://github.com/dar5hak/generator-awesome-list) - :sunglasses: Yeoman generator for GitHub awesome lists
-*   [pheralb/svgl](https://github.com/pheralb/svgl) - 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.
-*   [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
-*   [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
-*   [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker) - Speedtest Tracker is a self-hosted application that monitors the performance and uptime of your internet connection.
-*   [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
-*   [parallax/jsPDF](https://github.com/parallax/jsPDF) - Client-side JavaScript PDF generation for everyone.
-*   [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
-*   [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
-*   [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) - Looks and smells like Sonarr but made for music.
-*   [Radarr/Radarr](https://github.com/Radarr/Radarr) - Movie organizer/manager for usenet and torrent users.
-*   [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
-*   [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
-*   [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
-*   [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
-*   [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux
-*   [joke2k/django-environ](https://github.com/joke2k/django-environ) - Django-environ allows you to utilize 12factor inspired environment variables to configure your Django application.
-*   [py-pdf/fpdf2](https://github.com/py-pdf/fpdf2) - Simple PDF generation for Python
-*   [scikit-optimize/scikit-optimize](https://github.com/scikit-optimize/scikit-optimize) - Sequential model-based optimization with a  `scipy.optimize` interface
-*   [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
-*   [kedro-org/kedro](https://github.com/kedro-org/kedro) - Kedro is a toolbox for production-ready data science. It uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable, and modular.
-*   [optuna/optuna](https://github.com/optuna/optuna) - A hyperparameter optimization framework
-*   [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
-*   [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
-*   [pyproj4/pyproj](https://github.com/pyproj4/pyproj) - Python interface to PROJ (cartographic projections and coordinate transformations library)
 
 ## keyboards
 
@@ -1490,7 +1584,6 @@
 *   [pyproj4/pyproj](https://github.com/pyproj4/pyproj) - Python interface to PROJ (cartographic projections and coordinate transformations library)
 *   [kinverarity1/lasio](https://github.com/kinverarity1/lasio) - Python library for reading and writing well data using Log ASCII Standard (LAS) files
 *   [CamDavidsonPilon/lifetimes](https://github.com/CamDavidsonPilon/lifetimes) - Lifetime value in Python
-*   [theskumar/python-dotenv](https://github.com/theskumar/python-dotenv) - Reads key-value pairs from a .env file and can set them as environment variables. It helps in developing applications following the 12-factor principles.
 
 ## security
 
@@ -1933,6 +2026,7 @@
 ## selfhosted
 
 *   [wasi-master/13ft](https://github.com/wasi-master/13ft) - My own custom 12ft.io replacement
+*   [seanmorley15/AdventureLog](https://github.com/seanmorley15/AdventureLog) - Self-hostable travel tracker and trip planner.
 *   [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
 *   [Sanjeet990/Astroluma](https://github.com/Sanjeet990/Astroluma) - Astroluma is a feature-rich, user-friendly dashboard designed to help you manage multiple aspects of your daily tasks and services.
 *   [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
@@ -4278,12 +4372,6 @@
 
 *   [metal3d/bashsimplecurses](https://github.com/metal3d/bashsimplecurses) - A simple curses library made in bash to draw terminal interfaces
 
-## terminal
-
-*   [metal3d/bashsimplecurses](https://github.com/metal3d/bashsimplecurses) - A simple curses library made in bash to draw terminal interfaces
-*   [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
-*   [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
-
 ## jupyterlab-theme
 
 *   [Majramos/jupyterlab-theme-solarized-dark](https://github.com/Majramos/jupyterlab-theme-solarized-dark) - JupyterLab 3 Solarized Dark extension
@@ -4388,13 +4476,6 @@
 ## polybar-scripts
 
 *   [meelkor/polybar-i3-windows](https://github.com/meelkor/polybar-i3-windows) -
-
-## windows
-
-*   [meelkor/polybar-i3-windows](https://github.com/meelkor/polybar-i3-windows) -
-*   [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
-*   [giampaolo/psutil](https://github.com/giampaolo/psutil) - Cross-platform lib for process and system monitoring in Python
-*   [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 
 ## c
 
@@ -4729,7 +4810,6 @@
 ## configuration
 
 *   [beetbox/confuse](https://github.com/beetbox/confuse) - painless YAML config files for Python
-*   [theskumar/python-dotenv](https://github.com/theskumar/python-dotenv) - Reads key-value pairs from a .env file and can set them as environment variables. It helps in developing applications following the 12-factor principles.
 
 ## yaml
 
@@ -4794,11 +4874,6 @@
 ## figlet
 
 *   [pwaller/pyfiglet](https://github.com/pwaller/pyfiglet) - An implementation of figlet written in Python
-
-## freebsd
-
-*   [nomadbsd/NomadBSD](https://github.com/nomadbsd/NomadBSD) - Livesystem based on FreeBSD
-*   [giampaolo/psutil](https://github.com/giampaolo/psutil) - Cross-platform lib for process and system monitoring in Python
 
 ## live-system
 
@@ -6509,10 +6584,6 @@
 
 *   [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 
-## macos
-
-*   [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
-
 ## amazon
 
 *   [cloudyr/aws.s3](https://github.com/cloudyr/aws.s3) - Amazon Simple Storage Service (S3) API Client
@@ -6524,7 +6595,6 @@
 ## aws-s3
 
 *   [cloudyr/aws.s3](https://github.com/cloudyr/aws.s3) - Amazon Simple Storage Service (S3) API Client
-*   [gaul/s3proxy](https://github.com/gaul/s3proxy) - Access other storage backends via the S3 API
 
 ## cloudyr
 
@@ -6537,52 +6607,7 @@
 ## s3
 
 *   [cloudyr/aws.s3](https://github.com/cloudyr/aws.s3) - Amazon Simple Storage Service (S3) API Client
-*   [gaul/s3proxy](https://github.com/gaul/s3proxy) - Access other storage backends via the S3 API
 
 ## s3-storage
 
 *   [cloudyr/aws.s3](https://github.com/cloudyr/aws.s3) - Amazon Simple Storage Service (S3) API Client
-
-## 12-factor-app
-
-*   [theskumar/python-dotenv](https://github.com/theskumar/python-dotenv) - Reads key-value pairs from a .env file and can set them as environment variables. It helps in developing applications following the 12-factor principles.
-
-## devops-tools
-
-*   [theskumar/python-dotenv](https://github.com/theskumar/python-dotenv) - Reads key-value pairs from a .env file and can set them as environment variables. It helps in developing applications following the 12-factor principles.
-
-## dotenv
-
-*   [theskumar/python-dotenv](https://github.com/theskumar/python-dotenv) - Reads key-value pairs from a .env file and can set them as environment variables. It helps in developing applications following the 12-factor principles.
-
-## env
-
-*   [theskumar/python-dotenv](https://github.com/theskumar/python-dotenv) - Reads key-value pairs from a .env file and can set them as environment variables. It helps in developing applications following the 12-factor principles.
-
-## environment-variables
-
-*   [theskumar/python-dotenv](https://github.com/theskumar/python-dotenv) - Reads key-value pairs from a .env file and can set them as environment variables. It helps in developing applications following the 12-factor principles.
-
-## atmos
-
-*   [gaul/s3proxy](https://github.com/gaul/s3proxy) - Access other storage backends via the S3 API
-
-## azure
-
-*   [gaul/s3proxy](https://github.com/gaul/s3proxy) - Access other storage backends via the S3 API
-
-## backblaze-b2
-
-*   [gaul/s3proxy](https://github.com/gaul/s3proxy) - Access other storage backends via the S3 API
-
-## google-cloud-storage
-
-*   [gaul/s3proxy](https://github.com/gaul/s3proxy) - Access other storage backends via the S3 API
-
-## openstack-swift
-
-*   [gaul/s3proxy](https://github.com/gaul/s3proxy) - Access other storage backends via the S3 API
-
-## proxy
-
-*   [gaul/s3proxy](https://github.com/gaul/s3proxy) - Access other storage backends via the S3 API

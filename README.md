@@ -4,8 +4,10 @@
 
 ## Table of Contents
 
-*   [JavaScript](#javascript)
 *   [Rust](#rust)
+*   [C++](#c)
+*   [C](#c-1)
+*   [JavaScript](#javascript)
 *   [Python](#python)
 *   [SCSS](#scss)
 *   [miscellaneous](#miscellaneous)
@@ -20,10 +22,8 @@
 *   [R](#r)
 *   [Haml](#haml)
 *   [Cuda](#cuda)
-*   [C++](#c)
 *   [Dart](#dart)
 *   [CSS](#css)
-*   [C](#c-1)
 *   [Java](#java)
 *   [Vue](#vue)
 *   [C#](#c-2)
@@ -37,6 +37,34 @@
 *   [Batchfile](#batchfile)
 *   [Cython](#cython)
 *   [Lasso](#lasso)
+
+## Rust
+
+*   [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+*   [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
+*   [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
+*   [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+
+## C++
+
+*   [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
+*   [rapidsai/kvikio](https://github.com/rapidsai/kvikio) - KvikIO - High Performance File IO
+*   [rapidsai/cuml](https://github.com/rapidsai/cuml) - cuML - RAPIDS Machine Learning Library
+*   [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
+*   [Project-OSRM/osrm-backend](https://github.com/Project-OSRM/osrm-backend) - Open Source Routing Machine - C++ backend
+*   [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
+*   [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
+*   [rapidsai/cudf](https://github.com/rapidsai/cudf) - cuDF - GPU DataFrame Library
+*   [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
+*   [opentx/opentx](https://github.com/opentx/opentx) - OpenTX custom firmware for Transmitters
+
+## C
+
+*   [karlstav/cava](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer
+*   [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
+*   [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
+*   [NLnetLabs/unbound](https://github.com/NLnetLabs/unbound) - Unbound is a validating, recursive, and caching DNS resolver.
+*   [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
 
 ## JavaScript
 
@@ -71,12 +99,6 @@
 *   [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
 *   [codeforgermany/click\_that\_hood](https://github.com/codeforgermany/click_that_hood) - A game where users must identify a city's neighborhoods as fast as possible
 *   [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
-
-## Rust
-
-*   [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
-*   [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
-*   [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 
 ## Python
 
@@ -206,7 +228,6 @@
 *   [altendky/pyqt-tools](https://github.com/altendky/pyqt-tools) - Qt tools including PyQt Designer and QML plugins
 *   [slaypni/fastdtw](https://github.com/slaypni/fastdtw) - A Python implementation of FastDTW
 *   [CamDavidsonPilon/lifetimes](https://github.com/CamDavidsonPilon/lifetimes) - Lifetime value in Python
-*   [theskumar/python-dotenv](https://github.com/theskumar/python-dotenv) - Reads key-value pairs from a .env file and can set them as environment variables. It helps in developing applications following the 12-factor principles.
 
 ## SCSS
 
@@ -231,7 +252,6 @@
 *   [searxng/searxng-docker](https://github.com/searxng/searxng-docker) - The docker-compose files for setting up a SearXNG instance with docker.
 *   [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻
 *   [Majramos/Majramos](https://github.com/Majramos/Majramos) - Config files for my GitHub profile.
-*   [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 *   [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
 *   [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 *   [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
@@ -248,6 +268,7 @@
 *   [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
 *   [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
 *   [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
+*   [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 *   [WestHealth/pyvis](https://github.com/WestHealth/pyvis) - Python package for creating and visualizing interactive network graphs.
 *   [sehmaschine/django-grappelli](https://github.com/sehmaschine/django-grappelli) - A jazzy skin for the Django Admin-Interface (official repository).
 *   [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 🧠 Laws, Theories, Principles and Patterns for developers and technologists.
@@ -331,18 +352,6 @@
 *   [rapidsai/cuvs](https://github.com/rapidsai/cuvs) - cuVS - a library for vector search and clustering on the GPU
 *   [rapidsai/cuspatial](https://github.com/rapidsai/cuspatial) - CUDA-accelerated GIS and spatiotemporal algorithms
 
-## C++
-
-*   [rapidsai/kvikio](https://github.com/rapidsai/kvikio) - KvikIO - High Performance File IO
-*   [rapidsai/cuml](https://github.com/rapidsai/cuml) - cuML - RAPIDS Machine Learning Library
-*   [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
-*   [Project-OSRM/osrm-backend](https://github.com/Project-OSRM/osrm-backend) - Open Source Routing Machine - C++ backend
-*   [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
-*   [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
-*   [rapidsai/cudf](https://github.com/rapidsai/cudf) - cuDF - GPU DataFrame Library
-*   [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
-*   [opentx/opentx](https://github.com/opentx/opentx) - OpenTX custom firmware for Transmitters
-
 ## Dart
 
 *   [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
@@ -353,19 +362,11 @@
 *   [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 *   [nomadbsd/NomadBSD](https://github.com/nomadbsd/NomadBSD) - Livesystem based on FreeBSD
 
-## C
-
-*   [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
-*   [NLnetLabs/unbound](https://github.com/NLnetLabs/unbound) - Unbound is a validating, recursive, and caching DNS resolver.
-*   [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
-*   [PiSupply/PiJuice](https://github.com/PiSupply/PiJuice) - Resources for PiJuice HAT for Raspberry Pi - use your Pi Anywhere
-
 ## Java
 
 *   [apache/pdfbox](https://github.com/apache/pdfbox) - Mirror of Apache PDFBox
 *   [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 *   [dremio-hub/arrow-flight-client-examples](https://github.com/dremio-hub/arrow-flight-client-examples) -
-*   [gaul/s3proxy](https://github.com/gaul/s3proxy) - Access other storage backends via the S3 API
 
 ## Vue
 
@@ -387,7 +388,6 @@
 *   [linrunner/TLP](https://github.com/linrunner/TLP) - TLP - Optimize Linux Laptop Battery Life
 *   [vinceliuice/Tela-icon-theme](https://github.com/vinceliuice/Tela-icon-theme) - A flat colorful Design icon theme
 *   [holoviz/holoviz](https://github.com/holoviz/holoviz) - High-level tools to simplify visualization in Python.
-*   [docker-library/python](https://github.com/docker-library/python) - Docker Official Image packaging for Python
 
 ## Lua
 
