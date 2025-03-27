@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Astro](#astro)
 *   [Rust](#rust)
 *   [C++](#c)
 *   [C](#c-1)
@@ -37,6 +38,10 @@
 *   [Batchfile](#batchfile)
 *   [Cython](#cython)
 *   [Lasso](#lasso)
+
+## Astro
+
+*   [scmmishra/terminal-apps.dev](https://github.com/scmmishra/terminal-apps.dev) - A collection of super cool TUI apps across the web
 
 ## Rust
 
@@ -281,7 +286,7 @@
 
 ## Go
 
-*   [nevalang/neva](https://github.com/nevalang/neva) - 🌊 Next-generation programming language that solves programmers' problems
+*   [nevalang/neva](https://github.com/nevalang/neva) - Next-generation programming language that solves programmers' problems
 *   [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
 *   [opencontainers/image-spec](https://github.com/opencontainers/image-spec) - OCI Image Format
 *   [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
@@ -339,7 +344,6 @@
 ## R
 
 *   [jhelvy/splitKbCompare](https://github.com/jhelvy/splitKbCompare) - An interactive tool for comparing layouts of different split mechanical keyboards
-*   [cloudyr/aws.s3](https://github.com/cloudyr/aws.s3) - Amazon Simple Storage Service (S3) API Client
 
 ## Haml
 
