@@ -1133,9 +1133,6 @@
 *   [graph-generation](#graph-generation)
 *   [graph-theory](#graph-theory)
 *   [graph-visualization](#graph-visualization)
-*   [spec-0](#spec-0)
-*   [spec-1](#spec-1)
-*   [spec-4](#spec-4)
 *   [leaflet](#leaflet)
 *   [leaflet-plugins](#leaflet-plugins)
 *   [map](#map)
@@ -6414,18 +6411,6 @@
 *   [networkx/networkx](https://github.com/networkx/networkx) - Network Analysis in Python
 
 ## graph-visualization
-
-*   [networkx/networkx](https://github.com/networkx/networkx) - Network Analysis in Python
-
-## spec-0
-
-*   [networkx/networkx](https://github.com/networkx/networkx) - Network Analysis in Python
-
-## spec-1
-
-*   [networkx/networkx](https://github.com/networkx/networkx) - Network Analysis in Python
-
-## spec-4
 
 *   [networkx/networkx](https://github.com/networkx/networkx) - Network Analysis in Python
 
