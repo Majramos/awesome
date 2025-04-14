@@ -1218,7 +1218,6 @@
 *   [linrunner/TLP](https://github.com/linrunner/TLP) - TLP - Optimize Linux Laptop Battery Life
 *   [ChrisTitusTech/win10script](https://github.com/ChrisTitusTech/win10script) - This is the Ultimate Windows 10 Script from a creation from multiple debloat scripts and gists from github.
 *   [django-compressor/django-compressor](https://github.com/django-compressor/django-compressor) - Compresses linked and inline javascript or CSS into a single cached file.
-*   [evansd/whitenoise](https://github.com/evansd/whitenoise) - Radically simplified static file serving for Python web apps
 *   [agiliq/django-admin-cookbook](https://github.com/agiliq/django-admin-cookbook) -
 *   [sehmaschine/django-grappelli](https://github.com/sehmaschine/django-grappelli) - A jazzy skin for the Django Admin-Interface (official repository).
 *   [gintas/django-picklefield](https://github.com/gintas/django-picklefield) - A pickled object field for Django
@@ -2127,6 +2126,7 @@
 *   [seanmorley15/AdventureLog](https://github.com/seanmorley15/AdventureLog) - Self-hostable travel tracker and trip planner.
 *   [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
 *   [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
+*   [evansd/whitenoise](https://github.com/evansd/whitenoise) - Radically simplified static file serving for Python web apps
 *   [jazzband/django-analytical](https://github.com/jazzband/django-analytical) - Analytics services for Django projects
 *   [joke2k/django-environ](https://github.com/joke2k/django-environ) - Django-environ allows you to utilize 12factor inspired environment variables to configure your Django application.
 *   [jazzband/django-polymorphic](https://github.com/jazzband/django-polymorphic) - Improved Django model inheritance with automatic downcasting
