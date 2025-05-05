@@ -286,7 +286,7 @@
 
 ## Go
 
-*   [nevalang/neva](https://github.com/nevalang/neva) - Next-generation programming language that solves programmers' problems
+*   [nevalang/neva](https://github.com/nevalang/neva) - Write programs like message passing graphs and get parallelism for free. Statically typed and compiled to machine code!
 *   [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
 *   [opencontainers/image-spec](https://github.com/opencontainers/image-spec) - OCI Image Format
 *   [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy

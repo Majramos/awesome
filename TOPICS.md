@@ -2246,88 +2246,88 @@
 
 ## compiler
 
-*   [nevalang/neva](https://github.com/nevalang/neva) - Next-generation programming language that solves programmers' problems
+*   [nevalang/neva](https://github.com/nevalang/neva) - Write programs like message passing graphs and get parallelism for free. Statically typed and compiled to machine code!
 
 ## concurrent-programing
 
-*   [nevalang/neva](https://github.com/nevalang/neva) - Next-generation programming language that solves programmers' problems
+*   [nevalang/neva](https://github.com/nevalang/neva) - Write programs like message passing graphs and get parallelism for free. Statically typed and compiled to machine code!
 
 ## dataflow-compiler
 
-*   [nevalang/neva](https://github.com/nevalang/neva) - Next-generation programming language that solves programmers' problems
+*   [nevalang/neva](https://github.com/nevalang/neva) - Write programs like message passing graphs and get parallelism for free. Statically typed and compiled to machine code!
 
 ## dataflow-programming
 
-*   [nevalang/neva](https://github.com/nevalang/neva) - Next-generation programming language that solves programmers' problems
+*   [nevalang/neva](https://github.com/nevalang/neva) - Write programs like message passing graphs and get parallelism for free. Statically typed and compiled to machine code!
 
 ## dataflow-runtime
 
-*   [nevalang/neva](https://github.com/nevalang/neva) - Next-generation programming language that solves programmers' problems
+*   [nevalang/neva](https://github.com/nevalang/neva) - Write programs like message passing graphs and get parallelism for free. Statically typed and compiled to machine code!
 
 ## fbp
 
-*   [nevalang/neva](https://github.com/nevalang/neva) - Next-generation programming language that solves programmers' problems
+*   [nevalang/neva](https://github.com/nevalang/neva) - Write programs like message passing graphs and get parallelism for free. Statically typed and compiled to machine code!
 
 ## fbp-compiler
 
-*   [nevalang/neva](https://github.com/nevalang/neva) - Next-generation programming language that solves programmers' problems
+*   [nevalang/neva](https://github.com/nevalang/neva) - Write programs like message passing graphs and get parallelism for free. Statically typed and compiled to machine code!
 
 ## fbp-runtime
 
-*   [nevalang/neva](https://github.com/nevalang/neva) - Next-generation programming language that solves programmers' problems
+*   [nevalang/neva](https://github.com/nevalang/neva) - Write programs like message passing graphs and get parallelism for free. Statically typed and compiled to machine code!
 
 ## flow-based
 
-*   [nevalang/neva](https://github.com/nevalang/neva) - Next-generation programming language that solves programmers' problems
+*   [nevalang/neva](https://github.com/nevalang/neva) - Write programs like message passing graphs and get parallelism for free. Statically typed and compiled to machine code!
 
 ## flow-based-programming
 
-*   [nevalang/neva](https://github.com/nevalang/neva) - Next-generation programming language that solves programmers' problems
+*   [nevalang/neva](https://github.com/nevalang/neva) - Write programs like message passing graphs and get parallelism for free. Statically typed and compiled to machine code!
 
 ## functional-programming
 
-*   [nevalang/neva](https://github.com/nevalang/neva) - Next-generation programming language that solves programmers' problems
+*   [nevalang/neva](https://github.com/nevalang/neva) - Write programs like message passing graphs and get parallelism for free. Statically typed and compiled to machine code!
 
 ## go
 
-*   [nevalang/neva](https://github.com/nevalang/neva) - Next-generation programming language that solves programmers' problems
+*   [nevalang/neva](https://github.com/nevalang/neva) - Write programs like message passing graphs and get parallelism for free. Statically typed and compiled to machine code!
 *   [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 *   [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 
 ## golang
 
-*   [nevalang/neva](https://github.com/nevalang/neva) - Next-generation programming language that solves programmers' problems
+*   [nevalang/neva](https://github.com/nevalang/neva) - Write programs like message passing graphs and get parallelism for free. Statically typed and compiled to machine code!
 *   [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 *   [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 *   [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 
 ## neva
 
-*   [nevalang/neva](https://github.com/nevalang/neva) - Next-generation programming language that solves programmers' problems
+*   [nevalang/neva](https://github.com/nevalang/neva) - Write programs like message passing graphs and get parallelism for free. Statically typed and compiled to machine code!
 
 ## nevalang
 
-*   [nevalang/neva](https://github.com/nevalang/neva) - Next-generation programming language that solves programmers' problems
+*   [nevalang/neva](https://github.com/nevalang/neva) - Write programs like message passing graphs and get parallelism for free. Statically typed and compiled to machine code!
 
 ## programming-language
 
-*   [nevalang/neva](https://github.com/nevalang/neva) - Next-generation programming language that solves programmers' problems
+*   [nevalang/neva](https://github.com/nevalang/neva) - Write programs like message passing graphs and get parallelism for free. Statically typed and compiled to machine code!
 
 ## reactive-programming
 
-*   [nevalang/neva](https://github.com/nevalang/neva) - Next-generation programming language that solves programmers' problems
+*   [nevalang/neva](https://github.com/nevalang/neva) - Write programs like message passing graphs and get parallelism for free. Statically typed and compiled to machine code!
 
 ## visual-programming
 
-*   [nevalang/neva](https://github.com/nevalang/neva) - Next-generation programming language that solves programmers' problems
+*   [nevalang/neva](https://github.com/nevalang/neva) - Write programs like message passing graphs and get parallelism for free. Statically typed and compiled to machine code!
 
 ## visual-programming-editor
 
-*   [nevalang/neva](https://github.com/nevalang/neva) - Next-generation programming language that solves programmers' problems
+*   [nevalang/neva](https://github.com/nevalang/neva) - Write programs like message passing graphs and get parallelism for free. Statically typed and compiled to machine code!
 
 ## visual-programming-language
 
-*   [nevalang/neva](https://github.com/nevalang/neva) - Next-generation programming language that solves programmers' problems
+*   [nevalang/neva](https://github.com/nevalang/neva) - Write programs like message passing graphs and get parallelism for free. Statically typed and compiled to machine code!
 
 ## cookbook
 
