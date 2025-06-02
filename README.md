@@ -24,7 +24,6 @@
 *   [Haml](#haml)
 *   [Cuda](#cuda)
 *   [Dart](#dart)
-*   [CSS](#css)
 *   [Java](#java)
 *   [Vue](#vue)
 *   [C#](#c-2)
@@ -32,6 +31,7 @@
 *   [Lua](#lua)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Dockerfile](#dockerfile)
+*   [CSS](#css)
 *   [Haskell](#haskell)
 *   [Markdown](#markdown)
 *   [PowerShell](#powershell)
@@ -274,6 +274,7 @@
 *   [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
 *   [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
 *   [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
+*   [lipis/flag-icons](https://github.com/lipis/flag-icons) - :flags: A curated collection of all country flags in SVG — plus the CSS for easier integration
 *   [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 *   [WestHealth/pyvis](https://github.com/WestHealth/pyvis) - Python package for creating and visualizing interactive network graphs.
 *   [sehmaschine/django-grappelli](https://github.com/sehmaschine/django-grappelli) - A jazzy skin for the Django Admin-Interface (official repository).
@@ -360,12 +361,6 @@
 
 *   [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 
-## CSS
-
-*   [lipis/flag-icons](https://github.com/lipis/flag-icons) - :flags: A curated collection of all country flags in SVG — plus the CSS for easier integration
-*   [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
-*   [nomadbsd/NomadBSD](https://github.com/nomadbsd/NomadBSD) - Livesystem based on FreeBSD
-
 ## Java
 
 *   [apache/pdfbox](https://github.com/apache/pdfbox) - Mirror of Apache PDFBox
@@ -414,6 +409,11 @@
 ## Dockerfile
 
 *   [mvillarrealb/docker-spark-cluster](https://github.com/mvillarrealb/docker-spark-cluster) - A simple spark standalone cluster for your testing environment purposses
+
+## CSS
+
+*   [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
+*   [nomadbsd/NomadBSD](https://github.com/nomadbsd/NomadBSD) - Livesystem based on FreeBSD
 
 ## Haskell
 
