@@ -1419,7 +1419,6 @@
 *   [scikit-optimize/scikit-optimize](https://github.com/scikit-optimize/scikit-optimize) - Sequential model-based optimization with a  `scipy.optimize` interface
 *   [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
 *   [kedro-org/kedro](https://github.com/kedro-org/kedro) - Kedro is a toolbox for production-ready data science. It uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable, and modular.
-*   [optuna/optuna](https://github.com/optuna/optuna) - A hyperparameter optimization framework
 *   [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 *   [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 *   [pyproj4/pyproj](https://github.com/pyproj4/pyproj) - Python interface to PROJ (cartographic projections and coordinate transformations library)
