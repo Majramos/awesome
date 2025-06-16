@@ -4,7 +4,9 @@
 
 ## Table of Contents
 
+*   [Go](#go)
 *   [TypeScript](#typescript)
+*   [Vue](#vue)
 *   [Python](#python)
 *   [Astro](#astro)
 *   [Rust](#rust)
@@ -15,7 +17,6 @@
 *   [miscellaneous](#miscellaneous)
 *   [HTML](#html)
 *   [Svelte](#svelte)
-*   [Go](#go)
 *   [Ruby](#ruby)
 *   [Vim Script](#vim-script)
 *   [PHP](#php)
@@ -25,7 +26,6 @@
 *   [Cuda](#cuda)
 *   [Dart](#dart)
 *   [Java](#java)
-*   [Vue](#vue)
 *   [C#](#c-2)
 *   [Shell](#shell)
 *   [Lua](#lua)
@@ -37,10 +37,19 @@
 *   [PowerShell](#powershell)
 *   [Batchfile](#batchfile)
 *   [Cython](#cython)
-*   [Lasso](#lasso)
+
+## Go
+
+*   [monetr/monetr](https://github.com/monetr/monetr) - monetr is a budgeting application focused on planning for recurring expenses.
+*   [nevalang/neva](https://github.com/nevalang/neva) - Write programs like message passing graphs and get parallelism for free. Statically typed and compiled to machine code!
+*   [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
+*   [opencontainers/image-spec](https://github.com/opencontainers/image-spec) - OCI Image Format
+*   [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
+*   [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 
 ## TypeScript
 
+*   [afadil/wealthfolio](https://github.com/afadil/wealthfolio) - A Beautiful Private and Secure Desktop Investment Tracking Application
 *   [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
 *   [johanohly/AirTrail](https://github.com/johanohly/AirTrail) - A modern, open-source personal flight tracking system
 *   [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
@@ -68,6 +77,13 @@
 *   [jtpio/jupyterlab-system-monitor](https://github.com/jtpio/jupyterlab-system-monitor) - JupyterLab extension to display system metrics
 *   [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 *   [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
+
+## Vue
+
+*   [serversideup/financial-freedom](https://github.com/serversideup/financial-freedom) - 🔥🔥🔥 An open source alternative to Mint, YNAB, and more. Stay on budget and build wealth without sacrificing your privacy.
+*   [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
+*   [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
+*   [Idered/chalk.ist](https://github.com/Idered/chalk.ist) - 📷 Create beautiful images of your source code
 
 ## Python
 
@@ -197,7 +213,6 @@
 *   [pyproj4/pyproj](https://github.com/pyproj4/pyproj) - Python interface to PROJ (cartographic projections and coordinate transformations library)
 *   [django-crispy-forms/django-crispy-forms](https://github.com/django-crispy-forms/django-crispy-forms) - The best way to have DRY Django forms. The app provides a tag and filter that lets you quickly render forms in a div format while providing an enormous amount of capability to configure and control the rendered HTML.
 *   [altendky/pyqt-tools](https://github.com/altendky/pyqt-tools) - Qt tools including PyQt Designer and QML plugins
-*   [slaypni/fastdtw](https://github.com/slaypni/fastdtw) - A Python implementation of FastDTW
 
 ## Astro
 
@@ -263,7 +278,6 @@
 *   [steelbrain/linter](https://github.com/steelbrain/linter) - A Base Linter with Cow Powers https://aneesiqbal.ai/2017-03-13-linter-v2-released
 *   [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
 *   [codeforgermany/click\_that\_hood](https://github.com/codeforgermany/click_that_hood) - A game where users must identify a city's neighborhoods as fast as possible
-*   [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 
 ## SCSS
 
@@ -315,14 +329,6 @@
 
 *   [seanmorley15/AdventureLog](https://github.com/seanmorley15/AdventureLog) - Self-hostable travel tracker and trip planner.
 
-## Go
-
-*   [nevalang/neva](https://github.com/nevalang/neva) - Write programs like message passing graphs and get parallelism for free. Statically typed and compiled to machine code!
-*   [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
-*   [opencontainers/image-spec](https://github.com/opencontainers/image-spec) - OCI Image Format
-*   [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
-*   [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
-
 ## Ruby
 
 *   [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
@@ -367,12 +373,6 @@
 *   [apache/pdfbox](https://github.com/apache/pdfbox) - Mirror of Apache PDFBox
 *   [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 *   [dremio-hub/arrow-flight-client-examples](https://github.com/dremio-hub/arrow-flight-client-examples) -
-
-## Vue
-
-*   [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
-*   [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
-*   [Idered/chalk.ist](https://github.com/Idered/chalk.ist) - 📷 Create beautiful images of your source code
 
 ## C\#
 
@@ -436,7 +436,3 @@
 ## Cython
 
 *   [TA-Lib/ta-lib-python](https://github.com/TA-Lib/ta-lib-python) - Python wrapper for TA-Lib (http://ta-lib.org/).
-
-## Lasso
-
-*   [kinverarity1/lasio](https://github.com/kinverarity1/lasio) - Python library for reading and writing well data using Log ASCII Standard (LAS) files

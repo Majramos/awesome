@@ -4,9 +4,26 @@
 
 ## Table of Contents
 
+*   [budget](#budget)
+*   [budget-app](#budget-app)
+*   [budget-tool](#budget-tool)
+*   [budgeting](#budgeting)
+*   [expense-tracker](#expense-tracker)
+*   [finance](#finance)
+*   [finance-management](#finance-management)
+*   [financial-independence](#financial-independence)
+*   [financial-planning](#financial-planning)
+*   [golang](#golang)
+*   [open-finance](#open-finance)
+*   [plaid](#plaid)
+*   [react](#react)
+*   [macos-app](#macos-app)
+*   [portfolio-tracker](#portfolio-tracker)
+*   [tauri-app](#tauri-app)
+*   [laravel](#laravel)
+*   [vuejs](#vuejs)
 *   [angular](#angular)
 *   [etf](#etf)
-*   [finance](#finance)
 *   [fintech](#fintech)
 *   [ghostfolio](#ghostfolio)
 *   [hacktoberfest](#hacktoberfest)
@@ -191,7 +208,6 @@
 *   [collaboration](#collaboration)
 *   [javascript](#javascript)
 *   [kanban](#kanban)
-*   [react](#react)
 *   [redux](#redux)
 *   [trello](#trello)
 *   [duplicate-detection](#duplicate-detection)
@@ -207,7 +223,6 @@
 *   [flow-based-programming](#flow-based-programming)
 *   [functional-programming](#functional-programming)
 *   [go](#go)
-*   [golang](#golang)
 *   [neva](#neva)
 *   [nevalang](#nevalang)
 *   [programming-language](#programming-language)
@@ -230,8 +245,6 @@
 *   [stimulusjs](#stimulusjs)
 *   [turbo](#turbo)
 *   [accounting](#accounting)
-*   [budget](#budget)
-*   [budgeting](#budgeting)
 *   [budgets](#budgets)
 *   [cash-flow](#cash-flow)
 *   [cashflow](#cashflow)
@@ -400,7 +413,6 @@
 *   [registry](#registry)
 *   [update-checker](#update-checker)
 *   [watchtower](#watchtower)
-*   [laravel](#laravel)
 *   [speedtest](#speedtest)
 *   [speedtest-cli](#speedtest-cli)
 *   [awesome](#awesome)
@@ -547,7 +559,6 @@
 *   [sabnzbd](#sabnzbd)
 *   [server](#server)
 *   [toolbox](#toolbox)
-*   [vuejs](#vuejs)
 *   [cockpit](#cockpit)
 *   [linux-servers](#linux-servers)
 *   [music](#music)
@@ -1170,21 +1181,102 @@
 *   [coordinate-systems](#coordinate-systems)
 *   [coordinate-transformation](#coordinate-transformation)
 *   [geodesic](#geodesic)
-*   [data-format](#data-format)
-*   [data-management](#data-management)
-*   [geology](#geology)
-*   [geophysics](#geophysics)
-*   [geotechnical-engineering](#geotechnical-engineering)
-*   [groundwater](#groundwater)
-*   [las-files](#las-files)
-*   [lasio](#lasio)
-*   [log-ascii-standard](#log-ascii-standard)
-*   [mineral-exploration](#mineral-exploration)
-*   [petroleum](#petroleum)
-*   [swung-t21](#swung-t21)
-*   [well-log](#well-log)
-*   [wireline](#wireline)
-*   [atom](#atom)
+
+## budget
+
+*   [monetr/monetr](https://github.com/monetr/monetr) - monetr is a budgeting application focused on planning for recurring expenses.
+*   [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
+
+## budget-app
+
+*   [monetr/monetr](https://github.com/monetr/monetr) - monetr is a budgeting application focused on planning for recurring expenses.
+
+## budget-tool
+
+*   [monetr/monetr](https://github.com/monetr/monetr) - monetr is a budgeting application focused on planning for recurring expenses.
+
+## budgeting
+
+*   [monetr/monetr](https://github.com/monetr/monetr) - monetr is a budgeting application focused on planning for recurring expenses.
+*   [serversideup/financial-freedom](https://github.com/serversideup/financial-freedom) - 🔥🔥🔥 An open source alternative to Mint, YNAB, and more. Stay on budget and build wealth without sacrificing your privacy.
+*   [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
+*   [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
+
+## expense-tracker
+
+*   [monetr/monetr](https://github.com/monetr/monetr) - monetr is a budgeting application focused on planning for recurring expenses.
+
+## finance
+
+*   [monetr/monetr](https://github.com/monetr/monetr) - monetr is a budgeting application focused on planning for recurring expenses.
+*   [serversideup/financial-freedom](https://github.com/serversideup/financial-freedom) - 🔥🔥🔥 An open source alternative to Mint, YNAB, and more. Stay on budget and build wealth without sacrificing your privacy.
+*   [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
+*   [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
+*   [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
+*   [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
+*   [TA-Lib/ta-lib-python](https://github.com/TA-Lib/ta-lib-python) - Python wrapper for TA-Lib (http://ta-lib.org/).
+*   [bashtage/arch](https://github.com/bashtage/arch) - ARCH models in Python
+
+## finance-management
+
+*   [monetr/monetr](https://github.com/monetr/monetr) - monetr is a budgeting application focused on planning for recurring expenses.
+
+## financial-independence
+
+*   [monetr/monetr](https://github.com/monetr/monetr) - monetr is a budgeting application focused on planning for recurring expenses.
+*   [serversideup/financial-freedom](https://github.com/serversideup/financial-freedom) - 🔥🔥🔥 An open source alternative to Mint, YNAB, and more. Stay on budget and build wealth without sacrificing your privacy.
+
+## financial-planning
+
+*   [monetr/monetr](https://github.com/monetr/monetr) - monetr is a budgeting application focused on planning for recurring expenses.
+
+## golang
+
+*   [monetr/monetr](https://github.com/monetr/monetr) - monetr is a budgeting application focused on planning for recurring expenses.
+*   [nevalang/neva](https://github.com/nevalang/neva) - Write programs like message passing graphs and get parallelism for free. Statically typed and compiled to machine code!
+*   [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
+*   [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
+*   [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
+
+## open-finance
+
+*   [monetr/monetr](https://github.com/monetr/monetr) - monetr is a budgeting application focused on planning for recurring expenses.
+
+## plaid
+
+*   [monetr/monetr](https://github.com/monetr/monetr) - monetr is a budgeting application focused on planning for recurring expenses.
+
+## react
+
+*   [monetr/monetr](https://github.com/monetr/monetr) - monetr is a budgeting application focused on planning for recurring expenses.
+*   [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the kanban-style project mastering tool for everyone.
+*   [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
+*   [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
+*   [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+*   [dailydotdev/apps](https://github.com/dailydotdev/apps) - daily.dev application suite
+
+## macos-app
+
+*   [afadil/wealthfolio](https://github.com/afadil/wealthfolio) - A Beautiful Private and Secure Desktop Investment Tracking Application
+
+## portfolio-tracker
+
+*   [afadil/wealthfolio](https://github.com/afadil/wealthfolio) - A Beautiful Private and Secure Desktop Investment Tracking Application
+
+## tauri-app
+
+*   [afadil/wealthfolio](https://github.com/afadil/wealthfolio) - A Beautiful Private and Secure Desktop Investment Tracking Application
+
+## laravel
+
+*   [serversideup/financial-freedom](https://github.com/serversideup/financial-freedom) - 🔥🔥🔥 An open source alternative to Mint, YNAB, and more. Stay on budget and build wealth without sacrificing your privacy.
+*   [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker) - Speedtest Tracker is a self-hosted application that monitors the performance and uptime of your internet connection.
+
+## vuejs
+
+*   [serversideup/financial-freedom](https://github.com/serversideup/financial-freedom) - 🔥🔥🔥 An open source alternative to Mint, YNAB, and more. Stay on budget and build wealth without sacrificing your privacy.
+*   [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
+*   [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 
 ## angular
 
@@ -1194,15 +1286,6 @@
 ## etf
 
 *   [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
-
-## finance
-
-*   [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
-*   [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
-*   [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
-*   [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
-*   [TA-Lib/ta-lib-python](https://github.com/TA-Lib/ta-lib-python) - Python wrapper for TA-Lib (http://ta-lib.org/).
-*   [bashtage/arch](https://github.com/bashtage/arch) - ARCH models in Python
 
 ## fintech
 
@@ -1416,7 +1499,6 @@
 *   [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 *   [geopandas/geopandas](https://github.com/geopandas/geopandas) - Python tools for geographic data
 *   [pyproj4/pyproj](https://github.com/pyproj4/pyproj) - Python interface to PROJ (cartographic projections and coordinate transformations library)
-*   [kinverarity1/lasio](https://github.com/kinverarity1/lasio) - Python library for reading and writing well data using Log ASCII Standard (LAS) files
 
 ## suffix
 
@@ -1500,7 +1582,6 @@
 *   [nmota/caop\_GeoJSON](https://github.com/nmota/caop_GeoJSON) - CAOPortugal em formato GeoJSON
 *   [django-crispy-forms/django-crispy-forms](https://github.com/django-crispy-forms/django-crispy-forms) - The best way to have DRY Django forms. The app provides a tag and filter that lets you quickly render forms in a div format while providing an enormous amount of capability to configure and control the rendered HTML.
 *   [altendky/pyqt-tools](https://github.com/altendky/pyqt-tools) - Qt tools including PyQt Designer and QML plugins
-*   [slaypni/fastdtw](https://github.com/slaypni/fastdtw) - A Python implementation of FastDTW
 
 ## cli
 
@@ -1581,12 +1662,10 @@
 *   [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux
 *   [giampaolo/psutil](https://github.com/giampaolo/psutil) - Cross-platform lib for process and system monitoring in Python
 *   [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
-*   [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 
 ## macos
 
 *   [karlstav/cava](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer
-*   [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 
 ## ncurses
 
@@ -1618,7 +1697,6 @@
 *   [meelkor/polybar-i3-windows](https://github.com/meelkor/polybar-i3-windows) -
 *   [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
 *   [giampaolo/psutil](https://github.com/giampaolo/psutil) - Cross-platform lib for process and system monitoring in Python
-*   [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 
 ## fastfetch
 
@@ -2214,12 +2292,10 @@
 ## io
 
 *   [WarrenWeckesser/las](https://github.com/WarrenWeckesser/las) - Python reader for Canadian Well Logging Society LAS (Log ASCII Standard) files.
-*   [kinverarity1/lasio](https://github.com/kinverarity1/lasio) - Python library for reading and writing well data using Log ASCII Standard (LAS) files
 
 ## well-logs
 
 *   [WarrenWeckesser/las](https://github.com/WarrenWeckesser/las) - Python reader for Canadian Well Logging Society LAS (Log ASCII Standard) files.
-*   [kinverarity1/lasio](https://github.com/kinverarity1/lasio) - Python library for reading and writing well data using Log ASCII Standard (LAS) files
 
 ## traffic
 
@@ -2344,20 +2420,11 @@
 *   [egaga/openvim](https://github.com/egaga/openvim) - Interactive tutorial for Vim.
 *   [bokeh/bokeh](https://github.com/bokeh/bokeh) - Interactive Data Visualization in the browser, from  Python
 *   [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
-*   [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 
 ## kanban
 
 *   [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the kanban-style project mastering tool for everyone.
 *   [BaldissaraMatheus/Tasks.md](https://github.com/BaldissaraMatheus/Tasks.md) - A self-hosted, Markdown file based task management board
-
-## react
-
-*   [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the kanban-style project mastering tool for everyone.
-*   [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
-*   [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
-*   [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
-*   [dailydotdev/apps](https://github.com/dailydotdev/apps) - daily.dev application suite
 
 ## redux
 
@@ -2420,13 +2487,6 @@
 *   [nevalang/neva](https://github.com/nevalang/neva) - Write programs like message passing graphs and get parallelism for free. Statically typed and compiled to machine code!
 *   [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 *   [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
-
-## golang
-
-*   [nevalang/neva](https://github.com/nevalang/neva) - Write programs like message passing graphs and get parallelism for free. Statically typed and compiled to machine code!
-*   [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
-*   [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
-*   [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 
 ## neva
 
@@ -2525,15 +2585,6 @@
 ## accounting
 
 *   [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
-
-## budget
-
-*   [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
-
-## budgeting
-
-*   [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
-*   [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
 
 ## budgets
 
@@ -3056,12 +3107,10 @@
 
 *   [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced \[ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 *   [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
-*   [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 
 ## electron
 
 *   [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced \[ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
-*   [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 
 ## knowledge-base
 
@@ -3317,10 +3366,6 @@
 ## watchtower
 
 *   [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
-
-## laravel
-
-*   [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker) - Speedtest Tracker is a self-hosted application that monitors the performance and uptime of your internet connection.
 
 ## speedtest
 
@@ -3964,11 +4009,6 @@
 ## toolbox
 
 *   [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
-
-## vuejs
-
-*   [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
-*   [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 
 ## cockpit
 
@@ -5495,7 +5535,6 @@
 ## data-mining
 
 *   [yzhao062/pyod](https://github.com/yzhao062/pyod) - A Python Library for Outlier and Anomaly Detection, Integrating Classical and Deep Learning Techniques
-*   [kinverarity1/lasio](https://github.com/kinverarity1/lasio) - Python library for reading and writing well data using Log ASCII Standard (LAS) files
 
 ## fraud-detection
 
@@ -6588,63 +6627,3 @@
 ## geodesic
 
 *   [pyproj4/pyproj](https://github.com/pyproj4/pyproj) - Python interface to PROJ (cartographic projections and coordinate transformations library)
-
-## data-format
-
-*   [kinverarity1/lasio](https://github.com/kinverarity1/lasio) - Python library for reading and writing well data using Log ASCII Standard (LAS) files
-
-## data-management
-
-*   [kinverarity1/lasio](https://github.com/kinverarity1/lasio) - Python library for reading and writing well data using Log ASCII Standard (LAS) files
-
-## geology
-
-*   [kinverarity1/lasio](https://github.com/kinverarity1/lasio) - Python library for reading and writing well data using Log ASCII Standard (LAS) files
-
-## geophysics
-
-*   [kinverarity1/lasio](https://github.com/kinverarity1/lasio) - Python library for reading and writing well data using Log ASCII Standard (LAS) files
-
-## geotechnical-engineering
-
-*   [kinverarity1/lasio](https://github.com/kinverarity1/lasio) - Python library for reading and writing well data using Log ASCII Standard (LAS) files
-
-## groundwater
-
-*   [kinverarity1/lasio](https://github.com/kinverarity1/lasio) - Python library for reading and writing well data using Log ASCII Standard (LAS) files
-
-## las-files
-
-*   [kinverarity1/lasio](https://github.com/kinverarity1/lasio) - Python library for reading and writing well data using Log ASCII Standard (LAS) files
-
-## lasio
-
-*   [kinverarity1/lasio](https://github.com/kinverarity1/lasio) - Python library for reading and writing well data using Log ASCII Standard (LAS) files
-
-## log-ascii-standard
-
-*   [kinverarity1/lasio](https://github.com/kinverarity1/lasio) - Python library for reading and writing well data using Log ASCII Standard (LAS) files
-
-## mineral-exploration
-
-*   [kinverarity1/lasio](https://github.com/kinverarity1/lasio) - Python library for reading and writing well data using Log ASCII Standard (LAS) files
-
-## petroleum
-
-*   [kinverarity1/lasio](https://github.com/kinverarity1/lasio) - Python library for reading and writing well data using Log ASCII Standard (LAS) files
-
-## swung-t21
-
-*   [kinverarity1/lasio](https://github.com/kinverarity1/lasio) - Python library for reading and writing well data using Log ASCII Standard (LAS) files
-
-## well-log
-
-*   [kinverarity1/lasio](https://github.com/kinverarity1/lasio) - Python library for reading and writing well data using Log ASCII Standard (LAS) files
-
-## wireline
-
-*   [kinverarity1/lasio](https://github.com/kinverarity1/lasio) - Python library for reading and writing well data using Log ASCII Standard (LAS) files
-
-## atom
-
-*   [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
