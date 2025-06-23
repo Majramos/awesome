@@ -14,6 +14,7 @@
 *   [C](#c-1)
 *   [JavaScript](#javascript)
 *   [SCSS](#scss)
+*   [G-code](#g-code)
 *   [miscellaneous](#miscellaneous)
 *   [HTML](#html)
 *   [Svelte](#svelte)
@@ -285,9 +286,12 @@
 *   [Majramos/jupyterlab-theme-solarized-dark](https://github.com/Majramos/jupyterlab-theme-solarized-dark) - JupyterLab 3 Solarized Dark extension
 *   [AllanChain/jupyterlab-theme-solarized-dark](https://github.com/AllanChain/jupyterlab-theme-solarized-dark) - JupyterLab Theme Solarized Dark
 
-## miscellaneous
+## G-code
 
 *   [josefadamcik/SofleKeyboard](https://github.com/josefadamcik/SofleKeyboard) - A split keyboard based on Lily58, Crkbd and Helix keyboards
+
+## miscellaneous
+
 *   [kata0510/Lily58](https://github.com/kata0510/Lily58) - 6×4+4keys column-staggered split keyboard.
 *   [splitkb/kyria](https://github.com/splitkb/kyria) - Files related to the Kyria keyboard.
 *   [diimdeep/awesome-split-keyboards](https://github.com/diimdeep/awesome-split-keyboards) - A collection of ergonomic split keyboards ⌨
