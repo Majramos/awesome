@@ -4,6 +4,11 @@
 
 ## Table of Contents
 
+*   [learn-rust](#learn-rust)
+*   [learning](#learning)
+*   [learnrust](#learnrust)
+*   [rust](#rust)
+*   [rustbyexample](#rustbyexample)
 *   [miscellaneous](#miscellaneous)
 *   [budget](#budget)
 *   [budget-app](#budget-app)
@@ -51,7 +56,6 @@
 *   [cli](#cli)
 *   [command-line](#command-line)
 *   [git](#git)
-*   [rust](#rust)
 *   [syntax-highlighting](#syntax-highlighting)
 *   [terminal](#terminal)
 *   [tool](#tool)
@@ -1182,6 +1186,30 @@
 *   [coordinate-transformation](#coordinate-transformation)
 *   [geodesic](#geodesic)
 
+## learn-rust
+
+*   [jpbruinsslot/rust-by-example](https://github.com/jpbruinsslot/rust-by-example) - 🦀 code examples for https://rustbyexample.io
+
+## learning
+
+*   [jpbruinsslot/rust-by-example](https://github.com/jpbruinsslot/rust-by-example) - 🦀 code examples for https://rustbyexample.io
+
+## learnrust
+
+*   [jpbruinsslot/rust-by-example](https://github.com/jpbruinsslot/rust-by-example) - 🦀 code examples for https://rustbyexample.io
+
+## rust
+
+*   [jpbruinsslot/rust-by-example](https://github.com/jpbruinsslot/rust-by-example) - 🦀 code examples for https://rustbyexample.io
+*   [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+*   [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
+*   [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced \[ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
+*   [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+
+## rustbyexample
+
+*   [jpbruinsslot/rust-by-example](https://github.com/jpbruinsslot/rust-by-example) - 🦀 code examples for https://rustbyexample.io
+
 ## miscellaneous
 
 *   [jorgeorpinel/site-page-size-scraper](https://github.com/jorgeorpinel/site-page-size-scraper) - Selenium + Headless Chrome scraper that calculates actual full web page sizes (including dynamic content).
@@ -1251,7 +1279,6 @@
 *   [steelbrain/linter](https://github.com/steelbrain/linter) - A Base Linter with Cow Powers https://aneesiqbal.ai/2017-03-13-linter-v2-released
 *   [codeforgermany/click\_that\_hood](https://github.com/codeforgermany/click_that_hood) - A game where users must identify a city's neighborhoods as fast as possible
 *   [nmota/caop\_GeoJSON](https://github.com/nmota/caop_GeoJSON) - CAOPortugal em formato GeoJSON
-*   [django-crispy-forms/django-crispy-forms](https://github.com/django-crispy-forms/django-crispy-forms) - The best way to have DRY Django forms. The app provides a tag and filter that lets you quickly render forms in a div format while providing an enormous amount of capability to configure and control the rendered HTML.
 
 ## budget
 
@@ -1607,13 +1634,6 @@
 *   [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
 *   [olivierlacan/keep-a-changelog](https://github.com/olivierlacan/keep-a-changelog) - If you build software, keep a changelog.
 *   [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
-
-## rust
-
-*   [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
-*   [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
-*   [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced \[ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
-*   [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 
 ## syntax-highlighting
 
