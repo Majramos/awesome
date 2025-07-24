@@ -4,14 +4,16 @@
 
 ## Table of Contents
 
+*   [Sass](#sass)
+*   [C](#c)
+*   [Cython](#cython)
 *   [Rust](#rust)
 *   [Python](#python)
 *   [Go](#go)
 *   [TypeScript](#typescript)
 *   [Vue](#vue)
 *   [Astro](#astro)
-*   [C++](#c)
-*   [C](#c-1)
+*   [C++](#c-1)
 *   [JavaScript](#javascript)
 *   [SCSS](#scss)
 *   [G-code](#g-code)
@@ -37,7 +39,25 @@
 *   [Markdown](#markdown)
 *   [PowerShell](#powershell)
 *   [Batchfile](#batchfile)
-*   [Cython](#cython)
+
+## Sass
+
+*   [pradyunsg/furo](https://github.com/pradyunsg/furo) - A clean customizable documentation theme for Sphinx
+
+## C
+
+*   [lexborisov/Modest](https://github.com/lexborisov/Modest) - Modest is a fast HTML renderer implemented as a pure C99 library with no outside dependencies.
+*   [lexbor/lexbor](https://github.com/lexbor/lexbor) - Lexbor is development of an open source HTML Renderer library. https://lexbor.com
+*   [karlstav/cava](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer
+*   [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
+*   [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
+*   [NLnetLabs/unbound](https://github.com/NLnetLabs/unbound) - Unbound is a validating, recursive, and caching DNS resolver.
+*   [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
+
+## Cython
+
+*   [rushter/selectolax](https://github.com/rushter/selectolax) - Python binding to Modest and Lexbor engines (fast HTML5 parser with CSS selectors).
+*   [TA-Lib/ta-lib-python](https://github.com/TA-Lib/ta-lib-python) - Python wrapper for TA-Lib (http://ta-lib.org/).
 
 ## Rust
 
@@ -172,8 +192,6 @@
 *   [gboeing/osmnx](https://github.com/gboeing/osmnx) - Download, model, analyze, and visualize street networks and other geospatial features from OpenStreetMap.
 *   [networkx/networkx](https://github.com/networkx/networkx) - Network Analysis in Python
 *   [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
-*   [geopandas/geopandas](https://github.com/geopandas/geopandas) - Python tools for geographic data
-*   [pyproj4/pyproj](https://github.com/pyproj4/pyproj) - Python interface to PROJ (cartographic projections and coordinate transformations library)
 
 ## Go
 
@@ -239,14 +257,6 @@
 *   [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 *   [opentx/opentx](https://github.com/opentx/opentx) - OpenTX custom firmware for Transmitters
 
-## C
-
-*   [karlstav/cava](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer
-*   [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
-*   [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
-*   [NLnetLabs/unbound](https://github.com/NLnetLabs/unbound) - Unbound is a validating, recursive, and caching DNS resolver.
-*   [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
-
 ## JavaScript
 
 *   [danielcranney/profileme-dev](https://github.com/danielcranney/profileme-dev) - Create an awesome GitHub profile in minutes
@@ -278,7 +288,6 @@
 *   [Leaflet/Leaflet.markercluster](https://github.com/Leaflet/Leaflet.markercluster) - Marker Clustering plugin for Leaflet
 *   [steelbrain/linter](https://github.com/steelbrain/linter) - A Base Linter with Cow Powers https://aneesiqbal.ai/2017-03-13-linter-v2-released
 *   [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
-*   [codeforgermany/click\_that\_hood](https://github.com/codeforgermany/click_that_hood) - A game where users must identify a city's neighborhoods as fast as possible
 
 ## SCSS
 
@@ -313,7 +322,6 @@
 *   [NoriSte/ui-testing-best-practices](https://github.com/NoriSte/ui-testing-best-practices) - The largest UI testing best practices list (last update: March 2025)
 *   [odino/interviews](https://github.com/odino/interviews) - Random questions to ask during interviews.
 *   [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
-*   [nmota/caop\_GeoJSON](https://github.com/nmota/caop_GeoJSON) - CAOPortugal em formato GeoJSON
 
 ## HTML
 
@@ -436,7 +444,3 @@
 ## Batchfile
 
 *   [realpython/python-guide](https://github.com/realpython/python-guide) - Python best practices guidebook, written for humans.
-
-## Cython
-
-*   [TA-Lib/ta-lib-python](https://github.com/TA-Lib/ta-lib-python) - Python wrapper for TA-Lib (http://ta-lib.org/).
