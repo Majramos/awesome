@@ -4,12 +4,12 @@
 
 ## Table of Contents
 
+*   [Go](#go)
 *   [Sass](#sass)
 *   [C](#c)
 *   [Cython](#cython)
 *   [Rust](#rust)
 *   [Python](#python)
-*   [Go](#go)
 *   [TypeScript](#typescript)
 *   [Vue](#vue)
 *   [Astro](#astro)
@@ -39,6 +39,16 @@
 *   [Markdown](#markdown)
 *   [PowerShell](#powershell)
 *   [Batchfile](#batchfile)
+
+## Go
+
+*   [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
+*   [monetr/monetr](https://github.com/monetr/monetr) - monetr is a budgeting application focused on planning for recurring expenses.
+*   [nevalang/neva](https://github.com/nevalang/neva) - Write programs like message passing graphs and get parallelism for free. Statically typed and compiled to machine code!
+*   [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
+*   [opencontainers/image-spec](https://github.com/opencontainers/image-spec) - OCI Image Format
+*   [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
+*   [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 
 ## Sass
 
@@ -193,15 +203,6 @@
 *   [networkx/networkx](https://github.com/networkx/networkx) - Network Analysis in Python
 *   [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 
-## Go
-
-*   [monetr/monetr](https://github.com/monetr/monetr) - monetr is a budgeting application focused on planning for recurring expenses.
-*   [nevalang/neva](https://github.com/nevalang/neva) - Write programs like message passing graphs and get parallelism for free. Statically typed and compiled to machine code!
-*   [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
-*   [opencontainers/image-spec](https://github.com/opencontainers/image-spec) - OCI Image Format
-*   [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
-*   [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
-
 ## TypeScript
 
 *   [afadil/wealthfolio](https://github.com/afadil/wealthfolio) - A Beautiful Private and Secure Desktop Investment Tracking Application
@@ -287,7 +288,6 @@
 *   [calvinmetcalf/leaflet-ajax](https://github.com/calvinmetcalf/leaflet-ajax) - plugin for leaflet for ajax
 *   [Leaflet/Leaflet.markercluster](https://github.com/Leaflet/Leaflet.markercluster) - Marker Clustering plugin for Leaflet
 *   [steelbrain/linter](https://github.com/steelbrain/linter) - A Base Linter with Cow Powers https://aneesiqbal.ai/2017-03-13-linter-v2-released
-*   [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
 
 ## SCSS
 

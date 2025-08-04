@@ -4,6 +4,20 @@
 
 ## Table of Contents
 
+*   [aggregator](#aggregator)
+*   [dashboard](#dashboard)
+*   [docker](#docker)
+*   [feed-reader](#feed-reader)
+*   [go](#go)
+*   [homelab](#homelab)
+*   [homepage](#homepage)
+*   [monitoring](#monitoring)
+*   [reddit](#reddit)
+*   [rss](#rss)
+*   [rss-reader](#rss-reader)
+*   [self-hosted](#self-hosted)
+*   [startpage](#startpage)
+*   [youtube](#youtube)
 *   [clean](#clean)
 *   [customizable](#customizable)
 *   [documentation](#documentation)
@@ -156,7 +170,6 @@
 *   [data-science](#data-science)
 *   [data-visualization](#data-visualization)
 *   [d3](#d3)
-*   [dashboard](#dashboard)
 *   [declarative](#declarative)
 *   [graph-library](#graph-library)
 *   [interactive](#interactive)
@@ -197,7 +210,6 @@
 *   [paywall-bypass](#paywall-bypass)
 *   [paywall-bypasser](#paywall-bypasser)
 *   [python3](#python3)
-*   [self-hosted](#self-hosted)
 *   [selfhost](#selfhost)
 *   [selfhosted](#selfhosted)
 *   [cloudflare](#cloudflare)
@@ -223,7 +235,6 @@
 *   [daisyui](#daisyui)
 *   [django](#django)
 *   [django-rest-framework](#django-rest-framework)
-*   [docker](#docker)
 *   [dockerfile](#dockerfile)
 *   [nginx](#nginx)
 *   [sveltekit](#sveltekit)
@@ -252,7 +263,6 @@
 *   [flow-based](#flow-based)
 *   [flow-based-programming](#flow-based-programming)
 *   [functional-programming](#functional-programming)
-*   [go](#go)
 *   [neva](#neva)
 *   [nevalang](#nevalang)
 *   [programming-language](#programming-language)
@@ -288,7 +298,6 @@
 *   [php7](#php7)
 *   [self-host](#self-host)
 *   [stocks](#stocks)
-*   [homelab](#homelab)
 *   [homeserver](#homeserver)
 *   [package-manager](#package-manager)
 *   [packaging](#packaging)
@@ -490,7 +499,6 @@
 *   [pdf-web-apps](#pdf-web-apps)
 *   [pdfmerger](#pdfmerger)
 *   [monitor](#monitor)
-*   [monitoring](#monitoring)
 *   [responsive](#responsive)
 *   [single-page-app](#single-page-app)
 *   [socket-io](#socket-io)
@@ -507,8 +515,6 @@
 *   [photos](#photos)
 *   [photos-management](#photos-management)
 *   [videos](#videos)
-*   [homepage](#homepage)
-*   [startpage](#startpage)
 *   [docker-container](#docker-container)
 *   [docker-deployment](#docker-deployment)
 *   [docker-image](#docker-image)
@@ -1199,7 +1205,117 @@
 *   [swagger](#swagger)
 *   [swagger-ui](#swagger-ui)
 *   [uvicorn](#uvicorn)
-*   [maps](#maps)
+
+## aggregator
+
+*   [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
+
+## dashboard
+
+*   [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
+*   [plotly/plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python :sparkles:
+*   [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker) - Speedtest Tracker is a self-hosted application that monitors the performance and uptime of your internet connection.
+*   [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
+*   [linuxserver/Heimdall](https://github.com/linuxserver/Heimdall) - An Application dashboard and launcher
+*   [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
+
+## docker
+
+*   [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
+*   [seanmorley15/AdventureLog](https://github.com/seanmorley15/AdventureLog) - Self-hostable travel tracker and trip planner.
+*   [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the kanban-style project mastering tool for everyone.
+*   [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
+*   [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
+*   [Sanjeet990/Astroluma](https://github.com/Sanjeet990/Astroluma) - Astroluma is a feature-rich, user-friendly dashboard designed to help you manage multiple aspects of your daily tasks and services.
+*   [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
+*   [opencontainers/image-spec](https://github.com/opencontainers/image-spec) - OCI Image Format
+*   [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
+*   [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
+*   [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker) - Speedtest Tracker is a self-hosted application that monitors the performance and uptime of your internet connection.
+*   [luisaveiro/docker-reverse-proxy](https://github.com/luisaveiro/docker-reverse-proxy) - Local reverse proxy for Docker containers powered by Caddy.
+*   [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
+*   [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
+*   [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
+*   [portainer/portainer-compose](https://github.com/portainer/portainer-compose) - Compose setup for Portainer
+*   [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
+*   [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
+*   [searxng/searxng-docker](https://github.com/searxng/searxng-docker) - The docker-compose files for setting up a SearXNG instance with docker.
+*   [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+*   [cluster-apps-on-docker/spark-standalone-cluster-on-docker](https://github.com/cluster-apps-on-docker/spark-standalone-cluster-on-docker) - Learn Apache Spark in Scala, Python (PySpark) and R (SparkR) by building your own cluster with a JupyterLab interface on Docker. :zap:
+*   [docker/docker-py](https://github.com/docker/docker-py) - A Python library for the Docker Engine API
+
+## feed-reader
+
+*   [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
+
+## go
+
+*   [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
+*   [nevalang/neva](https://github.com/nevalang/neva) - Write programs like message passing graphs and get parallelism for free. Statically typed and compiled to machine code!
+*   [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
+*   [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
+
+## homelab
+
+*   [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
+*   [Sanjeet990/Astroluma](https://github.com/Sanjeet990/Astroluma) - Astroluma is a feature-rich, user-friendly dashboard designed to help you manage multiple aspects of your daily tasks and services.
+
+## homepage
+
+*   [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
+*   [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
+*   [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
+*   [linuxserver/Heimdall](https://github.com/linuxserver/Heimdall) - An Application dashboard and launcher
+*   [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
+*   [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+
+## monitoring
+
+*   [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
+*   [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
+*   [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux
+*   [giampaolo/psutil](https://github.com/giampaolo/psutil) - Cross-platform lib for process and system monitoring in Python
+
+## reddit
+
+*   [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
+
+## rss
+
+*   [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
+
+## rss-reader
+
+*   [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
+
+## self-hosted
+
+*   [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
+*   [wasi-master/13ft](https://github.com/wasi-master/13ft) - My own custom 12ft.io replacement
+*   [seanmorley15/AdventureLog](https://github.com/seanmorley15/AdventureLog) - Self-hostable travel tracker and trip planner.
+*   [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the kanban-style project mastering tool for everyone.
+*   [Sanjeet990/Astroluma](https://github.com/Sanjeet990/Astroluma) - Astroluma is a feature-rich, user-friendly dashboard designed to help you manage multiple aspects of your daily tasks and services.
+*   [mrmn2/PdfDing](https://github.com/mrmn2/PdfDing) - Selfhosted PDF manager, viewer and editor offering a seamless user experience on multiple devices.
+*   [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
+*   [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
+*   [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
+*   [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
+*   [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
+*   [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
+*   [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
+*   [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+*   [BaldissaraMatheus/Tasks.md](https://github.com/BaldissaraMatheus/Tasks.md) - A self-hosted, Markdown file based task management board
+
+## startpage
+
+*   [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
+*   [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
+*   [linuxserver/Heimdall](https://github.com/linuxserver/Heimdall) - An Application dashboard and launcher
+*   [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+
+## youtube
+
+*   [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 
 ## clean
 
@@ -2143,14 +2259,6 @@
 
 *   [plotly/plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python :sparkles:
 
-## dashboard
-
-*   [plotly/plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python :sparkles:
-*   [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker) - Speedtest Tracker is a self-hosted application that monitors the performance and uptime of your internet connection.
-*   [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
-*   [linuxserver/Heimdall](https://github.com/linuxserver/Heimdall) - An Application dashboard and launcher
-*   [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
-
 ## declarative
 
 *   [plotly/plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python :sparkles:
@@ -2341,23 +2449,6 @@
 *   [dgilland/pydash](https://github.com/dgilland/pydash) - The kitchen sink of Python utility libraries for doing "stuff" in a functional way. Based on the Lo-Dash Javascript library.
 *   [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 
-## self-hosted
-
-*   [wasi-master/13ft](https://github.com/wasi-master/13ft) - My own custom 12ft.io replacement
-*   [seanmorley15/AdventureLog](https://github.com/seanmorley15/AdventureLog) - Self-hostable travel tracker and trip planner.
-*   [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the kanban-style project mastering tool for everyone.
-*   [Sanjeet990/Astroluma](https://github.com/Sanjeet990/Astroluma) - Astroluma is a feature-rich, user-friendly dashboard designed to help you manage multiple aspects of your daily tasks and services.
-*   [mrmn2/PdfDing](https://github.com/mrmn2/PdfDing) - Selfhosted PDF manager, viewer and editor offering a seamless user experience on multiple devices.
-*   [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-*   [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
-*   [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
-*   [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
-*   [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
-*   [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
-*   [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
-*   [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
-*   [BaldissaraMatheus/Tasks.md](https://github.com/BaldissaraMatheus/Tasks.md) - A self-hosted, Markdown file based task management board
-
 ## selfhost
 
 *   [wasi-master/13ft](https://github.com/wasi-master/13ft) - My own custom 12ft.io replacement
@@ -2475,30 +2566,6 @@
 
 *   [seanmorley15/AdventureLog](https://github.com/seanmorley15/AdventureLog) - Self-hostable travel tracker and trip planner.
 
-## docker
-
-*   [seanmorley15/AdventureLog](https://github.com/seanmorley15/AdventureLog) - Self-hostable travel tracker and trip planner.
-*   [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the kanban-style project mastering tool for everyone.
-*   [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
-*   [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
-*   [Sanjeet990/Astroluma](https://github.com/Sanjeet990/Astroluma) - Astroluma is a feature-rich, user-friendly dashboard designed to help you manage multiple aspects of your daily tasks and services.
-*   [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
-*   [opencontainers/image-spec](https://github.com/opencontainers/image-spec) - OCI Image Format
-*   [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
-*   [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
-*   [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker) - Speedtest Tracker is a self-hosted application that monitors the performance and uptime of your internet connection.
-*   [luisaveiro/docker-reverse-proxy](https://github.com/luisaveiro/docker-reverse-proxy) - Local reverse proxy for Docker containers powered by Caddy.
-*   [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
-*   [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-*   [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
-*   [portainer/portainer-compose](https://github.com/portainer/portainer-compose) - Compose setup for Portainer
-*   [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
-*   [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
-*   [searxng/searxng-docker](https://github.com/searxng/searxng-docker) - The docker-compose files for setting up a SearXNG instance with docker.
-*   [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
-*   [cluster-apps-on-docker/spark-standalone-cluster-on-docker](https://github.com/cluster-apps-on-docker/spark-standalone-cluster-on-docker) - Learn Apache Spark in Scala, Python (PySpark) and R (SparkR) by building your own cluster with a JupyterLab interface on Docker. :zap:
-*   [docker/docker-py](https://github.com/docker/docker-py) - A Python library for the Docker Engine API
-
 ## dockerfile
 
 *   [seanmorley15/AdventureLog](https://github.com/seanmorley15/AdventureLog) - Self-hostable travel tracker and trip planner.
@@ -2556,7 +2623,6 @@
 *   [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 *   [egaga/openvim](https://github.com/egaga/openvim) - Interactive tutorial for Vim.
 *   [bokeh/bokeh](https://github.com/bokeh/bokeh) - Interactive Data Visualization in the browser, from  Python
-*   [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
 
 ## kanban
 
@@ -2634,12 +2700,6 @@
 ## functional-programming
 
 *   [nevalang/neva](https://github.com/nevalang/neva) - Write programs like message passing graphs and get parallelism for free. Statically typed and compiled to machine code!
-
-## go
-
-*   [nevalang/neva](https://github.com/nevalang/neva) - Write programs like message passing graphs and get parallelism for free. Statically typed and compiled to machine code!
-*   [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
-*   [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 
 ## neva
 
@@ -2791,10 +2851,6 @@
 ## stocks
 
 *   [investbrainapp/investbrain](https://github.com/investbrainapp/investbrain) - Smart open-source investment tracker that consolidates and monitors market performance across your different brokerages
-
-## homelab
-
-*   [Sanjeet990/Astroluma](https://github.com/Sanjeet990/Astroluma) - Astroluma is a feature-rich, user-friendly dashboard designed to help you manage multiple aspects of your daily tasks and services.
 
 ## homeserver
 
@@ -3719,12 +3775,6 @@
 *   [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 *   [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux
 
-## monitoring
-
-*   [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-*   [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux
-*   [giampaolo/psutil](https://github.com/giampaolo/psutil) - Cross-platform lib for process and system monitoring in Python
-
 ## responsive
 
 *   [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
@@ -3792,20 +3842,6 @@
 
 *   [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 *   [instaloader/instaloader](https://github.com/instaloader/instaloader) - Download pictures (or videos) along with their captions and other metadata from Instagram.
-
-## homepage
-
-*   [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
-*   [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
-*   [linuxserver/Heimdall](https://github.com/linuxserver/Heimdall) - An Application dashboard and launcher
-*   [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
-*   [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
-
-## startpage
-
-*   [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
-*   [linuxserver/Heimdall](https://github.com/linuxserver/Heimdall) - An Application dashboard and launcher
-*   [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 
 ## docker-container
 
@@ -6655,7 +6691,6 @@
 ## leaflet
 
 *   [Leaflet/Leaflet.markercluster](https://github.com/Leaflet/Leaflet.markercluster) - Marker Clustering plugin for Leaflet
-*   [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
 
 ## leaflet-plugins
 
@@ -6720,7 +6755,3 @@
 ## uvicorn
 
 *   [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
-
-## maps
-
-*   [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
