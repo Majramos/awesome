@@ -353,7 +353,7 @@
 ## PHP
 
 *   [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
-*   [investbrainapp/investbrain](https://github.com/investbrainapp/investbrain) - Smart open-source investment tracker that consolidates and monitors market performance across your different brokerages
+*   [investbrainapp/investbrain](https://github.com/investbrainapp/investbrain) - Smart investment tracker that consolidates and monitors market performance across your different brokerages
 *   [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker) - Speedtest Tracker is a self-hosted application that monitors the performance and uptime of your internet connection.
 *   [linuxserver/Heimdall](https://github.com/linuxserver/Heimdall) - An Application dashboard and launcher
 
