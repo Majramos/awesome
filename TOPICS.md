@@ -1769,7 +1769,7 @@
 ## portfolio
 
 *   [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
-*   [investbrainapp/investbrain](https://github.com/investbrainapp/investbrain) - Smart investment tracker that consolidates and monitors market performance across your different brokerages
+*   [investbrainapp/investbrain](https://github.com/investbrainapp/investbrain) - Smart LLM-enabled investment tracker that consolidates and monitors market performance across your different brokerages
 
 ## prisma
 
@@ -2842,11 +2842,11 @@
 
 ## self-host
 
-*   [investbrainapp/investbrain](https://github.com/investbrainapp/investbrain) - Smart investment tracker that consolidates and monitors market performance across your different brokerages
+*   [investbrainapp/investbrain](https://github.com/investbrainapp/investbrain) - Smart LLM-enabled investment tracker that consolidates and monitors market performance across your different brokerages
 
 ## stocks
 
-*   [investbrainapp/investbrain](https://github.com/investbrainapp/investbrain) - Smart investment tracker that consolidates and monitors market performance across your different brokerages
+*   [investbrainapp/investbrain](https://github.com/investbrainapp/investbrain) - Smart LLM-enabled investment tracker that consolidates and monitors market performance across your different brokerages
 
 ## homeserver
 
