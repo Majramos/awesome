@@ -1718,6 +1718,7 @@
 *   [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
 *   [precondition/keymapdb](https://github.com/precondition/keymapdb) - Online database of keymaps for programmable keyboards, with a focus on QMK ergonomic keyboards.
 *   [pyvista/pyvista](https://github.com/pyvista/pyvista) - 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK)
+*   [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
 *   [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
 *   [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
 *   [dar5hak/generator-awesome-list](https://github.com/dar5hak/generator-awesome-list) - :sunglasses: Yeoman generator for GitHub awesome lists
