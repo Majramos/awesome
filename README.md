@@ -92,7 +92,7 @@
 *   [holoviz/hvplot](https://github.com/holoviz/hvplot) - A high-level plotting API for pandas, dask, xarray, and networkx built on HoloViews
 *   [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 *   [pyvista/pyvista](https://github.com/pyvista/pyvista) - 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK)
-*   [jawah/charset\_normalizer](https://github.com/jawah/charset_normalizer) - Truly universal encoding detector in pure Python
+*   [jawah/charset\_normalizer](https://github.com/jawah/charset_normalizer) - Truly universal encoding detector in pure Python.
 *   [pyviz/pyviz.org](https://github.com/pyviz/pyviz.org) - Source for the PyViz.org website.
 *   [wasi-master/13ft](https://github.com/wasi-master/13ft) - My own custom 12ft.io replacement
 *   [WarrenWeckesser/las](https://github.com/WarrenWeckesser/las) - Python reader for Canadian Well Logging Society LAS (Log ASCII Standard) files.
