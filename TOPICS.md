@@ -237,7 +237,6 @@
 *   [django](#django)
 *   [django-rest-framework](#django-rest-framework)
 *   [dockerfile](#dockerfile)
-*   [hacktoberfest-accepted](#hacktoberfest-accepted)
 *   [nginx](#nginx)
 *   [sveltekit](#sveltekit)
 *   [tailwindcss](#tailwindcss)
@@ -2591,10 +2590,6 @@
 *   [seanmorley15/AdventureLog](https://github.com/seanmorley15/AdventureLog) - Self-hostable travel tracker and trip planner.
 *   [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 *   [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
-
-## hacktoberfest-accepted
-
-*   [seanmorley15/AdventureLog](https://github.com/seanmorley15/AdventureLog) - Self-hostable travel tracker and trip planner.
 
 ## nginx
 
