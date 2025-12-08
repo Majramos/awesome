@@ -866,6 +866,9 @@
 *   [django-admin](#django-admin)
 *   [django-formsets](#django-formsets)
 *   [django-orm](#django-orm)
+*   [object-oriented](#object-oriented)
+*   [oop](#oop)
+*   [polymorphism](#polymorphism)
 *   [barcode](#barcode)
 *   [pdf-generation](#pdf-generation)
 *   [pdf-library](#pdf-library)
@@ -5366,6 +5369,18 @@
 *   [jazzband/django-polymorphic](https://github.com/jazzband/django-polymorphic) - Improved Django model inheritance with automatic downcasting
 
 ## django-orm
+
+*   [jazzband/django-polymorphic](https://github.com/jazzband/django-polymorphic) - Improved Django model inheritance with automatic downcasting
+
+## object-oriented
+
+*   [jazzband/django-polymorphic](https://github.com/jazzband/django-polymorphic) - Improved Django model inheritance with automatic downcasting
+
+## oop
+
+*   [jazzband/django-polymorphic](https://github.com/jazzband/django-polymorphic) - Improved Django model inheritance with automatic downcasting
+
+## polymorphism
 
 *   [jazzband/django-polymorphic](https://github.com/jazzband/django-polymorphic) - Improved Django model inheritance with automatic downcasting
 
