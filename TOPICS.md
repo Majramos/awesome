@@ -1109,7 +1109,6 @@
 *   [nlp](#nlp)
 *   [nltk](#nltk)
 *   [pattern](#pattern)
-*   [python-3](#python-3)
 *   [audio](#audio)
 *   [speech-recognition](#speech-recognition)
 *   [speech-to-text](#speech-to-text)
@@ -6378,10 +6377,6 @@
 *   [sloria/TextBlob](https://github.com/sloria/TextBlob) - Simple, Pythonic, text processing--Sentiment analysis, part-of-speech tagging, noun phrase extraction, translation, and more.
 
 ## pattern
-
-*   [sloria/TextBlob](https://github.com/sloria/TextBlob) - Simple, Pythonic, text processing--Sentiment analysis, part-of-speech tagging, noun phrase extraction, translation, and more.
-
-## python-3
 
 *   [sloria/TextBlob](https://github.com/sloria/TextBlob) - Simple, Pythonic, text processing--Sentiment analysis, part-of-speech tagging, noun phrase extraction, translation, and more.
 
