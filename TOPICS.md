@@ -132,10 +132,13 @@
 *   [sdl2](#sdl2)
 *   [sndio](#sndio)
 *   [windows](#windows)
+*   [bsdfetch](#bsdfetch)
 *   [fastfetch](#fastfetch)
 *   [fetch](#fetch)
 *   [flashfetch](#flashfetch)
+*   [macfetch](#macfetch)
 *   [neofetch](#neofetch)
+*   [winfetch](#winfetch)
 *   [command-line-interface](#command-line-interface)
 *   [gnome](#gnome)
 *   [gnome-extension](#gnome-extension)
@@ -2078,6 +2081,10 @@
 *   [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
 *   [giampaolo/psutil](https://github.com/giampaolo/psutil) - Cross-platform lib for process and system monitoring in Python
 
+## bsdfetch
+
+*   [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
+
 ## fastfetch
 
 *   [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
@@ -2090,7 +2097,15 @@
 
 *   [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
 
+## macfetch
+
+*   [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
+
 ## neofetch
+
+*   [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
+
+## winfetch
 
 *   [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
 
