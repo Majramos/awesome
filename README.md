@@ -190,7 +190,7 @@
 *   [portainer/portainer-compose](https://github.com/portainer/portainer-compose) - Compose setup for Portainer
 *   [madmalik/mononoki](https://github.com/madmalik/mononoki) - a programming typeface
 *   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
-*   [searxng/searxng-docker](https://github.com/searxng/searxng-docker) - The docker-compose files for setting up a SearXNG instance with docker.
+*   [searxng/searxng-docker](https://github.com/searxng/searxng-docker) -
 *   [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻
 *   [Majramos/Majramos](https://github.com/Majramos/Majramos) - Config files for my GitHub profile.
 *   [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
