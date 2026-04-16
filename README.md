@@ -268,7 +268,7 @@
 *   [lexbor/lexbor](https://github.com/lexbor/lexbor) - Lexbor is development of an open source HTML Renderer library. https://lexbor.com
 *   [karlstav/cava](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer
 *   [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
-*   [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
+*   [openssl/openssl](https://github.com/openssl/openssl) - General purpose TLS and crypto library
 *   [NLnetLabs/unbound](https://github.com/NLnetLabs/unbound) - Unbound is a validating, recursive, and caching DNS resolver.
 *   [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
 

@@ -3871,27 +3871,27 @@
 
 ## cryptography
 
-*   [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
+*   [openssl/openssl](https://github.com/openssl/openssl) - General purpose TLS and crypto library
 
 ## decryption
 
-*   [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
+*   [openssl/openssl](https://github.com/openssl/openssl) - General purpose TLS and crypto library
 
 ## encryption
 
-*   [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
+*   [openssl/openssl](https://github.com/openssl/openssl) - General purpose TLS and crypto library
 
 ## openssl
 
-*   [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
+*   [openssl/openssl](https://github.com/openssl/openssl) - General purpose TLS and crypto library
 
 ## ssl
 
-*   [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
+*   [openssl/openssl](https://github.com/openssl/openssl) - General purpose TLS and crypto library
 
 ## tls
 
-*   [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
+*   [openssl/openssl](https://github.com/openssl/openssl) - General purpose TLS and crypto library
 
 ## content
 
