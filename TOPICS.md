@@ -90,22 +90,12 @@
 *   [learnrust](#learnrust)
 *   [rust](#rust)
 *   [rustbyexample](#rustbyexample)
-*   [budget](#budget)
-*   [budget-app](#budget-app)
-*   [budget-tool](#budget-tool)
-*   [budgeting](#budgeting)
-*   [expense-tracker](#expense-tracker)
-*   [finance](#finance)
-*   [finance-management](#finance-management)
-*   [financial-independence](#financial-independence)
-*   [financial-planning](#financial-planning)
-*   [golang](#golang)
-*   [open-finance](#open-finance)
-*   [plaid](#plaid)
-*   [react](#react)
 *   [macos-app](#macos-app)
 *   [portfolio-tracker](#portfolio-tracker)
 *   [tauri-app](#tauri-app)
+*   [budgeting](#budgeting)
+*   [finance](#finance)
+*   [financial-independence](#financial-independence)
 *   [laravel](#laravel)
 *   [vuejs](#vuejs)
 *   [angular](#angular)
@@ -287,6 +277,7 @@
 *   [nodejs](#nodejs)
 *   [planka](#planka)
 *   [project-management](#project-management)
+*   [react](#react)
 *   [real-time](#real-time)
 *   [trello](#trello)
 *   [duplicate-detection](#duplicate-detection)
@@ -301,6 +292,7 @@
 *   [flow-based](#flow-based)
 *   [flow-based-programming](#flow-based-programming)
 *   [functional-programming](#functional-programming)
+*   [golang](#golang)
 *   [neva](#neva)
 *   [nevalang](#nevalang)
 *   [programming-language](#programming-language)
@@ -323,6 +315,7 @@
 *   [stimulusjs](#stimulusjs)
 *   [turbo](#turbo)
 *   [accounting](#accounting)
+*   [budget](#budget)
 *   [budgets](#budgets)
 *   [cash-flow](#cash-flow)
 *   [cashflow](#cashflow)
@@ -1414,6 +1407,7 @@
 
 *   [TrousersRippin/Podman-Quadlet](https://github.com/TrousersRippin/Podman-Quadlet) - This repository contains my personal collection of podman-quadlet files to run in rootless mode.
 *   [jorgeorpinel/site-page-size-scraper](https://github.com/jorgeorpinel/site-page-size-scraper) - Selenium + Headless Chrome scraper that calculates actual full web page sizes (including dynamic content).
+*   [monetr/monetr](https://github.com/monetr/monetr) - monetr is a budgeting application focused on planning for recurring expenses.
 *   [scmmishra/terminal-apps.dev](https://github.com/scmmishra/terminal-apps.dev) - A collection of super cool TUI apps across the web
 *   [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 *   [danielcranney/profileme-dev](https://github.com/danielcranney/profileme-dev) - Create an awesome GitHub profile in minutes
@@ -1696,6 +1690,7 @@
 *   [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the Kanban-style project mastering tool for everyone
 *   [Sanjeet990/Astroluma](https://github.com/Sanjeet990/Astroluma) - Astroluma is a feature-rich, user-friendly dashboard designed to help you manage multiple aspects of your daily tasks and services.
 *   [mrmn2/PdfDing](https://github.com/mrmn2/PdfDing) - Selfhosted PDF manager, viewer and editor offering a seamless user experience on multiple devices.
+*   [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 *   [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 *   [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 *   [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
@@ -1854,79 +1849,6 @@
 
 *   [jpbruinsslot/rust-by-example](https://github.com/jpbruinsslot/rust-by-example) - 🦀 code examples for https://rustbyexample.io
 
-## budget
-
-*   [monetr/monetr](https://github.com/monetr/monetr) - monetr is a budgeting application focused on planning for recurring expenses.
-*   [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
-
-## budget-app
-
-*   [monetr/monetr](https://github.com/monetr/monetr) - monetr is a budgeting application focused on planning for recurring expenses.
-
-## budget-tool
-
-*   [monetr/monetr](https://github.com/monetr/monetr) - monetr is a budgeting application focused on planning for recurring expenses.
-
-## budgeting
-
-*   [monetr/monetr](https://github.com/monetr/monetr) - monetr is a budgeting application focused on planning for recurring expenses.
-*   [serversideup/financial-freedom](https://github.com/serversideup/financial-freedom) - 🔥🔥🔥 An open source alternative to Mint, YNAB, and more. Stay on budget and build wealth without sacrificing your privacy.
-*   [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
-*   [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
-
-## expense-tracker
-
-*   [monetr/monetr](https://github.com/monetr/monetr) - monetr is a budgeting application focused on planning for recurring expenses.
-
-## finance
-
-*   [monetr/monetr](https://github.com/monetr/monetr) - monetr is a budgeting application focused on planning for recurring expenses.
-*   [serversideup/financial-freedom](https://github.com/serversideup/financial-freedom) - 🔥🔥🔥 An open source alternative to Mint, YNAB, and more. Stay on budget and build wealth without sacrificing your privacy.
-*   [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
-*   [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
-*   [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
-*   [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
-*   [TA-Lib/ta-lib-python](https://github.com/TA-Lib/ta-lib-python) - Python wrapper for TA-Lib (http://ta-lib.org/).
-*   [bashtage/arch](https://github.com/bashtage/arch) - ARCH models in Python
-
-## finance-management
-
-*   [monetr/monetr](https://github.com/monetr/monetr) - monetr is a budgeting application focused on planning for recurring expenses.
-
-## financial-independence
-
-*   [monetr/monetr](https://github.com/monetr/monetr) - monetr is a budgeting application focused on planning for recurring expenses.
-*   [serversideup/financial-freedom](https://github.com/serversideup/financial-freedom) - 🔥🔥🔥 An open source alternative to Mint, YNAB, and more. Stay on budget and build wealth without sacrificing your privacy.
-
-## financial-planning
-
-*   [monetr/monetr](https://github.com/monetr/monetr) - monetr is a budgeting application focused on planning for recurring expenses.
-
-## golang
-
-*   [monetr/monetr](https://github.com/monetr/monetr) - monetr is a budgeting application focused on planning for recurring expenses.
-*   [nevalang/neva](https://github.com/nevalang/neva) - Write programs like message passing graphs and get parallelism for free. Statically typed and compiled to machine code!
-*   [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
-*   [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
-*   [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
-
-## open-finance
-
-*   [monetr/monetr](https://github.com/monetr/monetr) - monetr is a budgeting application focused on planning for recurring expenses.
-
-## plaid
-
-*   [monetr/monetr](https://github.com/monetr/monetr) - monetr is a budgeting application focused on planning for recurring expenses.
-
-## react
-
-*   [monetr/monetr](https://github.com/monetr/monetr) - monetr is a budgeting application focused on planning for recurring expenses.
-*   [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the Kanban-style project mastering tool for everyone
-*   [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
-*   [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
-*   [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
-*   [dailydotdev/apps](https://github.com/dailydotdev/apps) - daily.dev application suite
-
 ## macos-app
 
 *   [afadil/wealthfolio](https://github.com/afadil/wealthfolio) - A Beautiful Private and Secure Desktop Investment Tracking Application
@@ -1938,6 +1860,26 @@
 ## tauri-app
 
 *   [afadil/wealthfolio](https://github.com/afadil/wealthfolio) - A Beautiful Private and Secure Desktop Investment Tracking Application
+
+## budgeting
+
+*   [serversideup/financial-freedom](https://github.com/serversideup/financial-freedom) - 🔥🔥🔥 An open source alternative to Mint, YNAB, and more. Stay on budget and build wealth without sacrificing your privacy.
+*   [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
+*   [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
+
+## finance
+
+*   [serversideup/financial-freedom](https://github.com/serversideup/financial-freedom) - 🔥🔥🔥 An open source alternative to Mint, YNAB, and more. Stay on budget and build wealth without sacrificing your privacy.
+*   [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
+*   [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
+*   [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
+*   [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
+*   [TA-Lib/ta-lib-python](https://github.com/TA-Lib/ta-lib-python) - Python wrapper for TA-Lib (http://ta-lib.org/).
+*   [bashtage/arch](https://github.com/bashtage/arch) - ARCH models in Python
+
+## financial-independence
+
+*   [serversideup/financial-freedom](https://github.com/serversideup/financial-freedom) - 🔥🔥🔥 An open source alternative to Mint, YNAB, and more. Stay on budget and build wealth without sacrificing your privacy.
 
 ## laravel
 
@@ -2830,6 +2772,14 @@
 *   [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 *   [BaldissaraMatheus/Tasks.md](https://github.com/BaldissaraMatheus/Tasks.md) - A self-hosted, Markdown file based task management board
 
+## react
+
+*   [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the Kanban-style project mastering tool for everyone
+*   [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
+*   [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
+*   [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+*   [dailydotdev/apps](https://github.com/dailydotdev/apps) - daily.dev application suite
+
 ## real-time
 
 *   [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the Kanban-style project mastering tool for everyone
@@ -2885,6 +2835,13 @@
 ## functional-programming
 
 *   [nevalang/neva](https://github.com/nevalang/neva) - Write programs like message passing graphs and get parallelism for free. Statically typed and compiled to machine code!
+
+## golang
+
+*   [nevalang/neva](https://github.com/nevalang/neva) - Write programs like message passing graphs and get parallelism for free. Statically typed and compiled to machine code!
+*   [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
+*   [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
+*   [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 
 ## neva
 
@@ -2981,6 +2938,10 @@
 *   [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux
 
 ## accounting
+
+*   [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
+
+## budget
 
 *   [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 
