@@ -1645,7 +1645,7 @@
 ## go
 
 *   [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
-*   [nevalang/neva](https://github.com/nevalang/neva) - Write programs like message passing graphs and get parallelism for free. Statically typed and compiled to machine code!
+*   [nevalang/neva](https://github.com/nevalang/neva) - Next-Gen programming language for humans and AI. Hybrid visual/textual, parallelism by default, strict static typing, compiles to machine code and integrates with Go.
 *   [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 *   [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 
@@ -2794,82 +2794,82 @@
 
 ## compiler
 
-*   [nevalang/neva](https://github.com/nevalang/neva) - Write programs like message passing graphs and get parallelism for free. Statically typed and compiled to machine code!
+*   [nevalang/neva](https://github.com/nevalang/neva) - Next-Gen programming language for humans and AI. Hybrid visual/textual, parallelism by default, strict static typing, compiles to machine code and integrates with Go.
 
 ## concurrent-programing
 
-*   [nevalang/neva](https://github.com/nevalang/neva) - Write programs like message passing graphs and get parallelism for free. Statically typed and compiled to machine code!
+*   [nevalang/neva](https://github.com/nevalang/neva) - Next-Gen programming language for humans and AI. Hybrid visual/textual, parallelism by default, strict static typing, compiles to machine code and integrates with Go.
 
 ## dataflow-compiler
 
-*   [nevalang/neva](https://github.com/nevalang/neva) - Write programs like message passing graphs and get parallelism for free. Statically typed and compiled to machine code!
+*   [nevalang/neva](https://github.com/nevalang/neva) - Next-Gen programming language for humans and AI. Hybrid visual/textual, parallelism by default, strict static typing, compiles to machine code and integrates with Go.
 
 ## dataflow-programming
 
-*   [nevalang/neva](https://github.com/nevalang/neva) - Write programs like message passing graphs and get parallelism for free. Statically typed and compiled to machine code!
+*   [nevalang/neva](https://github.com/nevalang/neva) - Next-Gen programming language for humans and AI. Hybrid visual/textual, parallelism by default, strict static typing, compiles to machine code and integrates with Go.
 
 ## dataflow-runtime
 
-*   [nevalang/neva](https://github.com/nevalang/neva) - Write programs like message passing graphs and get parallelism for free. Statically typed and compiled to machine code!
+*   [nevalang/neva](https://github.com/nevalang/neva) - Next-Gen programming language for humans and AI. Hybrid visual/textual, parallelism by default, strict static typing, compiles to machine code and integrates with Go.
 
 ## fbp
 
-*   [nevalang/neva](https://github.com/nevalang/neva) - Write programs like message passing graphs and get parallelism for free. Statically typed and compiled to machine code!
+*   [nevalang/neva](https://github.com/nevalang/neva) - Next-Gen programming language for humans and AI. Hybrid visual/textual, parallelism by default, strict static typing, compiles to machine code and integrates with Go.
 
 ## fbp-compiler
 
-*   [nevalang/neva](https://github.com/nevalang/neva) - Write programs like message passing graphs and get parallelism for free. Statically typed and compiled to machine code!
+*   [nevalang/neva](https://github.com/nevalang/neva) - Next-Gen programming language for humans and AI. Hybrid visual/textual, parallelism by default, strict static typing, compiles to machine code and integrates with Go.
 
 ## fbp-runtime
 
-*   [nevalang/neva](https://github.com/nevalang/neva) - Write programs like message passing graphs and get parallelism for free. Statically typed and compiled to machine code!
+*   [nevalang/neva](https://github.com/nevalang/neva) - Next-Gen programming language for humans and AI. Hybrid visual/textual, parallelism by default, strict static typing, compiles to machine code and integrates with Go.
 
 ## flow-based
 
-*   [nevalang/neva](https://github.com/nevalang/neva) - Write programs like message passing graphs and get parallelism for free. Statically typed and compiled to machine code!
+*   [nevalang/neva](https://github.com/nevalang/neva) - Next-Gen programming language for humans and AI. Hybrid visual/textual, parallelism by default, strict static typing, compiles to machine code and integrates with Go.
 
 ## flow-based-programming
 
-*   [nevalang/neva](https://github.com/nevalang/neva) - Write programs like message passing graphs and get parallelism for free. Statically typed and compiled to machine code!
+*   [nevalang/neva](https://github.com/nevalang/neva) - Next-Gen programming language for humans and AI. Hybrid visual/textual, parallelism by default, strict static typing, compiles to machine code and integrates with Go.
 
 ## functional-programming
 
-*   [nevalang/neva](https://github.com/nevalang/neva) - Write programs like message passing graphs and get parallelism for free. Statically typed and compiled to machine code!
+*   [nevalang/neva](https://github.com/nevalang/neva) - Next-Gen programming language for humans and AI. Hybrid visual/textual, parallelism by default, strict static typing, compiles to machine code and integrates with Go.
 
 ## golang
 
-*   [nevalang/neva](https://github.com/nevalang/neva) - Write programs like message passing graphs and get parallelism for free. Statically typed and compiled to machine code!
+*   [nevalang/neva](https://github.com/nevalang/neva) - Next-Gen programming language for humans and AI. Hybrid visual/textual, parallelism by default, strict static typing, compiles to machine code and integrates with Go.
 *   [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 *   [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 *   [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 
 ## neva
 
-*   [nevalang/neva](https://github.com/nevalang/neva) - Write programs like message passing graphs and get parallelism for free. Statically typed and compiled to machine code!
+*   [nevalang/neva](https://github.com/nevalang/neva) - Next-Gen programming language for humans and AI. Hybrid visual/textual, parallelism by default, strict static typing, compiles to machine code and integrates with Go.
 
 ## nevalang
 
-*   [nevalang/neva](https://github.com/nevalang/neva) - Write programs like message passing graphs and get parallelism for free. Statically typed and compiled to machine code!
+*   [nevalang/neva](https://github.com/nevalang/neva) - Next-Gen programming language for humans and AI. Hybrid visual/textual, parallelism by default, strict static typing, compiles to machine code and integrates with Go.
 
 ## programming-language
 
-*   [nevalang/neva](https://github.com/nevalang/neva) - Write programs like message passing graphs and get parallelism for free. Statically typed and compiled to machine code!
+*   [nevalang/neva](https://github.com/nevalang/neva) - Next-Gen programming language for humans and AI. Hybrid visual/textual, parallelism by default, strict static typing, compiles to machine code and integrates with Go.
 
 ## reactive-programming
 
-*   [nevalang/neva](https://github.com/nevalang/neva) - Write programs like message passing graphs and get parallelism for free. Statically typed and compiled to machine code!
+*   [nevalang/neva](https://github.com/nevalang/neva) - Next-Gen programming language for humans and AI. Hybrid visual/textual, parallelism by default, strict static typing, compiles to machine code and integrates with Go.
 
 ## visual-programming
 
-*   [nevalang/neva](https://github.com/nevalang/neva) - Write programs like message passing graphs and get parallelism for free. Statically typed and compiled to machine code!
+*   [nevalang/neva](https://github.com/nevalang/neva) - Next-Gen programming language for humans and AI. Hybrid visual/textual, parallelism by default, strict static typing, compiles to machine code and integrates with Go.
 
 ## visual-programming-editor
 
-*   [nevalang/neva](https://github.com/nevalang/neva) - Write programs like message passing graphs and get parallelism for free. Statically typed and compiled to machine code!
+*   [nevalang/neva](https://github.com/nevalang/neva) - Next-Gen programming language for humans and AI. Hybrid visual/textual, parallelism by default, strict static typing, compiles to machine code and integrates with Go.
 
 ## visual-programming-language
 
-*   [nevalang/neva](https://github.com/nevalang/neva) - Write programs like message passing graphs and get parallelism for free. Statically typed and compiled to machine code!
+*   [nevalang/neva](https://github.com/nevalang/neva) - Next-Gen programming language for humans and AI. Hybrid visual/textual, parallelism by default, strict static typing, compiles to machine code and integrates with Go.
 
 ## cookbook
 
@@ -4999,7 +4999,7 @@
 *   [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 *   [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
 *   [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
-*   [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+*   [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 ## courses
 
@@ -6214,71 +6214,71 @@
 
 ## angular-roadmap
 
-*   [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+*   [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 ## backend-roadmap
 
-*   [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+*   [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 ## blockchain-roadmap
 
-*   [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+*   [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 ## dba-roadmap
 
-*   [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+*   [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 ## developer-roadmap
 
-*   [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+*   [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 ## devops-roadmap
 
-*   [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+*   [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 ## frontend-roadmap
 
-*   [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+*   [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 ## go-roadmap
 
-*   [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+*   [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 ## java-roadmap
 
-*   [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+*   [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 ## javascript-roadmap
 
-*   [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+*   [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 ## nodejs-roadmap
 
-*   [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+*   [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 ## python-roadmap
 
-*   [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+*   [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 ## qa-roadmap
 
-*   [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+*   [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 ## react-roadmap
 
-*   [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+*   [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 ## roadmap
 
-*   [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+*   [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 ## software-architect-roadmap
 
-*   [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+*   [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 ## vue-roadmap
 
-*   [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+*   [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 ## algorithm-interview
 
