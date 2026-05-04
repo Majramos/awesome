@@ -119,7 +119,7 @@
 *   [agiliq/django-admin-cookbook](https://github.com/agiliq/django-admin-cookbook) -
 *   [jazzband/django-analytical](https://github.com/jazzband/django-analytical) - Analytics services for Django projects
 *   [joke2k/django-environ](https://github.com/joke2k/django-environ) - Django-environ allows you to utilize 12factor inspired environment variables to configure your Django application.
-*   [jazzband/django-polymorphic](https://github.com/jazzband/django-polymorphic) - Improved Django model inheritance with automatic downcasting
+*   [django-commons/django-polymorphic](https://github.com/django-commons/django-polymorphic) - Improved Django model inheritance with automatic downcasting
 *   [gintas/django-picklefield](https://github.com/gintas/django-picklefield) - A pickled object field for Django
 *   [django-commons/django-debug-toolbar](https://github.com/django-commons/django-debug-toolbar) - A configurable set of panels that display various debug information about the current request/response.
 *   [py-pdf/fpdf2](https://github.com/py-pdf/fpdf2) - Simple PDF generation for Python
