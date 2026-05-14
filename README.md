@@ -6,7 +6,6 @@
 
 *   [Go](#go)
 *   [Python](#python)
-*   [miscellaneous](#miscellaneous)
 *   [JavaScript](#javascript)
 *   [TypeScript](#typescript)
 *   [C](#c)
@@ -18,6 +17,7 @@
 *   [C++](#c-1)
 *   [SCSS](#scss)
 *   [G-code](#g-code)
+*   [miscellaneous](#miscellaneous)
 *   [HTML](#html)
 *   [Svelte](#svelte)
 *   [Ruby](#ruby)
@@ -177,31 +177,6 @@
 *   [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
 *   [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 
-## miscellaneous
-
-*   [TrousersRippin/Podman-Quadlet](https://github.com/TrousersRippin/Podman-Quadlet) - This repository contains my personal collection of podman-quadlet files to run in rootless mode.
-*   [kata0510/Lily58](https://github.com/kata0510/Lily58) - 6×4+4keys column-staggered split keyboard.
-*   [splitkb/kyria](https://github.com/splitkb/kyria) - Files related to the Kyria keyboard.
-*   [diimdeep/awesome-split-keyboards](https://github.com/diimdeep/awesome-split-keyboards) - A collection of ergonomic split keyboards ⌨
-*   [semver/semver](https://github.com/semver/semver) - Semantic Versioning Specification
-*   [geoarrow/geoarrow](https://github.com/geoarrow/geoarrow) - Specification for storing geospatial data in Apache Arrow
-*   [readeck/readeck](https://github.com/readeck/readeck) -
-*   [luisaveiro/docker-reverse-proxy](https://github.com/luisaveiro/docker-reverse-proxy) - Local reverse proxy for Docker containers powered by Caddy.
-*   [portainer/portainer-compose](https://github.com/portainer/portainer-compose) - Compose setup for Portainer
-*   [madmalik/mononoki](https://github.com/madmalik/mononoki) - a programming typeface
-*   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
-*   [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
-*   [searxng/searxng-docker](https://github.com/searxng/searxng-docker) -
-*   [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻
-*   [Majramos/Majramos](https://github.com/Majramos/Majramos) - Config files for my GitHub profile.
-*   [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
-*   [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
-*   [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
-*   [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-*   [NoriSte/ui-testing-best-practices](https://github.com/NoriSte/ui-testing-best-practices) - The largest UI testing best practices list (last update: March 2025)
-*   [odino/interviews](https://github.com/odino/interviews) - Random questions to ask during interviews.
-*   [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
-
 ## JavaScript
 
 *   [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
@@ -325,6 +300,30 @@
 
 *   [josefadamcik/SofleKeyboard](https://github.com/josefadamcik/SofleKeyboard) - A split keyboard based on Lily58, Crkbd and Helix keyboards
 
+## miscellaneous
+
+*   [kata0510/Lily58](https://github.com/kata0510/Lily58) - 6×4+4keys column-staggered split keyboard.
+*   [splitkb/kyria](https://github.com/splitkb/kyria) - Files related to the Kyria keyboard.
+*   [diimdeep/awesome-split-keyboards](https://github.com/diimdeep/awesome-split-keyboards) - A collection of ergonomic split keyboards ⌨
+*   [semver/semver](https://github.com/semver/semver) - Semantic Versioning Specification
+*   [geoarrow/geoarrow](https://github.com/geoarrow/geoarrow) - Specification for storing geospatial data in Apache Arrow
+*   [readeck/readeck](https://github.com/readeck/readeck) -
+*   [luisaveiro/docker-reverse-proxy](https://github.com/luisaveiro/docker-reverse-proxy) - Local reverse proxy for Docker containers powered by Caddy.
+*   [portainer/portainer-compose](https://github.com/portainer/portainer-compose) - Compose setup for Portainer
+*   [madmalik/mononoki](https://github.com/madmalik/mononoki) - a programming typeface
+*   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+*   [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
+*   [searxng/searxng-docker](https://github.com/searxng/searxng-docker) -
+*   [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻
+*   [Majramos/Majramos](https://github.com/Majramos/Majramos) - Config files for my GitHub profile.
+*   [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
+*   [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
+*   [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
+*   [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+*   [NoriSte/ui-testing-best-practices](https://github.com/NoriSte/ui-testing-best-practices) - The largest UI testing best practices list (last update: March 2025)
+*   [odino/interviews](https://github.com/odino/interviews) - Random questions to ask during interviews.
+*   [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
+
 ## HTML
 
 *   [cooervo/Algorithms-DataStructures-BigONotation](https://github.com/cooervo/Algorithms-DataStructures-BigONotation) - Big O notation cheatsheets. algorithms and data structures explanations and implementations
@@ -337,6 +336,7 @@
 *   [WestHealth/pyvis](https://github.com/WestHealth/pyvis) - Python package for creating and visualizing interactive network graphs.
 *   [sehmaschine/django-grappelli](https://github.com/sehmaschine/django-grappelli) - A jazzy skin for the Django Admin-Interface (official repository).
 *   [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 🧠 Laws, Theories, Principles and Patterns for developers and technologists.
+*   [lux-org/lux-widget](https://github.com/lux-org/lux-widget) - Jupyter Widget for Lux
 
 ## Svelte
 
