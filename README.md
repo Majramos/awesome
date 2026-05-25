@@ -126,6 +126,7 @@
 *   [lorentzenchr/model-diagnostics](https://github.com/lorentzenchr/model-diagnostics) - Tools for diagnostics and assessment of (machine learning) models
 *   [geoarrow/geoarrow-python](https://github.com/geoarrow/geoarrow-python) - Python implementation of the GeoArrow specification
 *   [rapidsai/cuxfilter](https://github.com/rapidsai/cuxfilter) - GPU accelerated cross filtering with cuDF.
+*   [rapidsai/cuml](https://github.com/rapidsai/cuml) - cuML - RAPIDS Machine Learning Library
 *   [mrmn2/PdfDing](https://github.com/mrmn2/PdfDing) - Selfhosted PDF manager, viewer and editor offering a seamless user experience on multiple devices.
 *   [Finnhub-Stock-API/finnhub-python](https://github.com/Finnhub-Stock-API/finnhub-python) - Finnhub Python API Client. Finnhub API provides institutional-grade financial data to investors, fintech startups and investment firms. We support real-time stock price, global fundamentals, global ETFs holdings and alternative data. https://finnhub.io/docs/api
 *   [scottrogowski/code2flow](https://github.com/scottrogowski/code2flow) - Pretty good call graphs for dynamic languages
@@ -283,7 +284,6 @@
 
 *   [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 *   [rapidsai/kvikio](https://github.com/rapidsai/kvikio) - KvikIO - High Performance File IO
-*   [rapidsai/cuml](https://github.com/rapidsai/cuml) - cuML - RAPIDS Machine Learning Library
 *   [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 *   [Project-OSRM/osrm-backend](https://github.com/Project-OSRM/osrm-backend) - Open Source Routing Machine - C++ backend
 *   [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
