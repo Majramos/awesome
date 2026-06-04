@@ -1040,11 +1040,11 @@
 *   [crawling](#crawling)
 *   [scraping](#scraping)
 *   [web-scraping-python](#web-scraping-python)
-*   [experiment-tracking](#experiment-tracking)
+*   [agentic-workflow](#agentic-workflow)
+*   [data-pipelines](#data-pipelines)
 *   [kedro](#kedro)
 *   [machine-learning-engineering](#machine-learning-engineering)
 *   [mlops](#mlops)
-*   [pipeline](#pipeline)
 *   [downloader](#downloader)
 *   [instagram](#instagram)
 *   [instagram-client](#instagram-client)
@@ -5901,6 +5901,7 @@
 ## agentic-ai
 
 *   [yzhao062/pyod](https://github.com/yzhao062/pyod) - A Python library for anomaly detection across tabular, time series, graph, text, and image data. 60+ detectors, benchmark-backed ADEngine orchestration, and an agentic workflow for AI agents.
+*   [kedro-org/kedro](https://github.com/kedro-org/kedro) - Kedro is a toolbox for production-ready data science. It uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable, and modular.
 
 ## anomaly-detection
 
@@ -6096,7 +6097,11 @@
 
 *   [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
 
-## experiment-tracking
+## agentic-workflow
+
+*   [kedro-org/kedro](https://github.com/kedro-org/kedro) - Kedro is a toolbox for production-ready data science. It uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable, and modular.
+
+## data-pipelines
 
 *   [kedro-org/kedro](https://github.com/kedro-org/kedro) - Kedro is a toolbox for production-ready data science. It uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable, and modular.
 
@@ -6112,10 +6117,6 @@
 
 *   [kedro-org/kedro](https://github.com/kedro-org/kedro) - Kedro is a toolbox for production-ready data science. It uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable, and modular.
 *   [pycaret/pycaret](https://github.com/pycaret/pycaret) - Open-source, low-code AutoML platform for Python. PyCaret 4.0: sklearn-native engine + React control plane.
-
-## pipeline
-
-*   [kedro-org/kedro](https://github.com/kedro-org/kedro) - Kedro is a toolbox for production-ready data science. It uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable, and modular.
 
 ## downloader
 
