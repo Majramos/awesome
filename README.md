@@ -4,10 +4,10 @@
 
 ## Table of Contents
 
+*   [Python](#python)
 *   [TypeScript](#typescript)
 *   [Go](#go)
 *   [Rust](#rust)
-*   [Python](#python)
 *   [JavaScript](#javascript)
 *   [C](#c)
 *   [Sass](#sass)
@@ -40,64 +40,10 @@
 *   [PowerShell](#powershell)
 *   [Batchfile](#batchfile)
 
-## TypeScript
-
-*   [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
-*   [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
-*   [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
-*   [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
-*   [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - An open source personal productivity platform built on Markdown, turbo charged with the scripting power of Lua
-*   [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced \[ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
-*   [pheralb/svgl](https://github.com/pheralb/svgl) - 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.
-*   [lewish/asciiflow](https://github.com/lewish/asciiflow) - ASCIIFlow
-*   [nikeee/edotor.net](https://github.com/nikeee/edotor.net) - Your favourite Graphviz editor.
-*   [Hopding/pdf-lib](https://github.com/Hopding/pdf-lib) - Create and modify PDF documents in any JavaScript environment
-*   [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
-*   [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
-*   [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
-*   [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
-*   [badgen/badgen.net](https://github.com/badgen/badgen.net) - Fast badge service
-*   [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
-*   [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
-*   [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
-*   [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
-*   [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
-*   [dailydotdev/apps](https://github.com/dailydotdev/apps) - daily.dev application suite
-*   [dailydotdev/daily-api](https://github.com/dailydotdev/daily-api) -
-*   [krassowski/jupyterlab-lsp](https://github.com/krassowski/jupyterlab-lsp) - Coding assistance for JupyterLab (code navigation + hover suggestions + linters + autocompletion + rename) using Language Server Protocol
-*   [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
-*   [jupyter-lsp/jupyterlab-lsp](https://github.com/jupyter-lsp/jupyterlab-lsp) - Coding assistance for JupyterLab (code navigation + hover suggestions + linters + autocompletion + rename) using Language Server Protocol
-*   [bokeh/bokeh](https://github.com/bokeh/bokeh) - Interactive Data Visualization in the browser, from  Python
-*   [jtpio/jupyterlab-system-monitor](https://github.com/jtpio/jupyterlab-system-monitor) - JupyterLab extension to display system metrics
-*   [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-*   [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers
-
-## Go
-
-*   [prometheus/alertmanager](https://github.com/prometheus/alertmanager) - Prometheus Alertmanager
-*   [prometheus/node\_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics
-*   [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
-*   [podman-container-tools/buildah](https://github.com/podman-container-tools/buildah) - A tool that facilitates building OCI images.
-*   [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
-*   [monetr/monetr](https://github.com/monetr/monetr) - monetr is a budgeting application focused on planning for recurring expenses.
-*   [nevalang/neva](https://github.com/nevalang/neva) - Next-Gen programming language for humans and AI. Hybrid visual/textual, parallelism by default, strict static typing, compiles to machine code and integrates with Go.
-*   [podman-container-tools/podman](https://github.com/podman-container-tools/podman) - Podman: A tool for managing OCI containers and pods.
-*   [opencontainers/image-spec](https://github.com/opencontainers/image-spec) - OCI Image Format
-*   [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
-*   [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
-
-## Rust
-
-*   [containers/podlet](https://github.com/containers/podlet) - Generate Podman Quadlet files from a Podman command, compose file, or existing object
-*   [jpbruinsslot/rust-by-example](https://github.com/jpbruinsslot/rust-by-example) - 🦀 code examples for https://rustbyexample.io
-*   [wealthfolio/wealthfolio](https://github.com/wealthfolio/wealthfolio) - A beautiful, private, local-first personal finance tracker. Investments, net worth, spending, and simulations.
-*   [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
-*   [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
-*   [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
-*   [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
-
 ## Python
 
+*   [astral-sh/ruff-pre-commit](https://github.com/astral-sh/ruff-pre-commit) - A pre-commit hook for Ruff.
+*   [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) - Create committing rules for projects :rocket: auto bump versions :arrow\_up: and auto changelog generation :open\_file\_folder:
 *   [arpanghosh8453/garmin-grafana](https://github.com/arpanghosh8453/garmin-grafana) - A Dockerized python Script to fetch Garmin health data and populate that in a InfluxDB Database, for visualization long term health trends with Grafana
 *   [home-assistant/core](https://github.com/home-assistant/core) - :house\_with\_garden: Open source home automation that puts local control and privacy first.
 *   [jorgeorpinel/site-page-size-scraper](https://github.com/jorgeorpinel/site-page-size-scraper) - Selenium + Headless Chrome scraper that calculates actual full web page sizes (including dynamic content).
@@ -217,8 +163,62 @@
 *   [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 *   [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 *   [pallets-eco/flask-admin](https://github.com/pallets-eco/flask-admin) - Simple and extensible administrative interface framework for Flask
-*   [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
-*   [pycaret/pycaret](https://github.com/pycaret/pycaret) - Open-source, low-code AutoML platform for Python. PyCaret 4.0: sklearn-native engine + React control plane.
+
+## TypeScript
+
+*   [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
+*   [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
+*   [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
+*   [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
+*   [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - An open source personal productivity platform built on Markdown, turbo charged with the scripting power of Lua
+*   [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced \[ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
+*   [pheralb/svgl](https://github.com/pheralb/svgl) - 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.
+*   [lewish/asciiflow](https://github.com/lewish/asciiflow) - ASCIIFlow
+*   [nikeee/edotor.net](https://github.com/nikeee/edotor.net) - Your favourite Graphviz editor.
+*   [Hopding/pdf-lib](https://github.com/Hopding/pdf-lib) - Create and modify PDF documents in any JavaScript environment
+*   [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
+*   [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
+*   [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
+*   [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
+*   [badgen/badgen.net](https://github.com/badgen/badgen.net) - Fast badge service
+*   [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
+*   [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
+*   [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
+*   [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
+*   [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
+*   [dailydotdev/apps](https://github.com/dailydotdev/apps) - daily.dev application suite
+*   [dailydotdev/daily-api](https://github.com/dailydotdev/daily-api) -
+*   [krassowski/jupyterlab-lsp](https://github.com/krassowski/jupyterlab-lsp) - Coding assistance for JupyterLab (code navigation + hover suggestions + linters + autocompletion + rename) using Language Server Protocol
+*   [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
+*   [jupyter-lsp/jupyterlab-lsp](https://github.com/jupyter-lsp/jupyterlab-lsp) - Coding assistance for JupyterLab (code navigation + hover suggestions + linters + autocompletion + rename) using Language Server Protocol
+*   [bokeh/bokeh](https://github.com/bokeh/bokeh) - Interactive Data Visualization in the browser, from  Python
+*   [jtpio/jupyterlab-system-monitor](https://github.com/jtpio/jupyterlab-system-monitor) - JupyterLab extension to display system metrics
+*   [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+*   [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers
+
+## Go
+
+*   [prometheus/alertmanager](https://github.com/prometheus/alertmanager) - Prometheus Alertmanager
+*   [prometheus/node\_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics
+*   [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
+*   [podman-container-tools/buildah](https://github.com/podman-container-tools/buildah) - A tool that facilitates building OCI images.
+*   [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
+*   [monetr/monetr](https://github.com/monetr/monetr) - monetr is a budgeting application focused on planning for recurring expenses.
+*   [nevalang/neva](https://github.com/nevalang/neva) - Next-Gen programming language for humans and AI. Hybrid visual/textual, parallelism by default, strict static typing, compiles to machine code and integrates with Go.
+*   [podman-container-tools/podman](https://github.com/podman-container-tools/podman) - Podman: A tool for managing OCI containers and pods.
+*   [opencontainers/image-spec](https://github.com/opencontainers/image-spec) - OCI Image Format
+*   [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
+*   [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
+
+## Rust
+
+*   [containers/podlet](https://github.com/containers/podlet) - Generate Podman Quadlet files from a Podman command, compose file, or existing object
+*   [jpbruinsslot/rust-by-example](https://github.com/jpbruinsslot/rust-by-example) - 🦀 code examples for https://rustbyexample.io
+*   [wealthfolio/wealthfolio](https://github.com/wealthfolio/wealthfolio) - A beautiful, private, local-first personal finance tracker. Investments, net worth, spending, and simulations.
+*   [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+*   [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
+*   [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
+*   [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 
 ## JavaScript
 
