@@ -128,7 +128,7 @@
 *   [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
 *   [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 *   [docker/docker-py](https://github.com/docker/docker-py) - A Python library for the Docker Engine API
-*   [yzhao062/pyod](https://github.com/yzhao062/pyod) - A Python library for anomaly detection across tabular, time series, graph, text, and image data. 60+ detectors, benchmark-backed ADEngine orchestration, and an agentic workflow for AI agents.
+*   [yzhao062/pyod](https://github.com/yzhao062/pyod) - A Python library for anomaly detection across tabular, time series, graph, text, image, and audio data. 60+ detectors, benchmark-backed ADEngine orchestration, and an agentic workflow for AI agents.
 *   [spotify/luigi](https://github.com/spotify/luigi) - Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
 *   [sebp/scikit-survival](https://github.com/sebp/scikit-survival) - Survival analysis built on top of scikit-learn
 *   [CamDavidsonPilon/lifelines](https://github.com/CamDavidsonPilon/lifelines) - Survival analysis in Python
@@ -176,7 +176,6 @@
 *   [lewish/asciiflow](https://github.com/lewish/asciiflow) - ASCIIFlow
 *   [nikeee/edotor.net](https://github.com/nikeee/edotor.net) - Your favourite Graphviz editor.
 *   [Hopding/pdf-lib](https://github.com/Hopding/pdf-lib) - Create and modify PDF documents in any JavaScript environment
-*   [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 *   [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 *   [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
 *   [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
@@ -385,6 +384,7 @@
 ## Java
 
 *   [apache/pdfbox](https://github.com/apache/pdfbox) - Mirror of Apache PDFBox
+*   [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 *   [dremio-hub/arrow-flight-client-examples](https://github.com/dremio-hub/arrow-flight-client-examples) -
 
 ## C\#
