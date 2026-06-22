@@ -4,6 +4,8 @@
 
 ## Table of Contents
 
+*   [Shell](#shell)
+*   [Zig](#zig)
 *   [Python](#python)
 *   [TypeScript](#typescript)
 *   [Go](#go)
@@ -30,7 +32,6 @@
 *   [Dart](#dart)
 *   [Java](#java)
 *   [C#](#c-2)
-*   [Shell](#shell)
 *   [Lua](#lua)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Dockerfile](#dockerfile)
@@ -39,6 +40,19 @@
 *   [Markdown](#markdown)
 *   [PowerShell](#powershell)
 *   [Batchfile](#batchfile)
+
+## Shell
+
+*   [Majramos/selfhosted-labs](https://github.com/Majramos/selfhosted-labs) - Testing self hosted apps. Mirror from: https://gitlab.com/majramos/selfhosted-labs
+*   [Majramos/py-jupyter-devenv](https://github.com/Majramos/py-jupyter-devenv) - Setup a python development environment using containers, with jupyter lab included
+*   [metal3d/bashsimplecurses](https://github.com/metal3d/bashsimplecurses) - A simple curses library made in bash to draw terminal interfaces
+*   [linrunner/TLP](https://github.com/linrunner/TLP) - TLP - Optimize Linux Laptop Battery Life
+*   [vinceliuice/Tela-icon-theme](https://github.com/vinceliuice/Tela-icon-theme) - A flat colorful Design icon theme
+*   [holoviz/holoviz](https://github.com/holoviz/holoviz) - High-level tools to simplify visualization in Python.
+
+## Zig
+
+*   [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 
 ## Python
 
@@ -161,8 +175,6 @@
 *   [bashtage/arch](https://github.com/bashtage/arch) - ARCH models in Python
 *   [unit8co/darts](https://github.com/unit8co/darts) - A python library for user-friendly forecasting and anomaly detection on time series.
 *   [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
-*   [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
-*   [pallets-eco/flask-admin](https://github.com/pallets-eco/flask-admin) - Simple and extensible administrative interface framework for Flask
 
 ## TypeScript
 
@@ -393,14 +405,6 @@
 *   [Radarr/Radarr](https://github.com/Radarr/Radarr) - Movie organizer/manager for usenet and torrent users.
 *   [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) - Smart PVR for newsgroup and bittorrent users.
 *   [builtbybel/ThisIsWin11](https://github.com/builtbybel/ThisIsWin11) - The real PowerToys for Windows 11
-
-## Shell
-
-*   [Majramos/py-jupyter-devenv](https://github.com/Majramos/py-jupyter-devenv) - Setup a python development environment using containers, with jupyter lab included
-*   [metal3d/bashsimplecurses](https://github.com/metal3d/bashsimplecurses) - A simple curses library made in bash to draw terminal interfaces
-*   [linrunner/TLP](https://github.com/linrunner/TLP) - TLP - Optimize Linux Laptop Battery Life
-*   [vinceliuice/Tela-icon-theme](https://github.com/vinceliuice/Tela-icon-theme) - A flat colorful Design icon theme
-*   [holoviz/holoviz](https://github.com/holoviz/holoviz) - High-level tools to simplify visualization in Python.
 
 ## Lua
 
